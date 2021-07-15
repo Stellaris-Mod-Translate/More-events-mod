@@ -1,8 +1,0 @@
-﻿l_english:
-
-mem_star_colors_category:0 "특이한 색"
-mem_star_colors_category_desc:0 "항성을 관찰하던 도중 외곽의 광구에서 특이한 색의 섬광이 관측되었습니다. 섬광의 스펙트럼을 분석한 결과 이런 종류의 항성에서 발견되는 일반적인 스펙트럼들과 일치하지 않습니다."
-mem_star_colors.1.name:0 "다른 세계의 색"
-mem_star_colors.1.desc:0 "§Y[From.GetName]§!의 광구를 지속적으로 관찰하여, 마침내 광구 내에서 다른 차원으로 연결된 여러개의 초소형 웜홀을 발견했습니다. 웜홀이 끝없이 생성되고 사라지는 과정을 반복하여 항성 내부에 이종 물질을 쌓게되어 특이한 스펙트럼을 통해 발산되고 있습니다."
-mem_star_colors.2.name:0 "감지기 결함"
-mem_star_colors.2.desc:0 "§Y[FromFrom.GetName]§!의 초기 관측 결과는 다시금 보이지 않습니다. 초기의 특이한 스펙트럼 관측 현상은 감지기의 결함일 것입니다."
