@@ -1,0 +1,9 @@
+﻿l_english:
+
+boiling_planet_category:0 "이상해 보이는 지질 구조"
+boiling_planet_category_desc:0 "행성 표면의 지각 활동은 시뮬레이션과 일치하지 않으며, 이런 종류의 다른 행성들과는 많은 차이점을 보이고 있습니다."
+mem_boiling.2.title:0 "실패"
+mem_boiling.2.desc:0 "많은 노력에도 불구하고, [Root.GetName] 휘하 조사원들은 [From.From.GetName]의 표면에서 어떠한 특이점도 찾지 못했습니다."
+mem_boiling.2.option:0 "실망스럽군."
+mem_boiling.1.title:0 "끓어오르는 행성"
+mem_boiling.1.desc:0 "심층 조사 결과, [From.From.GetName]은(는) 우리가 생각하던 것 만큼 "얼어붙은" 행성이 아니었습니다. 우리가 이 행성의 외부 지각이라고 생각했던 것은 사실 드넓은 바다를 뒤덮은 얇은 얼음 층에 불과했습니다. 행성 질량의 대부분은 물로 이루어져있으며, 활동적인 행성의 핵이 지열 에너지를 생성합니다. 핵 근처의 물은 끓어오르고, 표면으로 떠오르며 냉각되어 결국엔 몇 킬로미터의 두꺼운 얼음층이 됩니다."
