@@ -1,0 +1,11 @@
+﻿l_english:
+
+# Opinion modifiers
+mem_opinion_very_pleased_pilgrims:0 "황홀한 순례자"
+mem_opinion_pleased_pilgrims:0 "기쁜 순례자"
+mem_opinion_bad_hosts:0 "나쁜 소유국"
+mem_opinion_assassins:0 "암살자"
+mem_opinion_accused_of_terrorism:0 "테러 용의자"
+# Pop modifier  
+mem_strange_guests:0 "이상한 손님"
+terrorism:0 "테러"

@@ -1,0 +1,10 @@
+﻿l_english:
+
+mem_asteroid_computer_category:0 "컴퓨터 소행성"
+mem_asteroid_computer_category_desc:0 "소행성 [From.GetName]은 하나의 거대하고 복잡한 컴퓨터 시스템으로 구성되어있는 것처럼 보입니다. 분석에는 시간이 꽤 걸릴 것입니다."
+mem_asteroid_computer.11.name:0 "이해할 수 없는 기계"
+mem_asteroid_computer.11.desc:0 "말도 안되게 복잡한 이 컴퓨터는 우리 문명의 가장 위대한 지성인조차도 이해할 수 없을 정도입니다. 우리는 이 기계의 구조가 외계인 DNA의 형태로 되어있다는것을 추측할 수 있었지만, 제작자가 무엇을 위해 만들었는지 이해할 수 없었습니다."
+mem_asteroid_computer.11.a:0 "우리는 절대 모를거야..."
+mem_asteroid_computer.10.name:0 "악마의 계산기"
+mem_asteroid_computer.10.desc:0 "이 복합기계는 단일 수학 방정식의 계산에만 전념하는 것처럼 보입니다. 가장 우수한 [Root.Owner.GetSpeciesName] 중 한 명은 컴퓨터의 메모리에 나타나는 문제를 해석했으며, 이 우주가 일종의 시뮬레이션이라는 것을 밝혀냈습니다. \n\n이 복합기계의 일부는 광범위하게 손상되었고, 질문에 대한 답을 저장하던 데이터도 손상되었을 가능성이 매우 큽니다. 그 증거로는 이 시스템이 의도적으로 파괴된 것입니다. 아마도 어떤 자들은 이 기계가 발견한 결과에 대해 만족할 수 없었던것은 아닐까요? 그럼에도 불구하고 계산 능력의 상당부분은 남아 있기 때문에 이 기계를 연구도구로 사용할 수 있을 것 같습니다."
+mem_asteroid_computer.10.a:0 "우리가 시뮬레이션 게임 속에 있다고? 말도 안돼!"

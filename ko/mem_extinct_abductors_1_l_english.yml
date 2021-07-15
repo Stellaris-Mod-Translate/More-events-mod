@@ -1,0 +1,182 @@
+﻿l_english:
+
+########################
+# Extinct Abductors
+# Code by Malthus
+# Initial Anomaly Text
+mem_extinct_abductors_category:0 "고대 복합단지"
+mem_extinct_abductors_category_desc:0 "조사 중 §Y[From.GetName]§!에 있는 고대 건물의 복합 단지를 감지했습니다. 식민지화가 된 흔적은 없군요. 우리 팀은이를 더 자세히 조사하기를 원합니다."
+# Extinct Abductors Anomaly Failure
+mem_extinct_abductors.2.name:0 "고대 복합단지"
+mem_extinct_abductors.2.desc:0 "우리 조사팀은 아무 것도 발견하지 못했습니다. 이 장소에 있던 귀중한, 혹은 흥미로운 정보와 기술은 깨끗하게 제거됬습니다. 이전에 이곳에 살던 종족들은 밥 한풀 남기지 않는 청소부일게 분명합니다..."
+mem_extinct_abductors.2.a:0 "좋아"
+# Extinct Abductors Anomaly Critical Failure
+mem_extinct_abductors.3.name:0 "고귀한 희생"
+mem_extinct_abductors.3.desc:0 "§Y[From.GetName]§!의 복합단지 조사 중 연구원들이 이상한 물질로 오염되었습니다. 후에 선구자들이 이 곳에서 위험한 돌연변이 유발 물질을 실험했던 것으로 밝혀졌습니다. 조사팀의 대부분이 고통과 분노로 정신 이상에 빠지면서 끔찍한 것들로 변하기 시작했습니다. 이러한 돌연변이는 승무원들 사이에 산불처럼 퍼졌으며 상황이 통제 불능 상태에 이르자, 탑승한 수석 과학자 §Y[Root.GetLeaderName]§!는 거의 남지 않은 이성을 가지고 복합단지로 FTL을 시도했습니다. 그의 고귀한 희생은 복합단지를 포함한 §Y[From.GetName]§!의 큰 부분을 파괴하여 제국의 위협을 제거했습니다."
+mem_extinct_abductors.3.a:0 "용감한 그녀를 기리겠다."
+mem_extinct_abductors.47.desc:0 "If you see this event, something went wrong. It does nothing, but please report the bug to the More Events Mod team"
+# Uplifting Race Line
+mem_ea_uplifter.100.name:0 "A Lonely Outpost"
+mem_ea_uplifter.100.desc:0 "Our survey team just fininished its preliminary exploration of the lone complex on §Y[From.GetName]§!. Unfortunately structural damage prevented them from obtaining any useful information so far. Heavy equipment will be required in order to clear a path through the collapsed sections."
+mem_ea_uplifter.100.a:0 "Understood."
+# Excavation site
+# initial text
+mem_ea_uplifter_digsite_1:0 "A Lonely Outpost"
+mem_ea_uplifter_digsite_1_desc:0 "The complex found on §Y[From.Planet.GetName]§! has clearly been subject to orbital bombardment yet its structure remains largely intact. That said, the interior is in bad shape. Collapsed rooms and debris-filled hallways blocked our team's initial investigation. Heavy equipment is required in order to clear and secure a path leading further into the ruin."
+# stage 1
+mem_ea_uplifter.102.name:0 "Where did they go?"
+mem_ea_uplifter.102.desc:0 "Struggling to navigate through the labyrinth of blocked hallways and half collapsed rooms the excavation team finally reached a section less deteriorated than the previous one. The accessable area gives the impression of a purely civilian living area. So far however, no sign of any clues as to the whereabouts of the original inhabitants has been found.\n\nThe center of the complex houses an enormous elevator shaft reaching far beneath. [Root.GetLeaderName] hopes to find answers down there and prepares to push deeper into the unknown."
+mem_ea_uplifter.102.a:0 "Keep on going."
+# stage 2
+mem_ea_uplifter.103.name:0 "A Startling Find"
+mem_ea_uplifter.103.desc:0 "Deep below the surface our excavation team stands inside a big hall surrounded by thousands of cryopods occupied by the remains of various species lying there for millennia. This isn't everything however...\n\nAt first [Root.GetLeaderName] thought it to be a malfunction in [Root.leader.GetHisHer] scanner. After multiple repetitions and exchanging the instrument yielding the same result we are now faced with even more questions: Why are some of the deceased of §Y[Root.Owner.GetSpeciesAdj]§! origin and how did they end up here?!"
+mem_ea_uplifter.103.a:0 "How is this possible?"
+# stage 3
+mem_ea_uplifter.104.name:0 "Frozen Past"
+mem_ea_uplifter.104.desc:0 "Our scientists have identified at least five species, besides our own, inside the cryopods. The most common one -- a bipedal species of small stature -- is regarded as the builder of this place by our team. The fact that they all lie in the same room raises questions. Were they all in this place out of free will?\n\nFrom what our scientists could reconstruct of the central computer's data memory, the answer seems to be "yes". Our fragmentary information indicates a possibility of this being an enormous uplifting project that was being pursued by this place's owners. They also found the coordinates of the other four species' home planets. We should investigate them while another team stays behind to investigate the remains of the data storage."
+mem_ea_uplifter.104.a:0 "Very interesting."
+# Extinct Abductors Anomaly Success
+mem_ea_uplifter.1.name:0 "깜짝 놀랄만한 발견"
+mem_ea_uplifter.1.desc:0 "§Y[From.GetName]§!에서 발견된 복합단지는 궤도 폭격의 대상이 되었지만 대부분 손상되지 않았습니다. 우리 팀은 막힌 복도와 반 붕괴된 객실의 미로를 돌파하려고 애를 썼습니다. 그들의 노력은 지하 3층에 위치한 커다란 홀에 있는 다양한 종의 유적을 발견함으로서 보상받았습니다. 가득 채워진 수천 개의 절지 동물의 표본이 존재하였으며, 심지어 이 표본 중 일부는 §Y[Root.Owner.GetSpeciesAdj]§!의 조상입니다."
+mem_ea_uplifter.1.a:0 "그게 가능하단 말인가?"
+# Extinct Abductors Outpost Investigation Project
+MEM_EA_UPLIFTER_INVESTIGATION:0 "저온 챔버"
+MEM_EA_UPLIFTER_INVESTIGATION_DESC:0 "우리 과학자들은 §Y[From.GetName]§!에 있는 저온 챔버를 더 자세히 조사하기를 원합니다.."
+# Extinct Abductors Outpost Investigation Project Completed #TODO: Test location
+mem_ea_uplifter.2.name:0 "냉동된 표본"
+mem_ea_uplifter.2.desc:0 "우리 과학자들은 §Y[From.From.GetName]§!의 cryopods 내부에 우리 종족 외에도 수많은 종족을 확인했습니다. 그 표본 중 가장 흔한 표본인 작은 두 발 쌍둥이 종족은 이 장소의 건축자로 간주됩니다. 하지만 그들 모두가 같은 방에 있다는 것은 약간 이상합니다. 여기 있는 모든 종족들이 자유의지를 가지고 있었다고요? \n\n 우리 과학자들이 중앙 컴퓨터의 데이터 메모리를 재구성하자, 그 대답은 "예"인 것으로 보입니다. 우리의 단편적인 정보는 이것이 이곳의 소유주가 추구하는 커다란 프로젝트라는 가능성을 나타냅니다. 그들은 또한 다른 네 종의 행성의 좌표를 발견했습니다. 이것을 빨리 조사해야합니다."
+mem_ea_uplifter.2.a:0 "아주 흥미로워."
+# Uplifter Event Chain
+mem_ea_uplifter_chain_title:0 "죽음의 기원"
+mem_ea_uplifter_chain_desc:0 "저온 챔버에서 발견된 다른 종의 기원에 대해 자세히 알아보십시오."
+mem_ea_uplifter_worlds_visited:0 "기원을 조사해라"
+# Points of Interest for Event Chain
+mem_ea_uplifter_system_1:0 "첫번째 성계"
+mem_ea_uplifter_system_1_desc:0 "저온 챔버의 데이터를 참조했을때, [mem_ea_uplifter_system_1.GetName]는 저온챔버가 유지하고 있던 종족 중 하나가 발생한 행성 일 수 있음을 나타냅니다."
+mem_ea_uplifter_system_2:0 "두번째 성계"
+mem_ea_uplifter_system_2_desc:0 "저온 챔버의 데이터를 참조했을때, [mem_ea_uplifter_system_2.GetName]는 저온챔버가 유지하고 있던 종족 중 하나가 발생한 행성 일 수 있음을 나타냅니다."
+mem_ea_uplifter_system_3:0 "3rd System Coordinates"
+mem_ea_uplifter_system_3_desc:0 "저온 챔버의 데이터를 참조했을때, [mem_ea_uplifter_system_3.GetName]는 저온챔버가 유지하고 있던 종족 중 하나가 발생한 행성 일 수 있음을 나타냅니다."
+mem_ea_uplifter_system_4:0 "4th System Coordinates"
+mem_ea_uplifter_system_4_desc:0 "저온 챔버의 데이터를 참조했을때, [mem_ea_uplifter_system_4.GetName]는 저온챔버가 유지하고 있던 종족 중 하나가 발생한 행성 일 수 있음을 나타냅니다."
+# Arriving in the 4 Systems and Getting the Coordinates of the Planet and Project
+# Toxic World (Project 1)
+mem_ea_uplifter.3.name:0 "첫번째 성계 도착"
+mem_ea_uplifter.3.desc:0 "우리는 고대 복합단지의 데이터에서 발견된 첫 번째 성계에 도달했습니다. 이 항성계는 독성 가스의 두꺼운 층 덮힌 행성을 가지고 있군요. 우리의 과학 팀은 조사 작업을 즉시 시작할 준비가되어 있습니다."
+mem_ea_uplifter.3.a:0 "시행해라."
+# Molten World (Project 2)
+mem_ea_uplifter.4.name:0 "두번째 성계 도착"
+mem_ea_uplifter.4.desc:0 "우리 우주선은 고대 복합단지의 데이터 저장 장치에서 발견된 좌표에 막 도착했습니다. 함선 센서는 즉시 성계 전체에 흩어져있는 여러 적대적인 신호를 포착했습니다. 우리가 목적지에 도착하기를 원한다면 싸울 준비를 해야합니다."
+mem_ea_uplifter.4.a:0 "우리는 싸울 것이다."
+# Frozen World (Project 3)
+mem_ea_uplifter.5.name:0 "세번째 성계 도착"
+mem_ea_uplifter.5.desc:0 "제 3종의 행성의 성계는 우리를 킬로미터 두께의 얼음 껍질로 덮인, 얼어붙은 세계로 인도했습니다. 우리는 이 행성에 대한 조사를 시작할 준비가 되어 있습니다."
+mem_ea_uplifter.5.a:0 "양호하군."
+# Barren World (Project 4) Here Some Crystals will spawn to disturb you when doing the project
+mem_ea_uplifter.6.name:0 "네번째 성계 도착"
+mem_ea_uplifter.6.desc:0 "이 성계에 도착한 후에 인근을 잠깐 살펴보니 불모의 행성이 저온 챔버에서 발견된 네 번째 생물의 고향임을 확인할 수 있습니다. 그러나 어떤 생물도 서식하지 않고 있는 것 같습니다. 우리 과학자들은 이것을 조사해야합니다."
+mem_ea_uplifter.6.a:0 "조사해라."
+# Projects on the 4 Planets for more Information about the other Species found at the Anomaly
+MEM_EA_UPLIFTER_SYSTEM_1_INVESTIGATION:0 "독성 대기를 가지고 있는 행성"
+MEM_EA_UPLIFTER_SYSTEM_1_INVESTIGATION_DESC:0 "행성 [This.GetName]은 한때 문명의 고향이었습니다. 하지만 왜 이렇게 된걸까요?"
+MEM_EA_UPLIFTER_SYSTEM_2_INVESTIGATION:0 "녹아버린 행성"
+MEM_EA_UPLIFTER_SYSTEM_2_INVESTIGATION_DESC:0 "행성 [This.GetName]은 한때 문명의 고향이었습니다. 하지만 왜 이렇게 된걸까요?"
+MEM_EA_UPLIFTER_SYSTEM_3_INVESTIGATION:0 "얼어붙은 행성"
+MEM_EA_UPLIFTER_SYSTEM_3_INVESTIGATION_DESC:0 "행성 [This.GetName]은 한때 문명의 고향이었습니다. 하지만 왜 이렇게 된걸까요?"
+MEM_EA_UPLIFTER_SYSTEM_4_INVESTIGATION_01:0 "죽은 행성"
+MEM_EA_UPLIFTER_SYSTEM_4_INVESTIGATION_01_DESC:0 "행성 [This.GetName]은 한때 문명의 고향이었습니다. 하지만 왜 이렇게 된걸까요?"
+# A giant Space Crystal attacks shortly after the Barren World Investigation 
+mem_crystal_ship_giant_blue:0 "고대의 통치자"
+mem_crystal_ship_giant_blue_plural:0 "고대의 통치자"
+MEM_EA_UPLIFTER_SYSTEM_4_INVESTIGATION_02:0 "이상한 수정"
+MEM_EA_UPLIFTER_SYSTEM_4_INVESTIGATION_02_DESC:0 "이상한 수정은 §Y[Prev.GetName]§!의 표면 전체에서 발견되었습니다. 이것들이 문명 실종의 원인일까요?"
+# Finishing the Projects
+mem_ea_uplifter.7.name:0 "위험한 기술"
+mem_ea_uplifter.7.desc:0 "과학 팀은 §Y[mem_ea_homeworld_1.GetName]§!에 수많은 폐허를 발견했습니다. 폐허는 산업화된 문명이 들어서면서 황폐화된 문명의 이야기를 전합니다. 그들의 기술 진보는 행성의 생태계에 매우 부정적인 영향을 미쳤습니다. 적절한 대책을 찾지 못하면서, 자신들의 생존에까지 위협을 느끼게 되었습니다. 수석 과학자 §Y[Root.GetLeaderName]§! 이 행성이 이전의 상태로 다시 돌아갈 수 있는지 생각해봅니다."
+mem_ea_uplifter.7.a:0 "모든 기술은 파멸을 불러 일으킬 수 있지"
+mem_ea_uplifter.8.name:0 "불의 죽음"
+mem_ea_uplifter.8.desc:0 "§Y[mem_ea_homeworld_2.GetName]§!는 아마도 거주가능한 행성이었을 것입니다. - 하지만 하늘에서 내려 오는 산성비, 짙은 연기로 덮인 화산과 불타는 황무지만이 있을 뿐입니다. \n\n 무엇을 목적으로 만들었는지 예상할 수 없는 자동화 기계가 있습니다. 이 탐욕스러운 기계를 침묵시키려 이 성계의 풍부한 광물으로 기계를 유인했습니다. 그들은 마치 스캐빈저처럼 그 위에 내려가는군요. 이 문명에게서 배울 점은 더 없을 것 같습니다."
+mem_ea_uplifter.8.a:0 "우리에게도 일어날 수 있었을까?"
+mem_ea_uplifter.9.name:0 "우주의 영향"
+mem_ea_uplifter.9.desc:0 "§Y[mem_ea_homeworld_3.GetName]§!의 주민들은 몇 천 년 전에 이곳에서 일어난 대격변의 희생자가 되었습니다. 스캐너는 행성 얼음 아래에서 8000년 전의 흔적을 나타 냈습니다. 이 충격적인 겨울은 과도기적 상태가 아닌 영구적인 상태가 된 것 같습니다.."
+mem_ea_uplifter.9.a:0 "우리가 할 수 있는건 없구나."
+# Barren World (Project 4_01)
+mem_ea_uplifter.101.name:0 "금지된 손님"
+mem_ea_uplifter.101.desc:0 "§Y[mem_ea_homeworld_4.GetName]§!의 표면은 생명없는 황무지입니다. 이 곳에 문명이 생겨났다는 것조차 믿을 수가 없군요 \n\n 하지만 과학자들은 흥미로운 발견을했습니다. 크리스탈 수정이 있습니다. 폭과 높이가 거의 1 ~ 2 미터가 이며, 전체 행성 표면과 수십 미터의 간격을 두고 떠 있습니다. \n\n 그 중 하나의 샘플을 취하자 §Y[Root.GetName]§!의 가장자리에서 들어오는 적대적인 신호를 감지했습니다. 표면에 남아있는 모든 인원은 §Y[Root.GetName]§!의 궤도로 피난했습니다."
+mem_ea_uplifter.101.a:0 "그 생물을 다루기 위해서 과학선은 부족하군."
+# Barren World (Project 4_02) Death by Space Crystals
+mem_ea_uplifter.10.name:0 "크리스탈의 주인"
+mem_ea_uplifter.10.desc:0 "크리스탈이 왜 이 행성에 있는지는 불분명합니다. 그러나 이 수정의 결과는 분명합니다. 우리 과학 팀은 이 행성에서 번성했던 종족의 작은 흔적을 발견했습니다. 그들의 멸망은 크리스털이 처음 나타난 순간부터 필연적이었습니다. 그들의 기술은 크리스탈에 대한 방어 수단을 소유하기에는 너무 원시적이었던 것 같습니다. 이 작은 크리스탈은 생명체를 죽이고, 행성 지각을 빨아들여 이 행성을 생명없는 황무지로 만들었습니다. \n\n 거대한 결정이 파괴된 지금 우리 과학자들은 두 가지 가능한를 제안합니다. 우리는 광물을 함유하고 있는 결정체를 수확하거나 그대로 성장시키는 과정을 연구 할 수 있습니다."
+mem_ea_uplifter.10.a:0 "크리스탈을 수확해라."
+mem_ea_uplifter.10.b:0 "크리스탈을 연구하자."
+# Finishing the Event Chain
+mem_ea_uplifter.11.name:0 "궁금증"
+mem_ea_uplifter.11.desc:0 "조사를 마친 후에 우리는 복합단지의 계획에 대한 지식을 거의 얻지 못했습니다. 아직 생존해 있는 종족이 하나도 없기 때문에 더 많은 질문이 남아 있습니다. 그들은 왜 복합단지의 주인들에게 도움을 받지 못했을까요? 그들은 어디로 갔습니까?"
+mem_ea_uplifter.11.a:0 "우리는 해답을 찾을 것이다!"
+# Half a year later after your scientists worked through all the data you get the coordinates of the homesystem of the uplifter species
+mem_ea_uplifter.13.name:0 "돌파"
+mem_ea_uplifter.13.desc:0 "수많은 연구 끝에 §Y[mem_ea_start.GetName]§!의 데이터 저장소 중에서도 심하게 손상된 부분을 복원할 수있었습니다. 이전에 읽을 수 없었던 데이터에 액세스할 수 있게 되었습니다. 우리가 회복한 다양한 기록들 중에는 스스로를 오필라라고 부르던 성계의 위치도 있습니다. 그들의 제국은 어떠한 침략자와 전쟁 중이었습니다. 적보다 더 첨단 기술을 보유하고 있음에도 불구하고 그들은 그 기술을 잃어버린 것 같습니다. 이 전초 기지가 적대적인 함대에 의해 공격 당했을 때, 주민들은 냉동실을 사용하여 도움을 기다리는 것 외에 다른 선택의 여지가 없었습니다."
+mem_ea_uplifter.13.a:0 "그들은 패배했나?"
+# Points of Interest for Uplifter Homesystem
+mem_ea_uplifter_system_5:0 "오필라 성계"
+mem_ea_uplifter_system_5_desc:0 "데이터에 따르면 [mem_ea_uplifter_system_5.GetName] 성계은 Orila라고 불리는 신비한 향상 종족이 거주하던 곳입니다."
+# Entering the Uplifter Homesystem for the First Time
+mem_ea_uplifter.14.name:0 "고대의 전장"
+mem_ea_uplifter.14.desc:0 "성계에 도착한 것은 우리 과학자들이 이미 생각한 것을 다시 확인해주었습니다. 오필라는 패배했고, 그들의 성계는 함선의 파편으로 가득 찼습니다. \n\n 조사 결과, 이 성계의 행성 중 하나에서 이상한 에너지 수치를 얻습니다. 그것은 어떠한 에너지에 의해 차폐된 것으로 보입니다. 우리는 행성의 표면에서 유용한 데이터를 얻을 수 없습니다."
+mem_ea_uplifter.14.a:0 "더 가까이 가보자."
+# Uplifter Homesystem Event Chain
+mem_ea_uplifter_homesystem_chain_title:0 "오필라"
+mem_ea_uplifter_homesystem_chain_desc:0 "이 고대 종족에게 어떤 일이 일어났는지 알아내야 합니다."
+mem_ea_uplifter_homesystem_investigated:0 "뭔가 풀려나가는 느낌인데?"
+# Shielded Homeplanet Investigation
+MEM_EA_UPLIFTER_HOMESYSTEM_INVESTIGATION:0 "차폐된 공간"
+MEM_EA_UPLIFTER_HOMESYSTEM_INVESTIGATION_DESC:0 "이 곳은 고도의 에너지에 의해 둘러싸여 있습니다. 무엇을 보호하고 있을까요? 행성에 아직 살아있는 오필라가 존재할 지 모릅니다."
+# Dialogue with the AI System of the Uplifter Race
+mem_ea_uplifter.15.name:0 "라스트 오필라"
+mem_ea_uplifter.15.desc_01:0 "아 ... 오랜 시간 후 마침내... 마침내 왔습니다."
+mem_ea_uplifter.15.desc_02:0 "탐욕은 그들의 영혼을 죽이고, 증오를 부르고, 불행과 유혈로 이끌었습니다. 그들은 기술을 발전시켰지만, 스스로의 마음을 닫았습니다. 삶를 풍부하게 해주는 기계는 남겨 두었습니다. 지식은 그들을 냉소적으로 변하게 했습니다. 그들의 영리함, 그리고 불친절. 너무 많이 생각하고 너무 적게 느꼈습니다. 그들은 교제가 필요했습니다. 영리함 이상으로, 그들은 친절과 온유가 필요했습니다. 이러한 것들이 없다면 그들은 폭력적으로 변했고, 다른 사람의 삶을 위협했습니다."
+mem_ea_uplifter.15.a:0 "우리는 오필라가 개선시키려고 노력한 이종족 중 하나였습니다."
+mem_ea_uplifter.15.b:0 "넌 누구냐!"
+mem_ea_uplifter.15.b.response:0 "저는 마지막 오필라인 채플이다. 나는 우리의 발자취를 따르는 사람들에게 오필라를 대표하기 위해 선택되었다."
+mem_ea_uplifter.15.c:0 "정확하게 말해, 넌 누구냐?"
+mem_ea_uplifter.15.c.response:0 "나는 명예로운 오필라, 채플의 이미지이다. 살아있지는 않지만, 단순한 인공지능이상의 존재이다. 우리 종족의 마지막이 사라진 이래로, 이 세상에 남아있는 것을 유지하고 그 행성 장벽의 지속적인 기능을 보장하는 것이 나의 의무다. 하지만 나의 가장 중요한 임무는 너희의 도착을 기다리는 것이었지."
+mem_ea_uplifter.15.d:0 "오필라에게 무슨 일이 일어났지?"
+mem_ea_uplifter.15.d.response:0 "우리의 기술적 진보가 가능한 결과를 과소평가했다. 우리는 무모하게 결과를 추구했고, 그 결과를 알게 될 때 피해는 겉잡을 수 없이 커졌다. 지속적인 복제로 인하여 우리 종족은 무균 상태에 빠졌고 천천히, 유전자의 퇴화에 굴복했다"
+mem_ea_uplifter.15.e:0 "왜 우리를 포함한 다른 종들을 보호했지?"
+mem_ea_uplifter.15.e.response:0 "우리가 피할 수 없는 죽음에 직면했을 때, 침략으로부터 미성숙한 종들을 보호할 준비가 되어 있는 다른 문명이 없다는 것을 깨달았습니다. 그래서 우리는 그러한 종들이 발전하는 길을 도우려고 노력했습니다. 그 결과 그들은 스스로를 방어 할 수 있었고, 언젠가는 보호자라는 우리의 위치를 계승받을 수 있을것이다."
+mem_ea_uplifter.15.f:0 "당신들 제국은 어땠지?"
+# Dialogue second window for longer answer
+mem_ea_uplifter.16.name:0 "라스트 오필라"
+mem_ea_uplifter.16.desc_01:0 "우리는 제국이 없었다. 우리는 누군가를 지배하거나 정복하고 싶지 않았습니다. 우리는 가능한 모든 사람을 돕는 것이 좋다고 생각하고, 모든 지적인 삶은 서로를 도와야 된다고 본다. 우리는 서로 미워하고 경멸하고 싶지 않고, 이 우주에서 모든 사람을위한 공간이 있으며, 우리 은하가 풍부하고 모든 사람을 제공 할 수 있다고 믿는다. 하지만 몇몇은 이 길을 잃어버렸지."
+mem_ea_uplifter.16.desc_02:0 "이것은 사실입니다. 당신의 종족은 우리의 제자들 중 가장 유망한 5종족 중 하나였습니다. 불행히도 우리가 시작한 것을 끝내기 전에 우리는 점점 약해지고있는 우리를 탐내던 사람들에 의해 공격당했습니다. 우리의 기술이 그들의 기술보다 월등히 뛰어 났지만 기술은 점점 줄어들었습니다. 결국 우리는 우리의 감옥이 된 고향으로 퇴각해야했습니다. 여기에서 우리는 우리 아이들이 사라지는 것을 보아야 만했습니다. 이제 우리는 당신들에게 희망을 찾고 있습니다."
+mem_ea_uplifter.16.a:0 "길을 잃었다고요?"
+mem_ea_uplifter.16.b:0 "우리가 약한 자들을 보호하기 원하나?"
+# Dialogue third and last window with final reward
+mem_ea_uplifter.17.name:0 "라스트 오필라."
+mem_ea_uplifter.17.desc.01:0 "우리는 너희 문명의 발전을 관찰해왔습니다. 당신이 전쟁의 길을 걷는 것은 매우 실망스럽습니다. 벌써 많은 파괴와 고통이 이미 초래되었습니다. 그러나 아직도 오래 전에 본 당신의 종족에서 위대한 잠재력을 봅니다. 나는 여전히 당신이 이 잠재력을 발휘하고 인생의 보호자로서 당신의 운명을 받아 들일 것이라는 희망을 가지고 있습니다. \n\n 당신은 우리의 길을 따라갈 것입니까?"
+mem_ea_uplifter.17.desc.02:0 "우리는 너희 문명의 발전을 관찰해왔습니다. 당신이 어두운 길을 걷는 것은 매우 가슴아픈 일입니다. 두려움과 편협함은 당신을 위대하게 만들지 않고, 오직 쇠퇴를 불러올 것입니다. 그러나 아직도 오래 전에 본 당신의 종족에서 위대한 잠재력을 봅니다. 나는 여전히 당신이 이 잠재력을 발휘하고 인생의 보호자로서 당신의 운명을 받아 들일 것이라는 희망을 가지고 있습니다. \n\n 당신은 우리의 길을 따라갈 것입니까?"
+mem_ea_uplifter.17.desc.03:0 "우리는 너희 문명의 발전을 관찰해왔습니다. 당신은 지난 몇 년 동안 큰 발전을 이루었고 우리는 당신을 자랑스럽게 생각합니다. \n\n 우리를 대신 할 준비가 되셨습니까?"
+mem_ea_uplifter.17.a:0 "당신의 길을 따르겠습니다."
+mem_ea_uplifter.17.a.tooltip:0 "제국은 독특한 형태로 바뀝니다. - 고대인의 길, 유니크 civic인 '그 길'을 통해 10%의 연구 및 정부 윤리 보너스를 제공합니다. 이 civic은 영구적입니다. .\n"
+mem_ea_uplifter.17.a.response:0 "당신께 깊은 감사를 드립니다, 필요한 경우 우리의 마지막 함선을 드리겠습니다. 하지만, 우리의 기술은 드릴 수 없습니다. 기술을 잘못 손에 넣을 경우 너무 많은 고통이 초래될 수 있습니다. 이 행성은 몇시간 안에 파괴될 것입니다."
+mem_ea_uplifter.17.b:0 "우리는 우리만의 길이 있다."
+# This tooltip is also the tooltip for option c
+mem_ea_uplifter.17.b.tooltip:0 "운명을 개척하는 자들. \n\n 행복에 5 %의 보너스를 얻습니다."
+# This response is also the response for option c
+mem_ea_uplifter.17.b.response:0 "참 안된 일이지만, 나는 당신을 다른 선택으로 인도할 수 없으며 그렇게 하지도 않을 것입니다. 앞으로 마음이 바뀌기를 바라지만 시간이 부족하군요. 곧 필요한 에너지가 부족해지기 때문에 행성을 폭파해 우리의 기술유출을 막을 것입니다. 이 행성은 몇 시간 만에 파괴 될 것입니다. 아마 멀리 떨어져있는 것이 안전할 것입니다. 그럼 안녕 [Root.GetSpeciesNamePlural]."
+mem_ea_uplifter.17.c:0 "우리는 스스로를 바꾸지 않을 것이다!"
+mem_ea_uplifter.17.d:0 "이것이 우리의 운명이라면 받아 들여야합니다.."
+mem_ea_uplifter.17.d.tooltip:0 "제국 윤리가 물질주의자 / 평화주의자 / 외계인 선호주의로 바뀌면, 제국은 독특한 형태로 바뀝니다. - 고대인의 길, 유니크 civic인 '그 길'을 통해 10%의 연구 및 정부 윤리 보너스를 제공합니다. 이 civic은 영구적입니다. .\n"
+mem_ea_uplifter.17.d.response:0 "당신께 깊은 감사를 드립니다, 필요한 경우 우리의 마지막 함선을 드리겠습니다. 하지만, 우리의 기술은 드릴 수 없습니다. 기술을 잘못 손에 넣을 경우 너무 많은 고통이 초래될 수 있습니다. 이 행성은 몇시간 안에 파괴될 것입니다."
+# Happiness Modifier
+mem_ea_forging_own_destiny:0 "운명을 개척하는 자"
+mem_ea_knowledge_of_the_ancients:0 "고대인의 지식"
+# Orila Cruiser
+mem_eventship_03:0 "스트라이크 순양함"
+mem_eventship_03_plural:0 "스트라이크 순양함대"
+# The Way - Civic
+civic_mem_the_way:0 "그 길"
+civic_mem_the_way_desc:0 "이 사회는 고대 문명의 가치와 유산을 받아 들여 더 큰 대의를 추구합니다."
+# Way of the Ancients - Government
+gov_mem_way_of_the_ancients:0 "고대인의 길"
+gov_mem_way_of_the_ancients_desc:0 "이 정부는 고대 문명의 발자취를 따라 은하계 전역에 더 큰 대의를 전파합니다."
