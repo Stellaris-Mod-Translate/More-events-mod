@@ -40,7 +40,6 @@ mem_vazuran_systems.103.desc:0 "이곳에서 벌어졌던 타은하 존재의 �
 mem_vazuran_systems.103.a:0 "이런 최악의 시나리오에 대비를 해야겠군."
 # Colony Trap Event Chain
 # Colony Trap Story Line Intro
-mem_vazuran_systems.1b.desc:0 "REPLACE_ME"
 mem_vazuran_systems.1.b:0 "조사를 개시하라."
 mem_vazuran_event_system_colony_trap_chain_title:0 "폐허가 된 성계"
 mem_vazuran_event_system_colony_trap_chain_desc:0 "끔찍한 사건이 일어났던 [mem_vazuran_event_system_01.GetName] 성계를 조사합니다."

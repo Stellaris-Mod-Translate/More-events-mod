@@ -71,7 +71,6 @@ mem_ancient_robots.214.a:0 "군인들을 위한 개선식을 올려라!"
 # Defeat in Second Robot Attack:
 mem_ancient_robots.215.name:0 "심판의 날"
 mem_ancient_robots.215.desc:0 "우리 군대는 적의 아가리에 들어갔던 것이였습니다. 장군들이 함정이라는 것을 깨닫기도 전에 전투는 끝났습니다. 몰려나오는 로봇 군대가 포위하던 우리 지상군을 애워쌓았습니다. 그리고 곧이어 모든 군인들과의 통신이 끊겼습니다. 패배 이후 어떤 일이 벌어졌는지 궤도 위성으로 똑똑히 볼 수 있었습니다. §Y[FROM.FROM.GetName]§!은(는) 이제 거주 불가능합니다. 남은 것이라고는 우리의 약함을 보여주는 거대한 무덤입니다."
-mem_ancient_robots.215.a:0 "How terrible!"
 # Robot Analysis Completed:
 mem_ancient_robots.220.name:0 "고대 로봇"
 mem_ancient_robots.220.desc:0 "수 백년이 지났음에도 불구하고 이 로봇들은 과학자들이 우리의 기술력으로는 재생산 할 수 없을 정도의 설계 양식을 가지고 있습니다. 부품 하나하나가 이들의 목적을 잘 말해줍니다. 전쟁입니다. 복제할 수는 없지만, 이 발견을 통해 로봇 공학을 발전 시킬 수 있을겁니다."

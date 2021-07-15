@@ -17,7 +17,6 @@ mem_matrix.2.a:0 "그럼 됐어."
 # Matrix Anomaly Critical Failure
 mem_matrix.3.name:0 "고대 방어망"
 mem_matrix.3.desc:0 "§Y[Root.GetLeaderName]§!와(과) 탐사대가 고대 구조물에 진입하다가 미처 알아채지 못한 자동 방어 시스템을 가동시켜버렸습니다. 구조 요청 신호는 중포 사격에 묻혀버렸고, 이어 건물이 붕괴해 버렸습니다. 그 중에서 아무도 살아남지 못한 것 같습니다..."
-mem_matrix.3.a:0 "Horrible!"
 # Matrix Complex Investigation Project
 MEM_MATRIX_INVESTIGATION:0 "고대 복합 건물"
 MEM_MATRIX_INVESTIGATION_DESC:0 "과학자들이 §Y[From.GetName]§에서 발견된 인공지능 복합 건물을 연구하고자 합니다."

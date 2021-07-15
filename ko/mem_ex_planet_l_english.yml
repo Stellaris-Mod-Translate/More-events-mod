@@ -12,4 +12,3 @@ MEM_EX_PLANET_PROJECT_DESC:0 "채굴 스테이션이 부서진 행성에서 곤�
 mem_ex_planet.303.title:0 "행성 잔해"
 mem_ex_planet.303.desc:0 "우리 과학선이 [mem_ex_planet.GetName]에서 화석을 발견했습니다. 그냥 일부를 발견한 것이 아니라 전부를 발견했습니다! [mem_ex_planet.GetName]에서 살아가다가 멸종한 이 생물체는 많은 특이점을 가지고 있었고, 연구를 통해 상당한 생물학 지식을 얻을 수 있을 것입니다."
 mem_ex_planet.303.a:0 "훌륭해!"
-mem_d_ex_planet_society_deposit:0 "£society  +8\n"
