@@ -1,8 +1,45 @@
 ﻿l_english:
 
+
 #Wargames
+
+
 #By ViolentBeetle
+
+mem_wargame_observer_object: "버려진 스테이션"
+
 # Anomaly deprecated, saved for posterity
+
+
 #mem_wargame_station_category:0 "Silent Observer"
+
+
 #mem_wargame_station_category_desc:0 "An abandoned station is orbiting [This.GetName], quietly watching over the system."
+
+
 # New Content for 2.3 dig
+
+mem_wargame.1.name: "고대 전쟁터"
+mem_wargame.1.desc: "§Y[From.GetName]§! 삼성계는 정말 보기 드문 광경입니다. 생명체로 가득 찬 파편들이 흩어져 있고, 이 성계의 여러 행성들은 원시 문명을 이루고 있는 것 처럼 보입니다.\n\n우리는 고립된 행성들 중 하나를 공전하는 버려진 관측소를 감지했습니다. 아마 조용히 성계를 감시 중인 것 같습니다."
+mem_wargame.1.a: "우린 조사해야만 한다."
+MEM_WARGAME_EXPLORE_STATION: "버려진 스테이션 조사"
+MEM_WARGAME_EXPLORE_STATION_DESC: "§Y[mem_wargame_system.GetName] 성계§! 를 조사하는 도중 행성들 중 하나를 공전하는 버려진 스테이션을 발견했습니다. 성계의 과거에 관련된 흥미로운 정보를 담고 있진 않을까요?"
+mem_wargame.2.name: "전쟁 게임"
+mem_wargame.2.desc: "[mem_wargate_station_planet.GetName] 궤도를 도는 이상한 관측소에 대한 성공적인 조사 결과가 [Root.GetName]로부터 올라왔습니다. 생존 데이터 코어를 통해 이 성계는 대규모 실험 또는 단순한 오락 형태로 설정되어 있습니다.\n\n네개의 종족들은 미지의 관측자들에 의해 주어진 FTL이 불가능한 군함을 이용해 전쟁을 준비하고 있었고, 이 관측자들은 성계 외각의 안전한 은신처에서 관측하고 있었습니다. 이 실험은 네 종족이 합심해 은신처에 잠입해 모든 관측자들을 학살하며 끝이 났습니다. 굉장히 이상하게도 이 성계에 대한 보복은 커녕 어떠한 접촉도 없었고, 이에따라 함선의 기술 등을 유지할 지식이 없었던 네 종족은 다시 원시 생활로 돌아갔습니다."
+mem_wargames_station_site: "버려진 스테이션"
+mem_wargames_station_site_desc: "성계 외각의 거대한 가스 구름에 숨겨져 있는 이 버려진 스테이션은 확실히 연구가 필요합니다."
+mem_wargame.3.name: "격납고"
+mem_wargame.3.desc: "스테이션에 들어갈 진입 지점을 찾는 일은 그렇게 어렵지 않았습니다. 수송선 격납고가 활짝 열려 있었고, 공기는 다 배출되어 스테이션의 무언가도 남아있지 않습니다. 놀랍게도 화학적 탄도 무기의 충격 흔적과 에너지 무기로 인한 전격 자국이 일부 벽면에 보입니다. 공기 배출의 이유는 현재로서는 분명하지 않지만 적어도 싸움 때문은 아닙니다."
+mem_wargame.4.name: "관람실"
+mem_wargame.4.desc: "고고학자들이 [From.Planet.GetName] 궤도의 스테이션 조사에 진척을 보입니다.\n\n그들이 가장 최근에 발견한 것은 대형 스크린이 부착된 벽과 수많은 관람객을 위한 편의시설이 가득한 커다란 방입니다. 내부에는 바, 테이블, 그리고 여러 개의 좌석이 있습니다. 깨진 유리나 부서진 스크린 등 사소한 싸움의 흔적 역시 확인되었습니다."
+mem_wargame.5.name: "전쟁 게임"
+mem_wargame.5.desc: "[From.Planet.GetName] 궤도를 도는 이상한 관측소에 대한 성공적인 조사 결과가 [Leader.GetName]로부터 올라왔습니다. 남아있는 데이터 코어를 보아 이 성계는 대규모 실험 또는 단순한 오락을 위해 이용되고 있던 것으로 보입니다.\n\n네개의 종족들은 미지의 관측자들에 의해 주어진 FTL이 불가능한 군함을 이용해 전쟁을 준비하고 있었고, 이 관측자들은 성계 외각의 안전한 은신처에서 관측하고 있었습니다. 이 실험은 네 종족이 합심해 은신처에 잠입해 모든 관측자를 학살하며 끝이 났습니다. 굉장히 이상하게도 이 성계에 대한 보복은커녕 어떠한 접촉도 없었고, 이에 따라 함선의 기술 등을 유지할 지식이 없었던 네 종족은 다시 원시생활로 돌아갔습니다."
+mem_wargame.5.ega: "누군가 에어록 밖으로 튕겨나가는 순간까지 오락거리를 보듯이 희희낙락했겠지."
+mem_wargame.5.pac: "야만적인 족속들..."
+mem_wargame.5.pacphobe: "멍청한 짓에 걸맞은 멍청한 최후로군."
+mem_wargame.5.mil: "재미있는 발상이군."
+mem_wargame.5.mat: "매우 교육적이었겠어."
+mem_wargames_comprehensive_study: "심리역사학적 이해"
+mem_wargames_comprehensive_study_desc: "전쟁 게임 관측소에서 수집된 데이터는 우리가 원시 문명을 바라보는 시각에 많은 변화를 주었습니다."
+mod_station_observer_missions_upkeep_mult: "관측 기지 임무 유지비"
+mod_station_observer_missions_produces_mult: "관측 기지 임무 산출량"

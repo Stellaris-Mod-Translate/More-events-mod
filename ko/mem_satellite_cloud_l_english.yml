@@ -1,21 +1,88 @@
 ﻿l_english:
 
+
 #Base
+
+mem_satellite_cloud_category: "위성군"
+
 #Failure 1
+
+mem_satellite_cloud_category_desc: "우리 센서가 항성 §Y[Root.GetName]§! 근처에서 여러 개의 고체 구조물의 존재를 감지했습니다. 추가적인 조사가 필요합니다."
+
 #Failure 2
+
+
 #Critical Failure 1
+
+mem_satellite_cloud.201.name: "관찰 실패"
+
 #Critical Failure 2
+
+mem_satellite_cloud.201.desc: "과학자 §Y[Root.GetLeaderName]§!은(는) 항성의 코로나 내부에 인공 물체가 존재한다는 사실은 의심의 여지 없이 확실하지만, 항성의 강한 중력과 전자기적 간섭 작용 때문에 물체를 회수하는 일은커녕 관찰하는 것조차 불가능하다고 보고했습니다. 우리가 그 수수께끼의 물체들을 손에 넣을 일은 영원히 없을 것으로 보입니다."
+
 #Art Installation
+
+
 #Solarium
+
+mem_satellite_cloud.202.name: "회수 실패"
+
 #Cloud Computing
+
+mem_satellite_cloud.202.desc: "과학자 §Y[Root.GetLeaderName]§!의 초기 보고로 항성 주변에는 궤도를 도는 수백 개의 위성이 있다는 사실이 밝혀졌습니다. 하지만 §Y[Root.GetName]§!이(가) 다가가자 일종의 근접 센서가 작동했고, 위성군 전체가 기동 추진기를 켠 채 코로나 속으로 돌진했습니다. 위성들이 항성 내부의 엄청난 온도를 어떻게 견딜 수 있다고 하더라도, 이들을 회수하는 것은 이제 우리 능력 밖의 일입니다."
+
 #Observatory
+
+
 #Scrap Metal
+
+mem_satellite_cloud.301.name: "치명적인 관찰 실패"
+
 #Stellar Converter
+
+mem_satellite_cloud.301.desc: "§Y[From.GetName]§! 궤도를 도는 구조물들을 조사 중이던 우리 과학선은 항성의 코로나 근처에서 이를 회수하려고 했으나, 도중에 항성과의 거리가 너무 가까워지는 바람에 구조물이 전부 파괴되었다고 전했습니다. 우리가 그 수수께끼의 물체들을 손에 넣을 일은 영원히 없을 것으로 보입니다."
+
 #Stellar Scoop
+
+
 #Pyrovore Colony
+
+mem_satellite_cloud.302.name: "무인 드론들이 깨어나다"
+
 ## IGNORE FOR NOW ##
+
+mem_satellite_cloud.302.desc: "§Y[Root.GetName]§!(으)로부터 긴급 신호가 들어왔습니다. 과학선이 조사하던 물체들의 정체는 별의 코로나 내부에 동면 상태로 있던 무인 드론들의 무리였습니다. 우리 선박이 접근하자 재가동을 시작한 이들은 전투 태세에 들어가고 있습니다."
+
 # Translators, only one ship in the fleet has the joke name and one with with meme name. Feel free to translate them however you wish
+
+mem_satellite_cloud.retreat: "후퇴하라!"
+
 # mem_satellite_cloud.fleetname:0 "Ancient Solar Drones"
+
+
 # mem_satellite_cloud.shipname:0 "Solar Drone v2.0b"
+
+mem_satellite_cloud.1.name: ""
+
 # mem_satellite_cloud.shipnamejoke:0 "Solar Drone v4.2c"
+
+mem_satellite_cloud.1.desc: ""
+
 # mem_satellite_cloud.shipnamememe:0 "The Game"
+
+mem_satellite_cloud.2.name: ""
+mem_satellite_cloud.2.desc: ""
+mem_satellite_cloud.3.name: ""
+mem_satellite_cloud.3.desc: ""
+mem_satellite_cloud.4.name: ""
+mem_satellite_cloud.4.desc: ""
+mem_satellite_cloud.5.name: ""
+mem_satellite_cloud.5.desc: ""
+mem_satellite_cloud.6.name: ""
+mem_satellite_cloud.6.desc: ""
+mem_satellite_cloud.7.name: ""
+mem_satellite_cloud.7.desc: ""
+mem_satellite_cloud.8.name: ""
+mem_satellite_cloud.8.desc: ""
+mem_satellite_cloud.dissapointing: "실망스럽군."
+mem_satellite_cloud.useful: "유용하겠어."

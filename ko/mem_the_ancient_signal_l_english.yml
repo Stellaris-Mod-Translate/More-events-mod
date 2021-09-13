@@ -1,7 +1,39 @@
 ﻿l_english:
 
+
 # The Ancient Signal
+
+
 #Written by Matthew Betts
+
+
 #Code by Matthew Betts
+
+
 # ROOT = PLANET SCOPE
+
+
 # FROM = SHIP SCOPE
+
+mem_amazed_pops: "놀란 POP들"
+mem_the_ancient_signal_category: "알 수 없는 신호"
+mem_the_ancient_signal_desc: "우리 감지기가 행성의 밀림 지역으로부터 이상한 신호를 포착했습니다. 과학 탐사대를 보내서 이 수치들을 확인해 보는 것이 좋을 것 같습니다."
+mem_the_ancient_signal.1.name: "신기한 생물?"
+mem_the_ancient_signal.1.desc: "우리는 §Y[fauna_planet.GetName]§!의 표면을 빽빽하게 덮고 있는 흥미로운 식물군을 발견했습니다. 이들은 상당히 강한 전자파 신호를 내뿜고 있습니다. 궤도에 연구기지를 짓는다면 이 이상한 신호에 대해 더 많은 것을 알아낼 수 있을 것입니다."
+mem_the_ancient_signal.2.name: "진전 없음"
+mem_the_ancient_signal.2.desc: "과학자들은 행성 표면에서 별달리 흥미로울 만한 점을 찾지 못했습니다. 우리를 들뜨게 했던 신호는 감지기의 오작동으로 인한 것이었던 것 같습니다."
+mem_the_ancient_signal.3.name: "무슨 일이 일어나고 있는 거지?"
+mem_the_ancient_signal.3.desc: "지난 몇 달 동안 과학자 §Y[Root.GetLeaderName]§!(은)는 §Y[fauna_planet.GetName]§!에서의 임무에 대해 "다시 돌아가야 한다"라며 계속해서 주절거렸습니다. 지난 며칠간 그의 상태는 악화하였고 누군가 그 행성을 언급할 때마다 광적인 상태가 되었습니다. 또한, 자신 주위의 모든 사람과 사물에 대해 편집증적인 증세를 보였다고 합니다. 우려스러운 일이 아닐 수 없습니다."
+mem_the_ancient_signal.3.a: "우리는 그곳에 돌아가서 이렇게 된 원인이 무엇인지 파악해야 한다."
+MEM_THE_ANCIENT_SIGNAL_PROJECT: "다시 §Y[fauna_planet.GetName]§!(으)로"
+MEM_THE_ANCIENT_SIGNAL_PROJECT_DESC: "우리는 그곳에 돌아가서 이렇게 된 원인이 무엇인지 파악해야 합니다."
+mem_the_ancient_signal.4.name: "외계인의 유적?"
+mem_the_ancient_signal.4.desc_default: "울창한 밀림 아래에서 거대한 고대 도시가 발견되었습니다. 이곳에는 몇십만 년 전 이 행성을 지배했던 외계 종족이 살고 있던 것으로 보입니다. 이 도시만이 그들의 문명이 존재했다는 유일한 흔적인 듯합니다. 유적 중앙에는 39개의 뚜렷한 문양이 새겨진 재료 불명의 고리가 세워져 있고, 그중 하나는 우리 제국의 상징입니다. 이건 무엇을 의미하는 것일까요?"
+mem_the_ancient_signal.4.desc_materialist: "울창한 밀림 아래에서 거대한 고대 도시가 발견되었습니다. 이곳에는 몇십만 년 전 이 행성을 지배했던 외계 종족이 살고 있던 것으로 보입니다. 이 도시만이 그들의 문명이 존재했다는 유일한 흔적인 듯합니다. 유적 중앙에는 39개의 뚜렷한 문양이 새겨진 재료 불명의 고리가 세워져 있고, 그중 하나는 우리 제국의 상징입니다. 이건 무엇을 의미하는 것일까요?"
+mem_the_ancient_signal.4.desc_xenophobe: "울창한 밀림 아래에서 거대한 고대 도시가 발견되었습니다. 이곳에는 몇십만 년 전 이 행성을 지배했던 외계 종족이 살고 있던 것으로 보입니다. 이 도시만이 그들의 문명이나 문화가 존재했다는 유일한 흔적인 듯합니다."
+mem_the_ancient_signal.4.a: "위대한 발견이군!"
+mem_the_ancient_signal.4.b: "이 훌륭한 구조물에서 많은 것을 배울 수 있겠어."
+mem_the_ancient_signal.4.c: "더러운 외계종 놈들, 이들의 문화를 말살시켜야 한다."
+mem_the_ancient_signal.4.a.tooltip: "너무 대단한 발견이라 무엇을 말해야 할 지도 모르겠습니다..."
+mem_the_ancient_signal.4.b.tooltip: "온 제국 시민이 열광할 만한 놀라운 발견입니다! POP 행복도가 365일간 10% 증가합니다."
+mem_the_ancient_signal.4.c.tooltip: "우리 문화를 더럽힐 수도 있는 것들입니다. 적당한 가격을 매겨서 처리합니다."

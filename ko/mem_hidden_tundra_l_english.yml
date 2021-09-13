@@ -1,14 +1,20 @@
 ﻿l_english:
 
+
 #A hidden Tundra
+
+
 #Idea by Mariawr
+
+
 #Code by wtlnd
-mem_hidden_tundra_category:0 "우주에서 가장 흥미로운 황무지"
-mem_hidden_tundra_category_desc:0 "수석 과학자 §Y[Root.GetLeaderName]§!이(가) 행성 §Y[From.GetName]§!에서 뭔가 흥미로운 흔적을 발견했습니다. 좀 더 자세한 조사가 필요해 보입니다."
-mem_hidden_tundra.1.name:0 "이곳은 거주 가능한 행성이야!"
-mem_hidden_tundra.1.desc:0 "첫 정밀검사 결과와는 다르게 §Y[From.GetName]§!은(는) 사실 툰드라 행성임이 드러났습니다. 여전히 황량한 행성이기는 합니다. 딱히 큰 특징도 없고 생명체도 거의 없는 수준이나 마찬가지이나, 간단한 국소적 테라포밍 시도로 식민화가 가능할 것으로 보입니다. 어떻게 이런 행성이 존재하는지 알아보기 위해 연구 전초기지를 설립할 필요도 있습니다."
-mem_hidden_tundra.2.name:0 "우주에 널리고 널린 흥미롭지 않은 황무지"
-mem_hidden_tundra.2.desc:0 "§Y[Root.GetLeaderName]§!이(가) 처음 제시했던 가설과는 다르게 §Y[From.GetName]§!은(는) 그냥 재미도 없고 아무것도 없는 죽은 암석 행성입니다. 이런 곳 말고 좀 더 쓸모있는 곳에 연구를 투자해야 합니다."
-mem_hidden_tundra.1.fascinating:0 "환상적이군."
-mem_hidden_tundra.1.xenophobe:0 "버러지들은 항상 재생하기 마련이지."
-mem_hidden_tundra.2.fascinating:0 "환상적이군."
+
+mem_hidden_tundra_category: "우주에서 가장 흥미로운 불모지"
+mem_hidden_tundra_category_desc: "수석 과학자 §Y[Root.GetLeaderName]§!이(가) 행성 §Y[From.GetName]§!에서 뭔가 흥미로운 흔적을 발견했습니다. 좀 더 자세한 조사가 필요해 보입니다."
+mem_hidden_tundra.1.name: "이곳은 거주 가능한 행성이야!"
+mem_hidden_tundra.1.desc: "첫 정밀검사 결과와는 다르게 §Y[From.GetName]§!은(는) 사실 툰드라 행성임이 드러났습니다. 여전히 황량한 행성이기는 합니다. 딱히 큰 특징도 없고 생명체도 거의 없는 수준이나 마찬가지지만, 간단한 국소적 테라포밍 시도로 식민화가 가능할 것으로 보입니다. 어떻게 이런 행성이 존재하는지 알아보기 위해 연구 전초기지를 설립할 필요도 있습니다."
+mem_hidden_tundra.2.name: "우주에 널리고 널린 흥미롭지 않은 불모지"
+mem_hidden_tundra.2.desc: "§Y[Root.GetLeaderName]§!이(가) 처음 제시했던 가설과는 다르게 §Y[From.GetName]§!은(는) 그냥 재미도 없고 아무것도 없는 죽은 암석 행성입니다. 이런 곳 말고 좀 더 쓸모있는 곳에 연구를 투자해야 합니다."
+mem_hidden_tundra.1.fascinating: "환상적이군."
+mem_hidden_tundra.1.xenophobe: "버러지들은 항상 재생하기 마련이지."
+mem_hidden_tundra.2.fascinating: "환상적이군."

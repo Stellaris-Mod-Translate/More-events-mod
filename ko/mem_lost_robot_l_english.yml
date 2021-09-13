@@ -1,13 +1,78 @@
 ﻿l_english:
 
+
 # Initial Event
+
+mem_lost_robot.1.name: "사라진 로봇"
+
 # Retrieve the robot
+
+mem_lost_robot.1.desc: "[Root.GetName]의 위성 채굴 스테이션 관리자가 우리가 보낸 마지막 배송에서 'AL' 모델 로봇이 누락되었다고 보고했습니다.\n\n그들은 그것을 조사하여 위성에서 채광 작업를 시작할 수 있도록 보내달라고 요청합니다."
+
 # Check the cargo - Delayed
+
+mem_lost_robot.1.accept: "관리자들이 실수한게 분명해. 배송 목록을 확인해봐라."
+
 # Check the cargo - Normal
+
+mem_lost_robot.1.deny: "로봇 1대 사라진 것뿐이다. 그것 없이 진행해라."
+
 # Check the factory
+
+
 # Robot retrieved 
+
+mem_lost_robot.2.name: "사라진 로봇"
+
 # Disinto fired 
+
+mem_lost_robot.2.desc: "항공편 화물목록과 영수증을 확인한 결과 마지막 배송물에 실제로 로봇이 누락된 것으로 보입니다.\n\n여기에 두 가지 선택이 있습니다. 달에 보내는 데 사용된 우주 화물의 어딘가에 남겨졌거나, 행성을 떠나지 않고 여전히 생산한 공장 어딘가에 있습니다."
+
 # Robot found with broken disinto
+
+mem_lost_robot.2.cargo: "우주 화물칸을 확인해라."
+
 # Robot found with working disinto
+
+mem_lost_robot.2.factory: "공장 창고를 확인해라."
+
 # Modifier
+
+
 # Tile Blockers
+
+mem_lost_robot.10.name: "비어있는 화물칸"
+mem_lost_robot.10.desc: "아쉽게도 로봇은 화물선에 없었습니다. 설상가상으로, 다른 배송에서 화물이 반환될 때까지 기다려야 했기 때문에 검색하는 동안 상당한 시간을 잃었습니다.\n\n우리는 이제 로봇이 화물선에 적재된 적이 없다는 것을 알고 있으므로 공장을 탐색할 수 있습니다."
+mem_lost_robot.10.factory: "좋아. 공장을 찾아보자고."
+mem_lost_robot.10.abandon: "시간 낭비다. 탐색을 그만두자."
+mem_lost_robot.11.name: "비어있는 화물칸"
+mem_lost_robot.11.desc.first: "아쉽게도 로봇은 화물선에 없었습니다. 우리는 이제 로봇이 화물선에 적재된 적이 없다는 것을 알고 있으므로 공장을 탐색할 수 있습니다."
+mem_lost_robot.11.desc.second: "아쉽게도 로봇은 어느 화물칸에도 없었습니다. 최후의 수단으로 [Root.GetName]의 표면을 검색해야 할 수도 있습니다. 로봇이 어떻게든 탈출했다면 여전히 공장 주변에 있을 수 있습니다."
+mem_lost_robot.11.factory: "좋아. 공장을 찾아보자고."
+mem_lost_robot.11.planet: "알겠다. 행성을 탐색해라."
+mem_lost_robot.11.abandon: "시간 낭비다. 탐색을 그만두자."
+mem_lost_robot.20.name: "비어있는 공장"
+mem_lost_robot.20.desc.first: "[Root.GetName]에서 공장을 확인하는 데 많은 시간을 보낸 후, 로봇이 더는 거기에 존재하지 않는다는 것이 확실합니다. 우주 화물선에서 사라졌을 가능성이 있으므로 그곳을 탐색해야 합니다."
+mem_lost_robot.20.desc.second: "[Root.GetName]에서 공장을 확인하는 데 많은 시간을 보낸 후, 로봇이 더 이상 거기에 없다는 것이 확실합니다. 최후의 수단으로 [Root.GetName]의 표면을 탐색해야 할 수도 있습니다. 로봇이 어떻게든 탈출했다면 여전히 공장 주변에 있을 수 있습니다."
+mem_lost_robot.20.cargo: "알았다. 화물선을 조사해라."
+mem_lost_robot.20.planet: "좋다. 행성을 수색해라."
+mem_lost_robot.20.abandon: "자원 낭비다. 수색을 취소해."
+mem_lost_robot.30.name: "로봇 회수"
+mem_lost_robot.30.desc.cargo: "화물선을 위아래로 살펴본 끝에 화물선에서 탈출한 후 청소부 방에 갇힌 로봇을 마침내 발견했습니다. 우리는 그것을 위성에 보내기 전에 약간의 재조정을 위해 일정을 잡을 것입니다."
+mem_lost_robot.30.desc.factory: "거대한 공장을 철저히 수색한 후 우리는 로봇이 컨베이어 벨트 아래에 갇힌 것을 발견했습니다. 우리는 그것이 어떻게 여기에서 멈췄는지, 왜 그 자리를 떠났는지 모르지만, 위성에 보내기 전에 약간의 재조정을 위해 일정을 잡을 것입니다."
+mem_lost_robot.101.name: "비극"
+mem_lost_robot.101.desc: "드디어 로봇을 찾았습니다. 위성으로 보냈어야 할 화물선에 싣기도 전에 공장에서 도망친 것 같습니다. 그런 다음에 [Root.GetName]에 숨어서 달에서 만들기로 한 채굴 장비인 디신토를 만들었습니다.\n\n안타깝게도, 장비가 활성화되자 거대한 분화구를 만들어 광범위한 파괴를 일으켜서 주변 지역의 인구 대부분이 즉사했습니다. 분화구의 크기로 판단해보면 로봇은 초기 디신토의 설계를 개조하여 동력을 전달했습니다. 디신토는 활성화 후 파괴되었으며 로봇 자체는 충격파에서 살아남았지만, 그 과정에서 기억을 잃어버렸기 때문에 이 개조된 채굴 장치에 대한 계획을 검색할 수 없습니다."
+mem_lost_robot.101.a: "비극이로군."
+mem_lost_robot_101.tooltip: "거대한 분화구가 행성의 표면에 생성되어 주변의 모든 인구를 죽이고 우리 시설을 파괴했습니다."
+mem_lost_robot.102.name: "의미없는 수색"
+mem_lost_robot.102.desc.luck: "[Root.GetName]의 지역 주민들이 야생에서 홀로 있는 로봇을 발견했다고 보고했습니다. 보고에 따라 우리는 산림 개간에서 사라졌던 'AL' 모델을 발견했습니다. 그것은 완전히 정신을 잃었고 분명히 행성 표면에 큰 분화구를 만들 수 있는 디신토라는 광산 장치를 만들려고 했습니다. 다행히도 제시간에 도착하여 활성화되지 않아 재난을 피할 수 있었습니다."
+mem_lost_robot.102.desc: "광범위한 수색 끝에, 우리는 마침내 로봇을 찾았습니다. 위성보다는 행성에 디신토라는 채굴 장비를 만들려고 했던 고장 난 유닛이었습니다. 이 장치가 작동했다면 행성 표면에 큰 분화구를 만들었을 것입니다. 다행히, 그 장치는 설계자만큼 오작동했기 때문에 우리는 잠재적인 비극을 피할 수 있었습니다."
+mem_lost_robot.102.a: "재료를 수집해라."
+mem_lost_robot.103.name: "운좋은 발견"
+mem_lost_robot.103.desc.luck: "[Root.GetName]의 지역 주민들은 야생에서 홀로 있는 로봇을 발견했다고 보고했습니다. 보고에 따라 우리는 산림 개간에서 사라졌던 'AL' 모델을 발견했습니다. 우리는 또한 로봇이 만들고 있던 [Root.GetName]의 위성에 사용된 채굴 장치인 디신토도 발견했습니다.\n\n자세히 검토한 결과, 로봇은 우리가 상상할 수 없을 정도로 디신토의 설계를 개선한 것으로 보입니다. 초기 견적에 따르면 이 새로운 설계를 사용하면 광물 생산량을 크게 늘릴 수 있습니다."
+mem_lost_robot.103.desc: "우리의 광범위한 수색 끝에 마침내 로봇을 찾았습니다. 우리는 또한 로봇이 만들고 있던 [Root.GetName]의 위성에 사용된 채굴 장비인 디신토도 발견했습니다.\n\n자세히 검토한 결과, 로봇은 우리가 상상할 수 없을 정도로 디신토의 설계를 개선한 것으로 보입니다. 초기 견적에 따르면 이 새로운 설계를 사용하면 광물 생산량을 크게 늘릴 수 있습니다."
+mem_lost_robot.103.a: "정말 유용하겠군."
+mem_lost_robot_enhanced_mining: "향샹된 채굴"
+mem_lost_robot_enhanced_mining_desc: "개선된 디신토를 사용하여 광물 생산량이 증가했습니다."
+d_mem_lost_robot_crater: "디신토 분화구"
+d_mem_lost_robot_crater_desc: "디신토가 활성화된 후 거대한 분화구와 광범위한 파괴를 남겼습니다."

@@ -1,10 +1,98 @@
 ﻿l_english:
 
+
 # Rebel Yell
+
+
 # By ViolentBeetle
+
+pc_mem_broken_city: "$pc_broken$"
+
 # mem_rebel_yell.4.b: "REPLACE_ME"
+
+pc_mem_broken_city_desc: "이 행성은 한때 표면 전체가 하나의 거대한 도시였지만, 어떠한 변동으로 행성 전체가 산산조각이 났습니다. 아콜로지의 거대한 잔해들이 여전히 궤도를 돌고 있습니다."
+
 # mem_rebel_yell.poi.2.name: "REPLACE_ME"
+
+mem_rebel_yell.1.name: "망령의 성계"
+
 # mem_rebel_yell.poi.2.desc: "REPLACE_ME"
+
+mem_rebel_yell.1.desc: "보아하니 [From.GetName] 성계에 거대한 전투의 흔적이 남아있습니다. 오래전의 전투였음에도 불구하고 잔해들은 여전히 이 성계에 가득합니다. 하지만 그것이 전부가 아닌 듯합니다. [Root.GetName]의 보고에 의하면 성계에서 약한 신호가 잡혔다고 하지만, 그 근원지를 찾아내지 못했다고 합니다. 이 신호를 조사하기 위해선 강하고 정밀한 관측 장비들을 보유한 전초기지를 건설해야 합니다."
+
 #  The anomaly is now attached to Stuck in Glacier
+
+mem_rebel_yell.1.a: "수상하군..."
+
 #  mem_rebel_yell_silver_lining_category:0 "Silver Lining"
+
+mem_rebel_yell.1.a.tooltip: "신호의 발원지를 찾기 위해선 [From.GetName]에 전초기지를 건설해야 합니다."
+
 #  mem_rebel_yell_silver_lining_category_desc:0 "We are detecting the presence of a large metallic object within the asteroid ice of [This.GetName]. The profile matches the shape of a military space ship."
+
+mem_rebel_yell.1.b: "기록해두어라."
+mem_rebel_yell.1.b.tooltip: "$mem_rebel_yell.1.a.tooltip$ \n§Y관심의 대상§!이 상황 기록에 추가됩니다."
+mem_rebel_yell.poi.1.name: "[the_system.GetName] 성계"
+mem_rebel_yell.poi.1.desc: "우린 여기에 전초기지를 건설하고 유지해야 할 것입니다."
+mem_rebel_yell.2.name: "[the_system.GetName] 성계에서의 신호"
+mem_rebel_yell.2.desc: "우린 한동안 [the_system.GetName]을 관측했으며, 드디어 신호의 발원지를 [the_planet.GetPlanetMoon] [the_planet.GetName]으로 추적했습니다. 신호는 여전히 암호화된 메시지를 보내고 있으며 발원지를 조사하면 이에 대해 더 알 수 있을 것입니다."
+mem_rebel_yell.2.a: "우린 이 비밀을 밝혀내야 한다."
+mem_rebel_yell.2.b: "쓸데없는 일이다."
+mem_rebel_yell.3.name: "반란의 함성"
+mem_rebel_yell.3.desc: "[the_planet.GetName]의 조사 결과 [Root.GetName]은(는) [the_planet.GetPlanetMoon]에서 발신되는 신호를 녹화하고 번역하는 데에 성공했습니다.\n\n이 신호는 성계를 지나는 모든 "저항군 함선들"에게 전하는 군사 메시지였습니다.\n\n[Leader.GetName]의 조사에 의하면 [the_system.GetName]은(는) 저항군이 2천 년도 전에 참혹한 패배를 맛보았던 곳이며 그들은 결국 전멸했다고 합니다."
+mem_rebel_yell.4.name: "[the_system.GetName] 성계에서 웜홀 발견."
+mem_rebel_yell.4.desc: "[the_system.GetName] 성계의 신호를 분석한 결과 스캐너에 가려져 있던 웜홀을 발견할 수 있었습니다. 혹시 이것이 메시지의 좌표에 도달할 수 있는 방법일까요?"
+mem_rebel_yell.4.a: "우린 이 웜홀을 조사해야 한다."
+mem_rebel_yell.4.a.tooltip: "§Y[the_system.GetName] 성계§!에 새로운 웜홀이 생겼습니다."
+MEM_REBEL_YELL_RESOLVE_SIGNAL: "신호 해독"
+MEM_REBEL_YELL_RESOLVE_SIGNAL_DESC: "이상한 신호 하나가 §Y[the_planet.GetName]§!에서 발신된 뒤 성계 전체에 퍼뜨려져 근원지를 감추려고 노력하고 있습니다. 우린 이 발신지에 접근하여 신호를 해독해야 합니다."
+mem_rebel_yell_poi_chain_title: "망령의 성계"
+mem_rebel_yell_poi_chain_desc: "수상한 신호가 [the_system.GetName] 성계에 잔존하고 있습니다. 이곳에 전초기지를 건설하면 더 조사할 수 있을 것입니다."
+mem_rebel_yell_investigation_chain_title: "비밀 신호"
+mem_rebel_yell_investigation_chain_desc: "수상한 신호가 [the_system.GetName] 성계에 잔존하고 있습니다. 우린 이 비밀을 밝혀내야 합니다."
+mem_rebel_yell_paladin: "$battleship$"
+mem_rebel_yell_paladin_plural: "$battleship_plural$"
+shipsize_mem_rebel_yell_paladin_construction_speed_mult: " "
+shipsize_mem_rebel_yell_paladin_build_cost_mult: " "
+shipsize_mem_rebel_yell_paladin_upkeep_mult: " "
+mem_rebel_yell_knight: "요격기"
+mem_rebel_yell_knight_plural: "요격기들"
+shipsize_mem_rebel_yell_knight_construction_speed_mult: "  "
+shipsize_mem_rebel_yell_knight_build_cost_mult: " "
+shipsize_mem_rebel_yell_knight_upkeep_mult: " "
+mem_rebel_yell_paladin_section_key: " "
+mem_rebel_yell_knight_section_key: " "
+MEM_REBEL_YELL_XL_WEAPON: "고출력 이상 입자 충돌기"
+MEM_REBEL_YELL_M_WEAPON: "이상 입자 충돌기"
+mem_rebel_yell.5.name: "마지막 재의심"
+mem_rebel_yell.5.desc: "웜홀을 벗어나자 우리는 행성 중 하나를 도는 작은 함대를 발견했습니다. 아마 반란군들은 패배 후 이곳으로 후퇴했을 것입니다.\n\n오래된 세월에도 불구하고 이 함선들과 무장은 여전히 성능을 유지하고 있습니다. 함선들 내에서 전력이 여전히 감지되고 있습니다 - 우린 조심해야 합니다."
+mem_rebel_yell.7.desc: "멈춰라! 너희들은 누구지? 어째서 내 함선에 발포하고 있지? 당장 공격을 멈춰라! 정체를 밝혀라!"
+mem_rebel_yell.7.a: "그쪽에서 먼저 발포했다. 너희들은 누구지?"
+mem_rebel_yell.8.desc: "너희들은 그들과 다르게 생겼군... 다행이군.\n\n난 [princess_species.GetName] 왕국의 [princess.GetName]이다. 나의 아버지는 은하계를 이끌고 바주란이라 불리는 종족을 상대로 절망적인 싸움을 벌였었다. 우린 패배했다. 우리 함대는 파괴되었고 우리 행성들은 하나씩 빼앗겼다.\n\n결국 우린 이 숨겨진 성계로 도망칠 수밖에 없었다. 우린 다른 생존자들도 이곳에 도착하기를 바랐지만. 아무도 오지 않았다. 물자마저 고갈되기 시작하자 우리는 AI에 함선의 관리를 맡기고 동면하기로 했지. 하지만 시간이 지나자 전력을 아끼기 위해서 가장 중요 인물들을 제외한 동면 포드들을 하나씩 작동을 멈출 수밖에 없었다. 결국 가장 높은 계급이었던 나만이 살아남았다.\n\n너희들의 공격으로 AI가 작동을 멈추었기 때문에 내가 강제로 깨워진 듯한 모양이군.\n\n이 함선의 수명은 다했고 나 또한 시간이 얼마 없다. 이 은하에 내가 돌아갈 장소는 이미 없다. 너희들이 누군지 모르겠지만 나를 구해준다면 이 함선과 내 충성을 바치겠다."
+mem_rebel_yell.8.a: "우린 그 제안을 받아들이겠다."
+mem_rebel_yell.8.b: "우린 너를 구하겠지만 함선은 버리겠다."
+mem_rebel_yell.8.c: "우린 너의 함선을 쓰겠지만 넌 필요없다."
+mem_rebel_yell.8.d: "우린 너와 그 함선 모두 필요없다."
+mem_rebel_yell.8.e: "바주란? 우리도 이들과 만난 적이 있다."
+mem_rebel_yell.8.e.response: "우리가 멸망한지 수천년이 지난 후에도 그 괴물들이 여전히 은하계를 공포에 빠뜨리고 있다니 믿기지 않는군. 하지만 아무것도 그들을 막을 수 없었으니 당연한건가."
+mem_rebel_yell_custodian_trait: "저항군 관리자"
+mem_rebel_yell_custodian_trait_desc: "이 AI는 동면 상태에 빠진 함선의 관리를 맡았습니다. Viva la resistance!"
+mem_rebel_yell_recon_custodian_trait: "저항군 정찰 관리자"
+mem_rebel_yell_recon_custodian_trait_desc: "이 AI는 승무원들이 동면하는 동안 정찰 함대의 관리를 맡았습니다. Viva la resistance!"
+mem_rebel_yell_princess_trait: "저항군 공주"
+mem_rebel_yell_princess_trait_desc: "한때 충성파를 바주란에 대항하여 이끌었던 공주."
+mem_rebel_yell.9.name: "은색 내부"
+mem_rebel_yell.9.desc: "[Root.GetName]은(는) [From.GetName]의 얼음 내에 존재하는 물체가 함선이라고 결론지었습니다. 아마 2천여 년 전에 이 행성에 착륙한 뒤 얼음에 뒤덮였을 것입니다. 함선을 회수하는 작업은 어렵지만, 우리 건설함은 이를 실행할 수 있습니다."
+mem_rebel_yell.9.a: "허락한다."
+mem_rebel_yell.10.name: "길 잃은 기사"
+mem_rebel_yell.10.desc: "[Root.GetName]의 보고에 의하면 성공적으로 [From.GetName]에서 함선을 회수했다고 합니다. 함선의 기록에 의하면 이 함선은 순찰중이었던 "은빛-기사" 요격기며 적의 눈을 피하기 위해 소행성에 숨었다고 합니다. 조종사는 동면을 선택했으며 전력이 고갈되자 사망했습니다.\n\n오랜 기간 얼음 소행성에 갇혀있었음에도 불구하고 이 함선은 여전히 기능하며 우리 함대에 추가될 수 있습니다. 비정통적인 무기들을 보유하고 있습니다."
+mem_rebel_yell.10.a: "함선을 우리 함대에 추가해라."
+mem_rebel_yell.10.a.tooltip: "군함을 하나 얻습니다."
+mem_rebel_yell.10.b: "함선을 폐기하고 부품을 회수해라."
+mem_rebel_yell.10.c: "연구를 위해 함선을 분해하라."
+MEM_REBEL_YELL_RECOVER_SHIP: "얼은 함선 회수"
+MEM_REBEL_YELL_RECOVER_SHIP_DESC: "[the_asteroid.GetName]의 두꺼운 얼음 속에서 함선이 하나 발견되었습니다. 우린 건설함에 특수 장비를 장착하여 이 함선을 회수할 수 있을 것입니다."
+mem_rebel_yell_knight_salvage_section_key: " "
+mem_rebel_yell.12.name: "침입자 발견"
+mem_rebel_yell.12.desc: "우린 [signal_system.GetName] 성계에서 적대적인 함대를 발견했습니다. 웜홀을 통과한 것으로 보입니다."
+mem_rebel_yell.12.a: "전투 준비!"

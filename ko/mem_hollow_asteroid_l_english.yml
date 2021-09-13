@@ -1,110 +1,157 @@
 ﻿l_english:
 
+
 #Hollow Asteroid Anomaly
+
+
 #Writing and idea by ViolentBeetle
+
+
 #Code by Malthus
+
+
 #Modifiers
-mem_hollow_asteroid_resort:0 "특별 보고서"
-mem_hollow_asteroid_protector:0 "인류의 수호자"
-mem_hollow_asteroid_tactics:0 "사냥 전술"
-mem_opinion_pirate_hunter:0 "해적 사냥꾼"
-mem_opinion_pirate_extradite:0 "포로 인도를 거부함"
-mem_opinion_pirate_extradite_accepted:0 "포로 인도를 수락함"
+
+mem_hollow_asteroid_resort: "특별 보고서"
+mem_hollow_asteroid_protector: "인류의 수호자"
+mem_hollow_asteroid_tactics: "사냥 전술"
+mem_opinion_pirate_hunter: "해적 사냥꾼"
+mem_opinion_pirate_extradite: "포로 인도를 거부함"
+mem_opinion_pirate_extradite_accepted: "포로 인도를 수락함"
+
 #Anomaly Category Text
-mem_hollow_asteroid_category:0 "비어있는 소행성"
-mem_hollow_asteroid_category_desc:0 "스캔에 따르면,이 소행성의 질량은 그 엄청난 크기에 비해서는 너무 작습니다. 이것은 표면 아래에 어떤 공간이 있음을 암시합니다. "
+
+mem_hollow_asteroid_category: "비어있는 소행성?"
+mem_hollow_asteroid_category_desc: "스캔에 따르면, 이 소행성의 질량은 그 엄청난 크기에 비해서는 너무 작습니다. 이것은 표면 아래에 어떤 공간이 있음을 암시합니다. "
+
 #Light Failure
-mem_hollow_asteroid.1.name:0 "빈 소행성"
-mem_hollow_asteroid.1.desc:0 "소행성은 실제로 속이 빈 것으로 판명났습니다. 사실 그것은 소행성 하나가 아니라 작은 소행성들이 얽혀서 이루어진 그룹인 것 같습니다. 비록 작은 가치를 지녔지만 호기심을 자극하는군요."
-mem_hollow_asteroid.1.a:0 "실망적이군..."
+
+mem_hollow_asteroid.1.name: "빈 소행성"
+mem_hollow_asteroid.1.desc: "소행성은 실제로 속이 비어 있는 것으로 밝혀졌습니다. 사실, 이 소행성은 하나의 소행성이 아니라 작은 소행성들이 얽히고설켜 만들어진 집단입니다. 별 가치는 없지만 기이한 구조입니다."
+mem_hollow_asteroid.1.a: "실망스럽군..."
+
 #Critical Failure
-mem_hollow_asteroid.2.name:0 "함정입니다!"
-mem_hollow_asteroid.2.desc:0 "소행성의 비어있는 공동은 어떠한 외계인 구조물를 수용한 것으로 보입니다. 하지만 우리 과학 팀이 벽을 파괴 할 때, 이 구조물은 일종의 자기 파괴 메커니즘을 발동해 우주선과 함께 소행성을 자폭시켰습니다."
-mem_hollow_asteroid.2.a:0 "끔찍하구나!"
+
+mem_hollow_asteroid.2.name: "함정입니다!"
+mem_hollow_asteroid.2.desc: "소행성의 비어있는 공동은 어떤 외계 구조물을 수용한 것으로 보입니다. 하지만 우리 연구원들이 벽을 파괴할 때, 이 구조물은 일종의 자기 파괴 메커니즘을 발동해 우주선과 함께 소행성을 자폭시켰습니다."
+mem_hollow_asteroid.2.a: "끔찍하구나!"
+
 #Success: Space Mausoleum
-mem_hollow_asteroid.10.name:0 "우주 묘지"
-mem_hollow_asteroid.10.desc:0 "과학 팀이 내부에서 길을 찾았을 때, 그들은 예기치 않은 뭔가를 발견했습니다 : 장식용 옷을 입고 있는 백 여개의 죽은 외계인 시체가 소행성의 벽을 장식하고 있습니다. 분석결과, 그들이 모두 300,000년 전에 죽었다는 것을 확인 할 수 있습니다. 이 구조물는 미확인 외계종들의 생활 방식 및 생리학에 대한 지식을 알수잇는 보고입니다."
-mem_hollow_asteroid.10.a:0 "많은 것을 배울 수 있겟군."
-mem_hollow_asteroid.10.b:0 "이 구조물을 재활용할 순 없겠나?"
-mem_hollow_asteroid.10.c:0 "신을 추구하는 집단이었군..."
-mem_hollow_asteroid.10.d:0 "그들의 장식은 환상적이구나!"
+
+mem_hollow_asteroid.10.name: "우주 묘지"
+mem_hollow_asteroid.10.desc: "연구원들이 내부에서 길을 찾았을 때, 그들은 예기치 않은 뭔가를 발견했습니다. 장식용 옷을 입고 있는 백여 개의 죽은 외계종 시체가 소행성의 벽을 장식하고 있습니다. 분석 결과, 그들이 모두 300,000년 전에 죽었다는 것을 확인할 수 있습니다. 이 구조물은 미확인 외계 종들의 생활 방식 및 생리학에 대한 지식을 알 수 있는 보고입니다."
+mem_hollow_asteroid.10.a: "많은 것을 배울 수 있겟군."
+mem_hollow_asteroid.10.b: "이 구조물을 재활용할 순 없겠나?"
+mem_hollow_asteroid.10.c: "신과 가까워지길 원했군..."
+mem_hollow_asteroid.10.d: "그들의 장식은 환상적이구나!"
+
 #Success: Space Resort
-mem_hollow_asteroid.20.name:0 "버려진 우주 관광지"
-mem_hollow_asteroid.20.desc:0 "소행성의 안쪽에는 놀라운 광경이 있습니다. 여러 캡슐이 소행성의 벽에 달라 붙어 있으며 중앙에는 여러 개의 인공 환경이 포함된 거대한 투명구가 있습니다. 이 구조물은 오랫동안 버려지고 비활성화되었습니다. 하지만 쉽게 다시 활성화 할 수 있으며 최소한의 조정만으로도 우리의 필요를 충족시킬 수 있을 것입니다."
-mem_hollow_asteroid.20.a:0 "상업용 리조트로 변환시키세요."
-mem_hollow_asteroid.20.b:0 "가능한 한 많은 시민이 이 장소를 누릴 수 있도록 하세요."
-mem_hollow_asteroid.20.c:0 "구조물을 해체하고 그 잔해를 연구해라."
+
+mem_hollow_asteroid.20.name: "버려진 우주 관광지"
+mem_hollow_asteroid.20.desc: "소행성의 안쪽에는 놀라운 광경이 있습니다. 여러 캡슐이 소행성의 벽에 달라붙어 있으며 중앙에는 여러 개의 인공 환경이 포함된 거대한 투명 구가 있습니다. 이 구조물은 오랫동안 버려지고 비활성화되었습니다. 하지만 쉽게 다시 활성화할 수 있으며 최소한의 조정만으로도 우리의 필요를 충족시킬 수 있을 것입니다."
+mem_hollow_asteroid.20.a: "상업용 리조트로 전환해라."
+mem_hollow_asteroid.20.b: "가능한 한 많은 시민이 이 장소를 즐길 수 있도록 해라."
+mem_hollow_asteroid.20.c: "구조물을 해체하고 그 잔해를 연구해라."
+
 #Success: Ancient Art Exhibition
-mem_hollow_asteroid.30.name:0 "고대 미술 전시회"
-mem_hollow_asteroid.30.desc:0 "우리 과학자들은 아주 이상한 것을 발견했습니다. 소행성의 내벽에는 그림과 기하학적 패턴으로 덮인 수천 개의 큰 결정체가 내재되어 있습니다. 서로 다른 모양, 색상 및 조각 사이에서 팀은 동일한 크리스탈 한 쌍을 찾을 수 없었습니다. 모든 크리스탈은 이제 기록 보관소를 위해 이미징되었지만 제작자들의 비전은 영원히 신비로 남을 수 있습니다."
-mem_hollow_asteroid.30.a:0 "멋지군"
-mem_hollow_asteroid.30.b:0 "다른 것이 더 없다면, 연구를 위해 활용해라"
-mem_hollow_asteroid.30.c:0 "창조의 기적에 맞먹는 위업이군"
-mem_hollow_asteroid.30.d:0 "제작자들의 비전을 나눌 수 있다면...."
+
+mem_hollow_asteroid.30.name: "고대 미술 전시관"
+mem_hollow_asteroid.30.desc: "우리 과학자들은 아주 이상한 것을 발견했습니다. 소행성의 내벽에는 그림과 기하학적 패턴으로 덮인 수천 개의 큰 결정체가 설치되어 있습니다. 서로 다른 모양, 색상 및 조각 사이에서 연구원들은 같은 수정 한 쌍도 찾을 수 없었습니다. 모든 수정은 이제 기록 보관소를 위해 기록되었지만, 제작자들의 의도는 영원히 신비로 남을 수 있습니다."
+mem_hollow_asteroid.30.a: "멋지군."
+mem_hollow_asteroid.30.b: "다른 것이 더 없다면, 연구를 위해 활용해라."
+mem_hollow_asteroid.30.c: "창조의 기적에 맞먹는 위업이군."
+mem_hollow_asteroid.30.d: "제작자들의 가치관을 나눌 수 있다면...."
+
 #Success: Panopticon
-mem_hollow_asteroid.40.name:0 "원형 감옥"
-mem_hollow_asteroid.40.desc:0 "과학 팀이 소행성의 내부를 돌파했을 때, 그들은 외벽에 고정된 무수한 작은 살아있는 포드를 발견했다. 큰 구가 공간의 중심에 고정되어 감옥 내부를 명확하게 볼 수 있습니다. 소행성은 이전에는 알려지지 않았던 고대 종에 의해 만들어졌으며, 수감자들을 항시 관찰할 수 있는 보안 감옥으로 사용되었다. 스테이션의 컴퓨터에서 가져온 데이터를 분석해보니, 잘못된 소프트웨어 업데이트 결과 수감자들은 시스템 밖으로 빠져 나가서 굶어 죽은 것처럼 보입니다. 그들이 구출되지 않은 이유는 분명하지 않지만 적어도 시신은 존재합니다."
-mem_hollow_asteroid.40.a:0 "이 교도소의 디자인을 연구해야한다."
+
+mem_hollow_asteroid.40.name: "원형 감옥"
+mem_hollow_asteroid.40.desc: "연구원들이 소행성의 내부를 진입했을 때, 그들은 외벽에 고정된 수많은 생명유지 장치를 발견했습니다. 큰 구체가 공간 중앙에 고정되어 모든 장치를 명확하게 볼 수 있습니다. 소수의 경비원이 수감자들을 은밀하게 관찰할 수 있다는 생각에 따라 이전에 알려지지 않은 고대 종족들이 소행성을 높은 수준의 보안 감옥으로 사용한 것으로 보입니다. 두 소행성 모두 아직도 그 건물들을 어지럽히고 있었고 기지 컴퓨터에서 추출한 자료 분석 결과, 결함이 있는 소프트웨어 업데이트가 수감자들을 시스템 밖으로 가둬 굶주리게 한 것으로 보입니다. 그들이 구조되지 않은 이유 또는 적어도 시신을 수습한 이유는 분명하지 않습니다."
+mem_hollow_asteroid.40.a: "이 교도소의 설계를 연구해야 한다."
+
 #Success: Kraken Quest Start
-mem_hollow_asteroid.50.name:0 "버려진 프로젝트"
-mem_hollow_asteroid.50.desc:0 "우리의 과학 팀이 속이 빈 소행성 내부로 진입하여, 복잡한 터널 시스템을 발견하였습니다. 분명히 인위적으로 설계된이 동굴에는 케이블, 지지대, 알 수없는 목적의 큰 통, 밀폐된 뚜껑이 있고 열 수있는 물건이 있습니다. 작은 구가 소행성 깊숙한 곳에 숨겨져 있으며 데이터 터미널이 들어 있습니다. 하지만 이것들의 정보를 해독하는 데는 시간이 걸립니다."
-mem_hollow_asteroid.50.a:0 "작업물을 취하게."
+
+mem_hollow_asteroid.50.name: "버려진 프로젝트"
+mem_hollow_asteroid.50.desc: "우리의 연구원들이 속이 빈 소행성 내부로 진입하여, 복잡한 터널 망을 발견하였습니다. 분명히 인위적으로 설계된 동굴에는 케이블, 지지대, 알 수 없는 목적의 큰 통, 밀폐된 뚜껑이 있고 열 수 있는 물건이 있습니다. 작은 구가 소행성 깊숙한 곳에 숨겨져 있으며 자료 단말기에 들어 있습니다. 하지만 이것들의 정보를 해독하는 데는 시간이 걸립니다."
+mem_hollow_asteroid.50.a: "작업을 시작해."
+
 #Project finished
-mem_hollow_asteroid.51.name:0 "크라켄 제작"
-mem_hollow_asteroid.51.desc:0 "[From.GetName]안의 터미널에서 가져온 데이터에는 놀라고 매우 혼란스러운 정보가 포함되어 있습니다. 이 곳 전체가 크라켄(Craken) -고대 우주 비행 인종에 의한 유전 공학의 산물- 이라고 불리는 강력한 존재의 시체가 되었다고 합니다. 코어와 터널은 캐니스터 내부에 보존된 유전자 종자에서 재배된 유기 조직으로 채워져 있습니다. 스스로 자급자족하며 창조주의 정신 통제하에 전체 함대와 같이 활동할 수 ​​있습니다. \n\n 그러나 이 프로젝트는 완료되지 않은 것으로 보입니다. 용기가 크라켄 유전자 종자에 유전적인 손상을 일으켜서 사용할 수 없게 만들었습니다. 하지만 놀라운 재생 능력으로 다른 크라켄의 조직을 도입하여 그것을 복구할 수 있었고 우리를 위한 짐승을 만들 수 있었습니다."
-mem_hollow_asteroid.51.a:0 "다른 크라켄을 찾아보자."
-mem_hollow_asteroid.51.b:0 "프로젝트를 중단합시다, 어떤 것들은 우리 손길이 닿지 않은 채로 남아있거든요."
+
+mem_hollow_asteroid.51.name: "크라켄 제작"
+mem_hollow_asteroid.51.desc: "[From.GetName]안의 단말기에서 가져온 자료에는 놀랍고 매우 혼란스러운 정보가 포함되어 있습니다. 이곳 전체가 고대 우주 비행 종족에 의한 유전 공학의 산물인 크라켄이라고 불리는 강력한 존재의 몸체라고 합니다. 핵과 터널은 용기 내부에 보존된 유전자 종자에서 재배된 유기 조직으로 채워져 있습니다. 스스로 자급자족하며 창조주의 정신 통제하에 전체 함대와 같이 활동할 수 ​​있습니다.\n\n그러나 이 프로젝트는 완료되지 않은 것으로 보입니다. 용기가 크라켄 유전자 종자에 유전적인 손상을 일으켜서 사용할 수 없게 만들었습니다. 하지만 놀라운 재생 능력으로 다른 크라켄의 조직을 주입하여 그것을 복구하고 우리를 위한 짐승을 만들 수 있습니다."
+mem_hollow_asteroid.51.a: "다른 크라켄을 찾아보자."
+mem_hollow_asteroid.51.b: "프로젝트를 중단해라. 어떤 것들은 건드리지 않은 채로 두는 것이 더 낫다..."
+
 #Success: Pirate Quest Start
-mem_hollow_asteroid.100.name:0 "해적들"
-mem_hollow_asteroid.100.desc:0 "소행성 내부의 자연 동굴 신호가 해적 집단을 끌어당겼습니다. 빠르게 접근하고 있는 작은 함대를 발견했습니다."
-mem_hollow_asteroid.100.a:0 "준비!"
+
+mem_hollow_asteroid.100.name: "해적들"
+mem_hollow_asteroid.100.desc: "소행성 내부의 자연 동굴 신호가 해적 집단을 끌어당겼습니다. 빠르게 접근하고 있는 작은 무장 함대를 발견했습니다."
+mem_hollow_asteroid.100.a: "전투 준비!"
+
 #Pirate Ships destroyed
-mem_hollow_asteroid.102.name:0 "해적함대를 패배시킴"
-mem_hollow_asteroid.102.desc:0 "마지막 해적은 무력화되었습니다. 전술 팀은 기지를 확보하고 보안을 유지하기 위해 이제 은신처에 입장할 수 있습니다.."
-mem_hollow_asteroid.102.a:0 "강습군을 보내라."
-mem_hollow_asteroid.102.b:0 "이럴 필요 없어! 베이스 전체를 가져와라."
+
+mem_hollow_asteroid.102.name: "해적함대를 물리침"
+mem_hollow_asteroid.102.desc: "마지막 해적이 무력화되었습니다. 전술 팀은 이제 은신처에 들어가 기지를 점령하고 확보할 수 있습니다."
+mem_hollow_asteroid.102.a: "강습군을 보내라."
+mem_hollow_asteroid.102.b: "이럴 필요 없어! 기지 전체를 가져와라."
+
 #Boarding Project
-MEM_HOLLOW_ASTEROID_PIRATES:0 "해적 근거지 상륙"
-MEM_HOLLOW_ASTEROID_PIRATES_DESC:0 "우리 함대가 그 지역을 확보했습니다. 우리 지상군으로 이동할 때입니다."
+
+MEM_HOLLOW_ASTEROID_PIRATES: "해적 기지 상륙"
+MEM_HOLLOW_ASTEROID_PIRATES_DESC: "우리 함대가 그 지역을 확보했습니다. 우리 지상군이 움직일 때입니다."
+
 #Pirate Base captured : Pirate Hideout Quest Line
-mem_hollow_asteroid.103.name:0 "해적 은신처"
-mem_hollow_asteroid.103.desc:0 "우리 강습군은 필사적이지만 무의미한 저항을 하던 해적들을 사살하며 나아갔습니다. 많은 수가 총격 사건으로 사망했지만 그 중 일부는 구금되어 현재 심문을 기다리고 있습니다. 또한 수년 동안 민간인 수송선에서 도난당한 전리품을 압수했습니다."
-mem_hollow_asteroid.103.a:0 "굿 잡 웰 던"
-mem_hollow_asteroid.103.b:0 "잘했어!"
+
+mem_hollow_asteroid.103.name: "해적 은신처"
+mem_hollow_asteroid.103.desc: "우리 강습군은 무의미한 저항을 필사적으로 하던 해적들을 사살하며 나아갔습니다. 많은 수가 총격 사건으로 사망했지만, 그중 일부는 구금되어 현재 심문을 기다리고 있습니다. 또한, 수년 동안 민간인 수송선에서 도난당한 전리품을 압수했습니다."
+mem_hollow_asteroid.103.a: "잘 된 일이군."
+mem_hollow_asteroid.103.b: "잘했어!"
+
 #Pirate Trial
-mem_hollow_asteroid.104.name:0 "해적 재판"
-mem_hollow_asteroid.104.desc.01:0 "체포된 해적단은 우리 제국의 시민으로 구성되었습니다! 그 범죄자들은 ​​도난당한 선박의 주요 여행 경로를 벗어나 몰래 들어와 밀입국 및 민간인 교통을 통해 해적활동을 진행했습니다. 더 많은 심문을 통해 이들의 배후가 없음을 확인했고, 이제는 모두가 죽거나 억류되어 우리 시민들에게 테러가 마침내 끝났음을 확신시킬 수 있습니다. \n\n 이 포로들을 어떻게 처리할 지 선택해야 합니다."
-mem_hollow_asteroid.104.desc.02:0 "우리가 구금한 해적들은 대부분 §Y[mem_hollow_asteroid_pirates_foreign_country.GetAdjective]§!로 구성되어있는 것으로 밝혀졌습니다. 그들은 수년 동안 민간인 운송 차선을 공포에 떨게 만들었는데, 주로 우리 국민을 대상으로했습니다. 추가 심문을 통해 그들은 혼자 행동했으며 지금은 해적 전체가 사망하거나 체포되었다는 것을 분명히 했습니다. \n\n §Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!는 해적들의 인도에 대한 공식 요청서를 제출하여 범죄로 재판을 받을 수 있습니다. 그들의 요청을 거절하는 것은 우리의 외교 관계에 심각한 결과를 초래할 수 있습니다."
-mem_hollow_asteroid.104.a:0 "공개 재판을 열어라."
-mem_hollow_asteroid.104.a.tooltip:0 "공개 재판이 열립니다. "인류의 수호자" 변동치는 10년 동안 우리의 제국에 5%의 행복을 더 해줍니다."
-mem_hollow_asteroid.104.b:0 "간단하게, 이 반역자들을 즉시 처단하라."
-mem_hollow_asteroid.104.b.tooltip:0 "이 반역자들은 공개적으로 처형 될 것입니다. 우리의 영향력이 강화됩니다."
-mem_hollow_asteroid.104.c:0 "공개 재판을 열어라."
-mem_hollow_asteroid.104.c.tooltip:0 "공개 재판이 열립니다. "인류의 수호자" 변동치는 10년 동안 우리의 제국에 5%의 행복을 더 해줍니다."
-mem_hollow_asteroid.104.d:0 "간단하게, 이 반역자들을 즉시 처단하라."
-mem_hollow_asteroid.104.d.tooltip:0 "이 해적들은 우리의 영향력을 강화하기 위해 공개적으로 처형됩니다. 또한 §Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!를 제외한 모든 알려진 제국에게 "해적 헌터" 의견 변동치를 갖습니다. §Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!는 심각하게 불쾌해 합니다."
-mem_hollow_asteroid.104.e:0 "해적들을 그들에게 내줘라."
-mem_hollow_asteroid.104.e.tooltip:0 "알려진 모든 제국에게 "해적 사냥꾼"의견 변동치를 얻습니다. §Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!는 우리의 결정에 기뻐할 것입니다.."
-mem_hollow_asteroid.104.f:0 "협상을 제시하세요"
-mem_hollow_asteroid.104.f.tooltip:0 "포로들은 협력을 위한 사면 제안을 받게됩니다. §Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!가 심각하게 불쾌해합니다."
-mem_hollow_asteroid.104.g:0 "협상을 제시하세요."
-mem_hollow_asteroid.104.g.tooltip:0 "포로들은 협조를 위한 사면 제안을 받게 됩니다."
+
+mem_hollow_asteroid.104.name: "해적 재판"
+mem_hollow_asteroid.104.desc.01: "우리 군이 전에 체포한 해적단은 우리 제국의 시민들로 구성되어 있었습니다! 그 범죄자들은 훔친 우주선을 타고 우리의 주요 항로를 빠져나와 민간인을 밀수하고 습격하여 생계를 이어갔습니다. 추가 심문을 통해 이 해적들은 혼자 행동하고 있었다는 것이 확인되었으며, 이제 그들 모두가 죽거나 구금되었으므로 우리는 시민들에게 테러가 마침내 끝났다는 것을 확신시킬 수 있습니다.\n\n이 포로들을 어떻게 처리할지 선택해야 합니다."
+mem_hollow_asteroid.104.desc.02: "우리가 구금하고 있는 해적단은 대부분 §Y[mem_hollow_asteroid_pirates_foreign_country.GetAdjective]§! 시민으로 구성된 것으로 밝혀졌습니다. 그들은 수년 동안 민간 항로를 공포에 떨게 했으며, 대부분 이전 국가를 표적으로 삼았습니다. 추가 심문을 통해 그들은 혼자 행동했으며 이제 전체 패거리가 죽거나 체포되었다는 것이 분명해졌습니다.\n\n§Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!은(는) 해적들이 국민에 대한 범죄로 재판을 받을 수 있도록 공식 인도 요청을 제출했습니다. 그들의 요청을 거부하는 것은 우리 외교 관계에 심각한 결과를 초래할 수 있습니다."
+mem_hollow_asteroid.104.a: "공개 재판을 열어라."
+mem_hollow_asteroid.104.a.tooltip: "공개 재판이 열립니다. "인류의 수호자" 변동치는 10년 동안 우리의 제국의 행복도를 5% 증가합니다."
+mem_hollow_asteroid.104.b: "간단하게, 이 반역자들을 즉시 처단하라."
+mem_hollow_asteroid.104.b.tooltip: "이 반역자들은 공개적으로 처형 될 것입니다. 우리의 영향력이 강화됩니다."
+mem_hollow_asteroid.104.c: "공개 재판을 열어라."
+mem_hollow_asteroid.104.c.tooltip: "공개 재판이 열립니다. "인류의 수호자" 변동치는 10년 동안 우리의 제국의 행복도를 5% 증가합니다. 또한 [mem_hollow_asteroid_pirates_foreign_country.GetName]을 제외한 모든 알려진 제국에 "해적 사냥꾼" 의견 변동치를 얻습니다. [mem_hollow_asteroid_pirates_foreign_country.GetName]은(는) 심하게 기분이 상할 것입니다."
+mem_hollow_asteroid.104.d: "간단하게, 이 반역자들을 즉시 처단하라."
+mem_hollow_asteroid.104.d.tooltip: "이 해적들은 우리의 영향력을 강화하기 위해 공개적으로 처형됩니다. 또한 §Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!를 제외한 모든 알려진 제국에게 "해적 사냥꾼" 의견 변동치를 얻습니다. §Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!는 심각하게 불쾌해합니다."
+mem_hollow_asteroid.104.e: "해적들을 그들에게 내줘라."
+mem_hollow_asteroid.104.e.tooltip: "알려진 모든 제국에게 "해적 사냥꾼" 의견 변동치를 얻습니다. §Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!은(는) 우리의 결정에 기뻐할 것입니다."
+mem_hollow_asteroid.104.f: "협상을 제시해라."
+mem_hollow_asteroid.104.f.tooltip: "포로들은 협조에 대한 대가로 사면을 제안받을 것입니다. [mem_hollow_asteroid_pirates_foreign_country.GetName]은(는) 심하게 불쾌해합니다."
+mem_hollow_asteroid.104.g: "협상을 제시해라."
+mem_hollow_asteroid.104.g.tooltip: "포로들은 협조를 위한 사면 제안을 받게 됩니다."
+
 #The Deal: Secret stash
-mem_hollow_asteroid.105.name:0 "비밀 스태치"
-mem_hollow_asteroid.105.desc:0 "우리는 억류된 해적들과 협상을 했습니다. 그들을 사면하는 대신에 그들이 수년 동안 획득한 전리품이 있는 거대한 은닉지의 위치를 ​​우리에게 제공하기로 동의했습니다. 회수된 물건들 중에서 우리는 많은 양의 귀중한 금속과 귀금속을 발견했습니다."
-mem_hollow_asteroid.105.a:0 "좋은 거래군"
+
+mem_hollow_asteroid.105.name: "비밀 은닉처"
+mem_hollow_asteroid.105.desc: "우리는 억류된 해적들과 협상을 했습니다. 그들을 사면하는 대신에 그들이 수년 동안 획득한 전리품이 있는 거대한 은닉처의 위치를 ​​우리에게 제공하기로 동의했습니다. 회수된 물건 중에서 우리는 많은 양의 가치 있는 물자와 귀금속을 발견했습니다."
+mem_hollow_asteroid.105.a: "좋은 거래군."
+
 #The Deal: Raiding Tactics
-mem_hollow_asteroid.106.name:0 "사냥 전술"
-mem_hollow_asteroid.106.desc:0 "그들을 사면하는 대신 일부 해적들은 전술적 전문 지식을 제공했습니다. 수년간의 기습을 통해 배운 회피와 기동을 위한 몇 가지 트릭을 가르쳐 주었고, 우리 함대 지휘관은 많은 것을 배웠습니다. 이것은 언젠가 일어날 전쟁에서 우리에게 우위를 제공 할 것입니다."
-mem_hollow_asteroid.106.a:0 "좋은 거래군."
+
+mem_hollow_asteroid.106.name: "습격 전술"
+mem_hollow_asteroid.106.desc: "그들을 사면하는 대신 일부 해적들은 전술적 전문 지식을 제공했습니다. 수년간의 기습을 통해 배운 회피와 기동을 위한 몇 가지 책략을 가르쳐 주었고, 우리 함대 지휘관은 많은 것을 배웠습니다. 이것은 언젠가 일어날 전쟁에서 우리에게 우위를 제공할 것입니다."
+mem_hollow_asteroid.106.a: "좋은 거래군."
+
 #The Deal: Hidden Battlecruiser
-mem_hollow_asteroid.107.name:0 "숨겨진 전투순양함"
-mem_hollow_asteroid.107.desc:0 "그들을 사면하는 대가로, 체포된 해적 중 일부가 밀수입 중 하나에서 발견한, 중대한 피해를 입은 전투순양함으로 우리를 인도할 것을 제안했습니다.  그들의 이야기에 따르면 그들은 근처의 소행성 필드쪽으로 전함을 견인했고 언젠가 그것을 재활성화 할 수 있기를 희망하며 거기에 숨겨두었다고 합니다. 그런 날은 결코 오지 않겠지만요.. 이 군함을 우리가 작동 상태로 복원 할 수 있을지도 모릅니다."
-mem_hollow_asteroid.107.a:0 "흠...인터레스팅"
+
+mem_hollow_asteroid.107.name: "숨겨진 전투순양함"
+mem_hollow_asteroid.107.desc: "사면을 대가로 체포된 해적 중 일부가 밀수 작전에서 발견한 특별한 것으로 우리를 안내해 주겠다고 제안했습니다. 큰 피해를 당한 후 승무원이 버린 것처럼 보이는 고급 전투순양함입니다. 그들의 이야기에 따르면, 그들은 언젠가 함선을 다시 활성화할 수 있기를 바라며 거기에 숨겨두었다고 합니다. 그런 날은 절대 오지 않겠지만요. 이 군함을 작동 상태로 복원할 수 있을지도 모릅니다."
+mem_hollow_asteroid.107.a: "인상적이군."
+
 #Repairing the Battlecruiser
-MEM_HOLLOW_ASTEROID_PIRATES_CRUISER:0 "배틀크루저 수리 중"
-MEM_HOLLOW_ASTEROID_PIRATES_CRUISER_DESC:0 "해적들에 따르면, 배는 매우 손상된 상태라고 합니다. 그러나 우리 과학자와 엔지니어는 수리 가능성에 대해 낙관하고 있습니다."
+
+MEM_HOLLOW_ASTEROID_PIRATES_CRUISER: "전투 순양함 수리 중"
+MEM_HOLLOW_ASTEROID_PIRATES_CRUISER_DESC: "해적들에 따르면, 배는 심하게 망가진 상태라고 합니다. 그러나 우리 과학자와 공학자들은 충분히 수리할 수 있다고 합니다."
+
 #Hidden Battlecruiser restored
-mem_hollow_asteroid.108.name:0 "수리 완료"
-mem_hollow_asteroid.108.desc:0 "해적들이 소개한 전투순양함은 참으로 매력적입니다. 어디서부터 만들어졌는지 미스테리로 남아 있습니다. 사실, 우리는 이와 같은 어떠한 비슷한 선박을 보지 못했습니다. 이제 이 외계 전함이 수리되고 시스템이 다시 가동됨에 따라 강력한 선박이 우리 함대에서 봉사할 준비를 마쳤습니다. 우리가 이전 주인보다 좋게 움직일 수 있기를 바랍니다."
-mem_hollow_asteroid.108.a:0 "정말 이상한 함선이군."
+
+mem_hollow_asteroid.108.name: "수리 완료"
+mem_hollow_asteroid.108.desc: "해적들이 소개한 전투순양함은 참으로 매력적입니다. 어디서부터 만들어졌는지 수수께끼로 남아 있습니다. 사실, 우리는 이와 같은 어떠한 비슷한 우주선을 보지 못했습니다. 이제 이 외계 전함이 수리되고 시스템이 다시 가동됨에 따라 강력한 함선이 우리 함대에서 봉사할 준비를 마쳤습니다. 우리가 이전 주인보다 더 운이 좋기를 바랍니다."
+mem_hollow_asteroid.108.a: "정말 이상한 함선이군."
+mem_hollow_asteroid.110.desc: " "

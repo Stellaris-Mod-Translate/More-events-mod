@@ -1,46 +1,75 @@
 ﻿l_english:
 
+
 #Vazuran Event System
+
+
 #Text & Code by Malthus
+
+
 ########################################################
+
+
 # Ambient Objects
-mem_vazuran_event_system_starbase_object:0 "고대 잔해 지역"
-mem_vazuran_event_system_swarm_large_object:0 "공허태생 유기체의 잔해"
+
+mem_vazuran_event_system_starbase_object: "고대 잔해 지역"
+mem_vazuran_event_system_swarm_large_object: "공허태생 유기체의 잔해"
+
 # Technology
-tech_mem_scourge_damage_bonus:0 "공허태생 껍질의 약점"
-tech_mem_scourge_damage_bonus_desc:0 "혹시 모를 타은하 생명체 침공에 대비를 해야만 합니다. 얻어낸 표본으로 과학자들이 약점을 찾아낼 것입니다. 과연 있을지 없을지는 장담할 수 없습니다. 그들이 돌아온다고 하더라도 연구를 통해 우위를 점해 우리의 것을 반드시 지켜낼 것입니다."
+
+tech_mem_scourge_damage_bonus: "공허태생 껍질의 약점"
+tech_mem_scourge_damage_bonus_desc: "혹시 모를 타은하 생명체 침공에 대비를 해야만 합니다. 얻어낸 표본으로 과학자들이 약점을 찾아낼 것입니다. 과연 있을지 없을지는 장담할 수 없습니다. 그들이 돌아온다고 하더라도 연구를 통해 우위를 점해 우리의 것을 반드시 지켜낼 것입니다."
+
 # System 1 Events
+
+
 # A ship reaches the system
-mem_vazuran_systems.1.name:0 "묘지"
+
+mem_vazuran_systems.1.name: "묘지"
+
 # Scourge Event Chain
+
+
 # Scourge Story Line Intro
-mem_vazuran_systems.1a.desc:0 "[root.GetName]이(가) [root.solar_system.GetName] 성계에 도착했다고 보고했습니다. 함선 선장이 끔찍한 광경을 묘사하고 있습니다. 여러 행성들은 산산조각난 상태고, 항성계 전체가 잔해로 뒤덮여 있습니다. 더 특이한 것은, 우리 데이터베이스에 있는 정보 그 어떤 것과도 일치하지 않는 유기체 껍질이 잔해들 사이에 같이 흩어져 있다는 것입니다. 추가적인 조사가 필요할 것으로 보입니다."
-mem_vazuran_systems.1.a:0 "조사를 개시하라."
-mem_vazuran_event_system_scourge_chain_title:0 "폐허가 된 성계"
-mem_vazuran_event_system_scourge_chain_desc:0 "끔찍한 사건이 일어났던 [mem_vazuran_event_system_01.GetName] 성계를 조사합니다."
-mem_vazuran_event_system_scourge_projects_researched:0 "조사 완료"
-MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_01:0 "생체 함선 조사"
-MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_01_DESC:0 "[root.solar_system.GetName]에 있던 우리 과학자들이 잔해들 사이에서 있는 죽은 유기체 껍질에서 두 종류의 우주태생 생명체들을 식별해냈습니다. 다만 성장 단계만 다른 같은 종인지, 완전히 다른 종인지는 알 수 없는 상태입니다."
-MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_02:0 "잔해 조사"
-MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_02_DESC:0 "무수한 잔해들 사이에서 수 많은 난파선들이 여전히 남아있습니다. 이곳에서 어떤 일이 벌어졌는지 알아보려면 이것들을 조사해보는 것이 가장 최선일 것입니다."
+
+mem_vazuran_systems.1a.desc: "[root.GetName]이(가) [root.solar_system.GetName] 성계에 도착했다고 보고했습니다. 함선 선장이 끔찍한 광경을 묘사하고 있습니다. 여러 행성들은 산산조각난 상태고, 항성계 전체가 잔해로 뒤덮여 있습니다. 더 특이한 것은, 우리 데이터베이스에 있는 정보 그 어떤 것과도 일치하지 않는 유기체 껍질이 잔해들 사이에 같이 흩어져 있다는 것입니다. 추가적인 조사가 필요할 것으로 보입니다."
+mem_vazuran_systems.1.a: "조사를 개시하라."
+mem_vazuran_event_system_scourge_chain_title: "폐허가 된 성계"
+mem_vazuran_event_system_scourge_chain_desc: "끔찍한 사건이 일어났던 [mem_vazuran_event_system_01.GetName] 성계를 조사합니다."
+mem_vazuran_event_system_scourge_projects_researched: "조사 완료"
+MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_01: "생체 함선 조사"
+MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_01_DESC: "[root.solar_system.GetName]에 있던 우리 과학자들이 잔해들 사이에서 있는 죽은 유기체 껍질에서 두 종류의 우주태생 생명체들을 식별해냈습니다. 다만 성장 단계만 다른 같은 종인지, 완전히 다른 종인지는 알 수 없는 상태입니다."
+MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_02: "잔해 조사"
+MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_02_DESC: "무수한 잔해들 사이에서 수 많은 난파선들이 여전히 남아있습니다. 이곳에서 어떤 일이 벌어졌는지 알아보려면 이것들을 조사해보는 것이 가장 최선일 것입니다."
+
 # Finishing Bioship Investigation
-mem_vazuran_systems.101.name:0 "유전 공학?"
-mem_vazuran_systems.101.desc:0 "여러 표본을 조사한 결과, 발견했던 유기체 껍질들은 다른 두 종류의 종의 껍질이라는 것을 밝혀냈습니다. 두 종류의 생명체를 각각 [root.solar_system.GetName]-X1과 -X2라고 분류했습니다. 두 종은 여러 유전표지와 특징을 공유하지만 다른 종입니다. 두 종 사이에서 다른 아종은 보이지 않는 것으로 보아 증식은 무성생식 또는 복제로 이루어지는것 같습니다.\n\n유전 공학의 산물이라 보이는 증거들의 발견으로 일반 생명체가 진화를 한 것은 아닌것으로 사료됩니다. X1과 X2 모두 군사적 용도로 쓰일 만큼 엄청나게 단단하고 오래가는 껍질을 특징으로 하며, 심지어 내부에서 유기 발사체를 발사하는 용도로 사용되었던 장기들이 발견되었습니다. 드넓은 퍼진 잔해는 이 생명체들이 강력한 전사였다는 것을 알려줍니다."
-mem_vazuran_systems.101.a:0 "당황스럽군."
+
+mem_vazuran_systems.101.name: "유전 공학?"
+mem_vazuran_systems.101.desc: "여러 표본을 조사한 결과, 발견했던 유기체 껍질들은 다른 두 종류의 종의 껍질이라는 것을 밝혀냈습니다. 두 종류의 생명체를 각각 [root.solar_system.GetName]-X1과 -X2라고 분류했습니다. 두 종은 여러 유전표지와 특징을 공유하지만 다른 종입니다. 두 종 사이에서 다른 아종은 보이지 않는 것으로 보아 증식은 무성생식 또는 복제로 이루어지는것 같습니다.\n\n유전 공학의 산물이라 보이는 증거들의 발견으로 일반 생명체가 진화를 한 것은 아닌것으로 사료됩니다. X1과 X2 모두 군사적 용도로 쓰일 만큼 엄청나게 단단하고 오래가는 껍질을 특징으로 하며, 심지어 내부에서 유기 발사체를 발사하는 용도로 사용되었던 장기들이 발견되었습니다. 드넓은 퍼진 잔해는 이 생명체들이 강력한 전사였다는 것을 알려줍니다."
+mem_vazuran_systems.101.a: "당황스럽군."
+
 # Finishing Debris Investigation
-mem_vazuran_systems.102.name:0 "희생과 의무"
-mem_vazuran_systems.102.desc:0 "[root.solar_system.GetName] 성계에서 수 많은 난파선들을 몇 주 동안 조사하면서 탐사대가 의문을 해결해주는 여러 증거를 찾아냈습니다. 난파선 하나를 조사하다가 이 난파선 함대의 기함을 찾아냈습니다. 게다가 [root.owner.GetScientistResearchSubroutinePlural]들이 4천 년 전에 어떤 사건이 있었는지 연구할 수 있는 데이터 저장소가 멀쩡히 남아있었습니다.\n\n이 함선을 소유하던 제국은 외우주 공허 생명체의 침공에 맞서 힘겨운 전쟁을 이어가고 있었습니다. 그 공허 태생 생명체들은 가는 길마다 모든 생명체를 먹어치웠고, 생명을 흡수할 때마다 더욱 강하졌습니다.\n\n한 때 번성했던 이 문명의 행성들에 외계 군체가 점점 다가올 때, 즉시 대응 가능한 부대는 극히 일부에 달했고, 함대의 함장에게는 주어진 선택권이 없었습니다. 국민들을 구할 수도, 적을 물리칠 수도 없다는 사실을 깨닫고는 대신 성계 내에 있는 모든 식민 행성을 직접 파괴해 적들이 생명체를 흡수해 성장하지 못하게 막는 방법을 선택했습니다.\n\n제독의 마지막 기록 또한 발견되었습니다: §S누군가는 수 백억의 영혼이 있는 행성을 파괴할 결정을 내린 내 권리에 대해 의문을 품을지도 모르겠다. 하지만 내 결정을 이해하는 사람들은 내가 그들을 살려두어야만 하는 결정에 책임질 수 있는 권한 또한 없다는 것을 깨달을것이다. 우리 은하계 전체가 위험에 처했다면, 그 어떤 희생이라도 지나치지 않을 테니까. 그들은 그들의 의무를 다 했고, 나 또한 그럴 것이다...§!\n\n지금 우리의 존재가 그들의 희생이 헛되지 않았다는 것을 증명하고 있습니다."
-mem_vazuran_systems.102.a:0 "다수의 필요가 소수의 요구를 능가하는 법이지."
-mem_vazuran_systems.102.b:0 "멸절 프로세스가 이미 완료됨. 이곳에서 우리가 할 일은 더 이상 없음."
-mem_vazuran_systems.102.c:0 "얼마나 친절한 자들인지... 자신들을 스스로 정화해 우리의 일을 덜어주는군."
-mem_vazuran_systems.102.d:0 "너무 많은 음식들이 낭비되었군..."
+
+mem_vazuran_systems.102.name: "희생과 의무"
+mem_vazuran_systems.102.desc: "[root.solar_system.GetName] 성계에서 수 많은 난파선들을 몇 주 동안 조사하면서 탐사대가 의문을 해결해주는 여러 증거를 찾아냈습니다. 난파선 하나를 조사하다가 이 난파선 함대의 기함을 찾아냈습니다. 게다가 [root.owner.GetScientistResearchSubroutinePlural]들이 4천 년 전에 어떤 사건이 있었는지 연구할 수 있는 데이터 저장소가 멀쩡히 남아있었습니다.\n\n이 함선을 소유하던 제국은 외우주 공허 생명체의 침공에 맞서 힘겨운 전쟁을 이어가고 있었습니다. 그 공허 태생 생명체들은 가는 길마다 모든 생명체를 먹어치웠고, 생명을 흡수할 때마다 더욱 강하졌습니다.\n\n한 때 번성했던 이 문명의 행성들에 외계 군체가 점점 다가올 때, 즉시 대응 가능한 부대는 극히 일부에 달했고, 함대의 함장에게는 주어진 선택권이 없었습니다. 국민들을 구할 수도, 적을 물리칠 수도 없다는 사실을 깨닫고는 대신 성계 내에 있는 모든 식민 행성을 직접 파괴해 적들이 생명체를 흡수해 성장하지 못하게 막는 방법을 선택했습니다.\n\n제독의 마지막 기록 또한 발견되었습니다: §S누군가는 수 백억의 영혼이 있는 행성을 파괴할 결정을 내린 내 권리에 대해 의문을 품을지도 모르겠다. 하지만 내 결정을 이해하는 사람들은 내가 그들을 살려두어야만 하는 결정에 책임질 수 있는 권한 또한 없다는 것을 깨달을것이다. 우리 은하계 전체가 위험에 처했다면, 그 어떤 희생이라도 지나치지 않을 테니까. 그들은 그들의 의무를 다 했고, 나 또한 그럴 것이다...§!\n\n지금 우리의 존재가 그들의 희생이 헛되지 않았다는 것을 증명하고 있습니다."
+mem_vazuran_systems.102.a: "다수의 필요가 소수의 요구를 능가하는 법이지."
+mem_vazuran_systems.102.b: "멸절 프로세스가 이미 완료됨. 이곳에서 우리가 할 일은 더 이상 없음."
+mem_vazuran_systems.102.c: "얼마나 친절한 자들인지... 자신들을 스스로 정화해 우리의 일을 덜어주는군."
+mem_vazuran_systems.102.d: "너무 많은 음식들이 낭비되었군..."
+
 # Finishing Scourge Event Chain
-mem_vazuran_systems.103.name:0 "무리"
-mem_vazuran_systems.103.desc:0 "이곳에서 벌어졌던 타은하 존재의 침공 사실 때문에 우리 [root.owner.GetScientistResearchSubroutinePlural]들이 혹여나 돌아올지 모르는 저 존재들에 대비해야 한다고 주장하고 있습니다. 우리가 현재 알고있는 바로는 이 침략군은 엄청 위험하기는 했으나 그저 선봉대였을지도 모릅니다. 이 암울해보이는 상황 속에서 이미 여럿은 미래를 대비하기 위해 표본을 가지고 약점을 찾아내겠다고 연구를 시작했습니다."
-mem_vazuran_systems.103.a:0 "이런 최악의 시나리오에 대비를 해야겠군."
+
+mem_vazuran_systems.103.name: "무리"
+mem_vazuran_systems.103.desc: "이곳에서 벌어졌던 타은하 존재의 침공 사실 때문에 우리 [root.owner.GetScientistResearchSubroutinePlural]들이 혹여나 돌아올지 모르는 저 존재들에 대비해야 한다고 주장하고 있습니다. 우리가 현재 알고있는 바로는 이 침략군은 엄청 위험하기는 했으나 그저 선봉대였을지도 모릅니다. 이 암울해보이는 상황 속에서 이미 여럿은 미래를 대비하기 위해 표본을 가지고 약점을 찾아내겠다고 연구를 시작했습니다."
+mem_vazuran_systems.103.a: "이런 최악의 시나리오에 대비를 해야겠군."
+
 # Colony Trap Event Chain
+
+
 # Colony Trap Story Line Intro
-mem_vazuran_systems.1.b:0 "조사를 개시하라."
-mem_vazuran_event_system_colony_trap_chain_title:0 "폐허가 된 성계"
-mem_vazuran_event_system_colony_trap_chain_desc:0 "끔찍한 사건이 일어났던 [mem_vazuran_event_system_01.GetName] 성계를 조사합니다."
-mem_vazuran_event_system_colony_trap_projects_researched:0 "조사 완료"
+
+mem_vazuran_systems.1.b: "조사를 개시하라."
+mem_vazuran_event_system_colony_trap_chain_title: "폐허가 된 성계"
+mem_vazuran_event_system_colony_trap_chain_desc: "끔찍한 사건이 일어났던 [mem_vazuran_event_system_01.GetName] 성계를 조사합니다."
+mem_vazuran_event_system_colony_trap_projects_researched: "조사 완료"
+mem_vazuran_systems.1b.desc: "REPLACE_ME"

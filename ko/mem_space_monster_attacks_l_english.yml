@@ -1,18 +1,112 @@
 ﻿l_english:
 
+
 ######################################################
+
+
 # Space Monster Attacks
+
+
 # Text by Malthus
+
+
 # Code by Malthus
+
+
 # Crystal appears in player system
+
+mem_crystal_ship_giant: "고대 수정 군주"
+
 # crystal has bombarded the colony
+
+mem_crystal_ship_giant_plural: "고대 수정 군주들"
+
 # crystal has been destroyed before bombarding the colony
+
+d_mem_crystals_mining: "수정밭"
+
 # crystal has been destroyed after bombarding the colony
+
+d_mem_crystals_mining_desc: "수상한 공허 수정이 만들어낸 수정 생명체들로 덮인 장소. 이 수정들을 정기적으로 수확하는 것은 식민지의 광물 생산량을 크게 증가시킬 것이지만 생태계가 약해지고 식량 생산량이 줄어들 것입니다."
+
 # Project finished
+
+d_mem_crystals_science: "수정밭"
+
 # crystals grow everywhere, what now?
+
+d_mem_crystals_science_desc: "수상한 공허 수정이 만들어낸 수정 생명체들로 덮인 장소. 이 수정들을 연구하는 것은 식민지의 연구 생산량을 늘릴 것이지만, 광물과 식량 생산량이 감소할 것입니다."
+
 # planet turns bleak
+
+mem_crystal_removal: "수정 제거 작업"
+
 # crystals removed
+
+mem_crystal_removal_desc: "이 식민지는 현재 행성을 덮은 수정의 증식을 막기 위해 모든 자원을 투자하고 있는 상황입니다."
+
 # ecosystem restored after removing the crystals
+
+
 # decisions to add or remove the crystal field spacial feature
+
+mem_space_monster_attacks.1.name: "수정 존재가 다가오다"
+
 # tech to get the decision to add the special feature + building
+
+mem_space_monster_attacks.1.desc: "우리 식민지의 장거리 센서들은 우주 심연에서 다가오는 신호를 하나 발견했습니다. 급파견된 탐사정에 의하면 이것은 거대한 수정 구조물로 보입니다. 통신을 시도한 결과 거대한 에너지 수치의 기록과 함께 탐사정과의 연결이 끊겼습니다.\n\n이 구조물은 적대적인 것으로 보입니다. 우리 함대는 경계 태세를 갖추고 있습니다."
+
 # building requires tech and special feature present
+
+mem_space_monster_attacks.1.desc.gestalt: "우리 식민지의 장거리 센서들은 우주 심연에서 다가오는 신호를 하나 발견했습니다. 급파견된 탐사정에 의하면 이것은 거대한 수정 구조물로 보입니다. 통신을 시도한 결과 거대한 에너지 수치의 기록과 함께 탐사정과의 연결이 끊겼습니다.\n\n이 구조물은 적대적인 것으로 보입니다. 우리 함대는 경계 태세를 갖추고 있습니다."
+mem_space_monster_attacks.1.a: "왜 여기에 온 거지?"
+mem_space_monster_attacks.2.name: "죽음의 비"
+mem_space_monster_attacks.2.desc: "식민지 방어군은 수정 존재에 맞설 수 없었습니다. 전투가 끝나자마자 그것은 [This.GetName]를 고속의 수정 파편들로 폭격하기 시작했습니다. 초기 보고에 의하면 수십만명의 사상자가 발생했습니다.\n\n사상자는 여전히 집계되고 있지만, 수정 존재는 행성의 궤도를 벗어나 다시 우주로 사라졌습니다."
+mem_space_monster_attacks.2.desc.gestalt: "식민지 방어군은 수정 존재에 맞설 수 없었습니다. 전투가 끝나자마자 그것은 [This.GetName]를 고속의 수정 파편들로 폭격하기 시작했습니다. 기반 시설의 파괴가 심각하며 수십만의 드론 손실 발생했습니다.\n\n수정 존재는 행성의 궤도를 벗어나 다시 우주로 사라졌습니다."
+mem_space_monster_attacks.2.a: "끔찍하군!"
+mem_space_monster_attacks.2.b: "불행스럽군."
+mem_space_monster_attacks.3.name: "상황 종료"
+mem_space_monster_attacks.3.desc: "우리 함대는 승리했습니다. 수정 존재는 이제 떠다니는 수정 파편들에 불과합니다. 어째서 이곳을 공격했는지는 불명하지만, 우리 식민지는 다시 안전합니다.\n\n수정 존재의 스캔 결과 매우 귀중한 광물들로 구성되어 있음이 밝혀졌습니다. 이미 잔해를 모으기 위해 화물선들이 파견되었습니다. 대부분의 파편들은 자원으로 가공되겠지만, 일부는 연구를 위해 남겨둘 것입니다.\n\n일부 과학자들은 이미 자가회복 선체와 같은 기술들의 이론을 세우고 있으며, 다른 자들은 이에 대해 더 근본적인 연구가 우선되어야 한다고 하고 있습니다."
+mem_space_monster_attacks.3.desc.gestalt: "우리 함대는 승리했습니다. 수정 존재는 이제 떠다니는 수정 파편들에 불과합니다. 어째서 이곳을 공격했는지는 불명하지만, 우리 식민지는 다시 안전합니다.\n\n수정 존재의 스캔 결과 매우 귀중한 광물들로 구성되어 있음이 밝혀졌습니다. 이미 잔해를 모으기 위해 화물선들이 파견되었습니다. 대부분의 파편들은 자원으로 가공되겠지만, 일부는 연구를 위해 남겨둘 것입니다.\n\n자가회복 선체와 같은 적용방법들은 연구할 가치가 있습니다."
+mem_space_monster_attacks.3.a: "잘했다."
+mem_space_monster_attacks.3.b: "확인했다."
+mem_space_monster_attacks.4.name: "복수"
+mem_space_monster_attacks.4.desc: "우리 함대는 승리했습니다. 수정 존재는 이제 떠다니는 수정 파편들에 불과합니다. 어째서 이곳을 공격했는지는 불명하지만, 우리 식민지는 공격을 버텨냈습니다.\n\n수정 존재의 스캔 결과 매우 귀중한 광물들로 구성되어 있음이 밝혀졌습니다. 이미 잔해를 모으기 위해 화물선들이 파견되었습니다. 대부분의 파편들은 자원으로 가공되겠지만, 일부는 연구를 위해 남겨둘 것입니다.\n\n일부 과학자들은 이미 자가회복 선체와 같은 기술들의 이론을 세우고 있으며, 다른 자들은 이에 대해 더 근본적인 연구가 우선되어야 한다고 하고 있습니다."
+mem_space_monster_attacks.4.desc.gestalt: "우리 함대는 승리했습니다. 수정 존재는 이제 떠다니는 수정 파편들에 불과합니다. 어째서 식민지를 공격했는지는 불명하지만, 이로써 미래의 습격을 방지할 수 있을 것입니다.\n\n수정 존재의 스캔 결과 매우 귀중한 광물들로 구성되어 있음이 밝혀졌습니다. 이미 잔해를 모으기 위해 화물선들이 파견되었습니다. 대부분의 파편들은 자원으로 가공되겠지만, 일부는 연구를 위해 남겨둘 것입니다.\n\n자가회복 선체와 같은 적용방법들은 연구할 가치가 있습니다."
+mem_space_monster_attacks.4.a: "잘했다."
+mem_space_monster_attacks.4.b: "확인했다."
+mem_space_monster_attacks.5.name: "수정 분석"
+mem_space_monster_attacks.5.desc: "회수된 수정 파편들의 분석 결과 이 존재는 기존에 발견되었던 수정 생명체들과 놀라울 정도의 공통점을 지니고 있었지만, 그 행동 방식에 커다란 차이가 있습니다. 그 수정들도 공격적이었지만, 절대로 자신들의 영역 밖을 나서지 않았습니다. 또한 이 개체의 거대함을 고려하면 아마 새로운 종일 것이라는 것이 과학자들의 결론입니다.\n\n몸의 거의 전체를 구성하고 있는 물질은 놀라운 자가수복 능력을 보유하고 있으며, 추가 연구를 통해 우리 장갑에 적용될 수 있을 것입니다. 새로운 연구가 프로젝트에 해금되었습니다."
+mem_space_monster_attacks.5.a: "흥미롭군."
+mem_space_monster_attacks.6.name: "수정 증식"
+mem_space_monster_attacks.6.desc: ""
+mem_space_monster_attacks.6.desc.gestalt: ""
+mem_space_monster_attacks.6.a: ""
+mem_space_monster_attacks.6.a.tooltip: ""
+mem_space_monster_attacks.6.b: "저 수정들을 연구하도록 하지."
+mem_space_monster_attacks.6.b.tooltip: ""
+mem_space_monster_attacks.6.c: "그들이 수정 감염을 뿌리뽑게 하자."
+mem_space_monster_attacks.6.c.tooltip: ""
+mem_space_monster_attacks.7.name: ""
+mem_space_monster_attacks.7.desc: ""
+mem_space_monster_attacks.7.desc.gestalt: ""
+mem_space_monster_attacks.7.a: ""
+mem_space_monster_attacks.7.b: ""
+mem_space_monster_attacks.7.c: ""
+mem_space_monster_attacks.8.name: ""
+mem_space_monster_attacks.8.desc: ""
+mem_space_monster_attacks.8.a: ""
+MEM_SPACE_MONSTER_ATTACKS_CRYSTAL_STUDY: ""
+MEM_SPACE_MONSTER_ATTACKS_CRYSTAL_STUDY_DESC: ""
+mem_space_monster_attacks.9.name: ""
+mem_space_monster_attacks.9.desc: ""
+mem_space_monster_attacks.9.a: ""
+mem_space_monster_attacks.9.b: ""
+decision_mem_crystal_fields_clearing: ""
+decision_mem_crystal_fields_clearing_desc: ""
+decision_mem_crystal_fields_seeding: ""
+decision_mem_crystal_fields_seeding_desc: ""
+tech_mem_crystal_cultivation: ""
+tech_mem_crystal_cultivation_desc: ""
+building_mem_crystal_harvester: ""
+building_mem_crystal_harvester_desc: ""

@@ -1,33 +1,127 @@
 ﻿l_english:
 
+
 #################################################
+
+
 # Text by Malthus                               #
+
+
 # Options Menu
+
+
 # Edict
-edict_mem_options_menu:0 "More Events Mod 옵션"
-edict_mem_options_menu_desc:0 "이 시행령으로 옵션 메뉴를 열 수 있습니다."
+
+edict_mem_options_menu: "More Events Mod 옵션"
+edict_mem_options_menu_desc: "이 시행령으로 옵션 메뉴를 열 수 있습니다."
+
 # Event Chain
-mem_options_chain_title:0 "MEM 옵션"
-mem_options_chain_desc:0 "이 메뉴는 현재 게임을 사용자가 정의한 환경 설정을 기반으로 다양한 옵션을 제공합니다. 이 옵션은 전적으로 선택 사항입니다. 조작하지 않을 시 MEM 표준 설정으로 모든 것이 설정됩니다. 메뉴를 열려면 프로젝트를 완료하세요."
+
+mem_dmm_name: "More Events Mod"
+mem_options_chain_title: "MEM 옵션"
+mem_options_chain_desc: "이 메뉴는 현재 게임을 사용자가 정의한 환경 설정을 기반으로 다양한 옵션을 제공합니다. 이 옵션은 전적으로 선택 사항입니다. 조작하지 않을 시 MEM 표준 설정으로 모든 것이 설정됩니다. 메뉴를 열려면 프로젝트를 완료하세요."
+
 # Options Project
-MEM_OPTIONS_PROJECT:0 "메뉴 활성화"
-MEM_OPTIONS_PROJECT_DESC:0 "이 프로젝트로 옵션 메뉴를 열 수 있습니다."
-MEM_OPTIONS_REMOVAL_PROJECT:0 "메뉴 제거"
-MEM_OPTIONS_REMOVAL_PROJECT_DESC:0 "이 프로젝트는 이 게임에서 메뉴를 영구적으로 비활성화합니다. 더 이상 사용하지 않는 경우에만 이 작업을 수행하십시오."
+
+MEM_OPTIONS_PROJECT: "메뉴 활성화"
+MEM_OPTIONS_PROJECT_DESC: "이 프로젝트로 옵션 메뉴를 열 수 있습니다."
+MEM_OPTIONS_REMOVAL_PROJECT: "메뉴 제거"
+MEM_OPTIONS_REMOVAL_PROJECT_DESC: "이 프로젝트는 이 게임에서 메뉴를 영구적으로 비활성화합니다. 더 이상 사용하지 않는 경우에만 이 작업을 수행하십시오."
+
 # Basic Functions
-mem_options.back:0 "뒤로"
-mem_options.exit:0 "나가기"
+
+mem_options.back: "뒤로"
+mem_options.exit: "나가기"
+
 # Main Menu
-mem_options.4.name:0 "메인 메뉴"
-mem_options.4.desc:0 "여기서 다양한 옵션을 선택할 수 있습니다."
-mem_options.4.a:0 "위기 옵션"
-mem_options.4.b:0 "방어막 행성 옵션"
+
+mem_options.4.name: "메인 메뉴"
+mem_options.4.desc: "여기서 다양한 옵션을 선택할 수 있습니다."
+mem_options.4.a: "위기 옵션"
+mem_options.4.b: "보호막 행성 옵션"
+
 # Lex Menu
+
+
 # Shield World Menu
+
+mem_options.4.c: "아름다운 행성 변동치 §G활성화§!"
+
 # Force Spawning Menu
+
+mem_options.4.c.tooltip: "모든 가이아 행성과 링월드에 "아름다운 행성" 변동치를 추가합니다. (행복과 성장 속도에 10%, 모든 자원 및 과학 생산에 5%, 해당 행성에 있는 식민지의 이주 선호도 25%를 추가합니다.)"
+
 # Force Anomaly Spawning Menu
+
+mem_options.4.d: "아름다운 행성 변동치 §R비활성화§!"
+
 # Force Event Spawning Menu
+
+mem_options.4.d.tooltip: "모든 가이아 행성과 링월드에 "아름다운 행성" 변동치를 제거합니다. (행복과 성장 속도에 10%, 모든 자원 및 과학 생산에 5%, 해당 행성에 있는 식민지의 이주 선호도 25%를 추가합니다.)"
+
 # Spaning Notification
+
+mem_options.4.e: "강제 스폰 메뉴"
+
 # Orila Ship Preview
+
+mem_options.4.f: "오릴라 함선 미리보기"
+
 # Broken Clock
+
+mem_options.4.g: "고장난 시계 옵션"
+
 # Surveyor Probe
+
+mem_options.4.h: "측량 프로브 옵션"
+mem_options.5.name: "위기 옵션"
+mem_options.5.desc: "여기에서 다양한 옵션 중에서 선택할 수 있습니다."
+mem_options.5.a: "바주란 위협 §R비활성화§!"
+mem_options.5.a.tooltip: "바주란 위협 위기는 현재 §G활성화§! 중입니다."
+mem_options.5.b: "바주란 위협 §G활성화§!"
+mem_options.5.b.tooltip: "바주란 위협 위기는 현재 §R비활성화§! 중입니다."
+mem_options.5.c: "바주란 성계에 버그가 있는 우주기지 수정"
+mem_options.5.c.tooltip: "바주란이 여전히 성계를 소유하고 있는 게임을 로드한 경우 게임은 점령할 수 없는 항성기지를 생성합니다. 이것을 사용하여 소유권을 우리 제국으로 전환하십시오."
+mem_options.6.name: "보호막 행성 메뉴"
+mem_options.6.desc: "여기에서 보호막에 덮인 행성에 대한 다양한 설정을 활성화하거나 비활성화할 수 있습니다."
+mem_options.6.a: "행성 보호막 효과 §G활성화§!"
+mem_options.6.b: "행성 보호막 효과 §R비활성화§!"
+mem_options.6.c: "보호막 행성 효과 §G활성화§!"
+mem_options.6.d: "보호막 행성 효과 §R비활성화§!"
+mem_options.7.name: "강제 스폰 메뉴"
+mem_options.7.desc: "여기에서 다양한 이상 현상과 이벤트를 생성할 수 있습니다."
+mem_options.7.a: "이상현상 선택"
+mem_options.7.b: "이벤트 선택"
+mem_options.8.name: "이상현상 강제 스폰 하위 메뉴"
+mem_options.8.desc: "여기에서 다양한 이상현상을 생성할 수 있습니다. 옵션 중 하나를 클릭한 후 이틀 동안 기다리면 알림이 표시됩니다."
+mem_options.8.a: "Abandoned Mecha Tomb World 이상현상"
+mem_options.8.b: "Starship of the Fallen Tomb World 이상현상"
+mem_options.8.c: "Matrix Tomb World 이상현상"
+mem_options.8.d: "Giant Tanks Tomb World 이상현상"
+mem_options.8.e: "Lava Fortress 이상현상"
+mem_options.8.f: "Extinct Abductors 이상현상"
+mem_options.9.name: "이벤트 강제 스폰 하위메뉴"
+mem_options.9.desc: "여기에서 다양한 이벤트를 생성할 수 있습니다. 옵션 중 하나를 클릭한 후 이틀 동안 기다리면 알림이 표시됩니다."
+mem_options.9.a: "우주 수정 공격"
+mem_options.10.name: "이상현상 스폰"
+mem_options.10.desc: "카메라를 클릭하면 스폰 위치를 볼 수 있습니다."
+mem_options.11.name: "오릴라 함선 미리보기"
+mem_options.11.desc: "여기에서 테스트 목적으로 다가오는 오릴라 진영의 다양한 함선 클래스를 생성할 수 있습니다. 그들은 당신의 수도에 나타날 것입니다."
+mem_options.11.a: "표준 드론 하나를 생성합니다."
+mem_options.11.b: "지휘 드론 하나를 생성합니다."
+mem_options.11.c: "호위함 하나를 생성합니다."
+mem_options.11.d: "타격 순양함 하나를 생성합니다."
+mem_options.11.e: "레비아탄 하나를 생성합니다."
+mem_options.12.name: "고장난 시계 이벤트 하위메뉴"
+mem_options.12.desc: "고장난 시계는 게임 중반에 때때로 위기와 같은 결과를 초래하는 새로운 연계 이벤트입니다.\n\n일부 플레이어는 바람직하지 않은 방식으로 게임 밸런스에 영향을 미치거나, 밸런스 변경 모드와 제대로 맞지 않거나, 선호하는 플레이 스타일에 맞지 않는다는 것을 알게 될 수 있습니다. 게임 중반이 오기 전에 위기를 비활성화할 수 있고, 시작된 후에는 조기에 종료할 수 있습니다.\n\n이 메뉴에 접속할 수 있다고 해서 이 게임에서 이러한 위기가 보장되는 것은 아닙니다."
+mem_options.12.a: "이벤트 §R비활성화§!"
+mem_options.12.b: "이벤트 §G활성화§!"
+mem_options.12.c: "환영받지 못한 손님을 즉시 파괴"
+mem_options.13.name: "측량 프로브 이벤트 하위메뉴"
+mem_surveyor.13.desc: "측량 프로브는 모드에 의해 추가된 새로운 중립 세력으로, 가끔 등장하여 게임 중반 위기로 발전할 수 있습니다. 다른 모드의 균형이나 선호하는 플레이 스타일을 방해할 수 있으므로 게임 중반이 아직 시작되지 않은 한 이 게임에서 제거할 수 있습니다.\n\n이 메뉴는 처음부터 이 게임에 프로브가 존재한다는 것을 의미하지는 않습니다."
+mem_surveyor.13.a: "미치광이 프로브 제거."
+mem_surveyor.13.a.tooltip: "게임 중반 전에만 할 수 있습니다."
+mem_surveyor.13.b: "지금 위기를 촉발."
+mem_surveyor.13.b.tooltip: "멀티플레이어 게임에서는 위기를 수동으로 촉발할 수 없습니다."
+mem_surveyor.13.c: "측량 프로브 강제 스폰"
+mem_surveyor.13.c.tooltip: "프로브가 이전에 생성되지 않은 경우 임의의 위치에서 생성됩니다."

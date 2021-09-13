@@ -1,16 +1,28 @@
 ﻿l_english:
 
+
 #Lost Zoo Anomaly
+
+
 #Code and idea by LamilLerran
+
+
 #Writing by shockedsystem
+
+
 #Note that this comes from a vanilla anomaly category, title "Life Signs" and text
+
+
 #"We have detected life signs coming from somewhere beneath the barren and lifeless surface of this §Y[planet/moon]§!. What manner of organism could possibly live there?"
-mem_lost_zoo.8.name:0 "신비한 돔"
-mem_lost_zoo.8.desc:0 "조사 이후, 표면에 12개가 넘는 붕괴된 돔으로 이루어진 커다란 시설이 있음이 드러났습니다. 가장 큰 건물 잔해를 파내다 보니 표면에서 아래로 200미터까지 내려가는 엘리베이터 통로가 발견되었습니다."
-mem_lost_zoo.8.a:0 "아래에 뭐가 있으려나?"
-MEM_LOST_ZOO_PROJECT:0 "돔 복합단지 조사"
-MEM_LOST_ZOO_PROJECT_DESC:0 "이 엘리베이터는 §Y[From.GetName]§!의 깊은 바닥까지 연결되어 있습니다. 과학 탐사대를 조직해 아래로 내려가봐야 뭐가 있는지 알 수 있을겁니다."
-mem_lost_zoo.1.name:0 "고대 동물원"
-mem_lost_zoo.1.a:0 "기계를 파괴하고 역설계를 통해 기술을 얻어내."
-mem_lost_zoo.1.b:0 "해부 실험실로 바꿔."
-mem_lost_zoo.1.c:0 "보호지로 바꾸지."
+
+mem_life_barren_category: "$life_barren_category$"
+mem_lost_zoo.8.name: "신비한 돔"
+mem_lost_zoo.8.desc: "조사 결과, 표면에 12개가 넘는 붕괴한 돔으로 이루어진 커다란 시설이 있음이 드러났습니다. 가장 큰 건물 잔해를 파내다 보니 표면에서 아래로 200ｍ까지 내려가는 승강기 통로가 발견되었습니다."
+mem_lost_zoo.8.a: "아래에 뭐가 있으려나?"
+MEM_LOST_ZOO_PROJECT: "돔 복합단지 조사"
+MEM_LOST_ZOO_PROJECT_DESC: "이 승강기는 §Y[From.GetName]§!의 깊은 바닥까지 연결되어 있습니다. 과학 탐사대를 조직해 아래로 내려가 봐야 뭐가 있는지 알 수 있을 겁니다."
+mem_lost_zoo.1.name: "고대 동물원"
+mem_lost_zoo.1.a: "기계를 파괴하고 역설계를 통해 기술을 얻어내라."
+mem_lost_zoo.1.desc: "이 수로를 탐험한 결과 거대한 동굴 안에 있는 자급자족식 생물군계 전체가 드러났습니다. 지금까지 최소한 3개의 별도의 열대 행성을 나타내는 생물이 목록에 포함되었습니다. 이 시스템은 고도로 자동화되어 있으며 다수의 특수 드론이 개체군을 관찰, 유지 및 때때로 제거하고 먹이 주기 등등 시설 자체를 인위적으로 유지합니다. 37시간의 낮/밤 주기는 지표면 깊은 곳에 묻힌 지열 도관으로 구동되는 돔 지붕에 느리게 움직이는 인공조명 막대를 사용하여 재현됩니다.\n\n이 인공 생태계는 40,000년 이상 된 것으로 추정되며 자동화 시스템이 복구할 수 없는 방식으로 붕괴되기 시작했습니다. §Y[Root.GetLeaderName]§!은(는) 이 시설이 다음 천년 이내에 심각한 장애 지점에 도달할 것으로 추정합니다."
+mem_lost_zoo.1.b: "해부 실험실로 바꿔라."
+mem_lost_zoo.1.c: "보존구역으로 바꾸자."

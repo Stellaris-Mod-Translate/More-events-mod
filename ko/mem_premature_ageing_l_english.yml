@@ -1,4 +1,32 @@
 ﻿l_english:
 
+mem_premature_ageing_category: "가속된 노화"
+
 #Event chain
+
+mem_premature_ageing_category_desc: "[From.GetName]의 질량, 에너지 방출량과 스펙트럼은 기댓값으로부터 큰 오차를 보이며 가속된 노후화의 징조로 보입니다."
+
 #Point of Interest
+
+mem_premature_ageing.1.name: "실패"
+mem_premature_ageing.1.desc: "이 별은 예상보다 빨리 노후화하고 있으며 20억 년 내에 초신성 폭발을 일으킬 것으로 보입니다. 이는 우리 예측보다 20억 년은 빠르지만 이상 현상의 원인을 밝혀내지 못했습니다."
+mem_premature_ageing.1.a: "안타깝군."
+mem_premature_ageing.2.name: "항성 소멸기"
+mem_premature_ageing.2.desc: "별의 코로나에 존재하는 구멍과 우주에서 발견된 에너지 방출의 흔적으로 보아하니 [From.GetName]의 노후화는 인공적으로 가속화된 것으로 보입니다. 아무래도 수백만 년 전에 우리가 모르는 기술로 제작된 에너지 광선이 근처 성계에서 이 항성을 향해 발사된 것으로 보입니다.\n\n이것이 무기였는지 우주적 규모의 건설 시도였는지는 모르지만 광선은 항성의 핵을 파괴하여 내부에서 벌어지는 핵융합 반응을 방해하여 초신성 폭발을 유도한 것으로 보입니다. 다행히도 실패하였지만, 20억 년 뒤에 있을 자들은 그 결과를 직접 확인할 수 있을 것입니다."
+mem_premature_ageing.2.normal: "무기의 발사 지역을 모른다는게 아쉽군."
+mem_premature_ageing.2.alternate: "무기의 발사지점을 추적할 수 있을 것이다."
+MEM_PREMATURE_AGEING_WEAPON_TRACING_PROJECT: "항성 소멸기 추적"
+MEM_PREMATURE_AGEING_WEAPON_TRACING_PROJECT_DESC: "강력한 무기가 시공간을 찢고 엄청난 양의 에너지를 광속보다 빨리 목표지점에 전달했습니다. 수백만 년 뒤에도 무기가 항성의 코로나에 뚫은 구멍은 여전히 존재하며 이를 통해 무기의 위치를 알아낼 수 있을 것입니다."
+mem_premature_ageing.3.name: "발사 지점 발견"
+mem_premature_ageing.3.desc: "행운이 우리와 함께했습니다! 우주 활동을 추적하는 데에 보통 사용되지 않는 방법들이 이번에 한해서는 방출된 막대한 양의 에너지 덕분에 매우 유용했습니다. 우린 변방에 있는 작은 성계로 근원지를 추적했습니다."
+mem_premature_ageing_chain_title: "무기 발사 지점을 찾아라"
+mem_premature_ageing_chain_desc: "우린 무기의 발사 지점을 찾아야 합니다. 무기를 분석하면 별의 빠른 노후화의 원인인 기술에 대해 더 알 수 있을지도 모릅니다."
+mem_premature_ageing_asteroid_checked: "발사 지점 발견"
+mem_premature_ageing_weapon_origin.1.name: "무기의 발사 지점"
+mem_premature_ageing_weapon_origin.1.desc: "무기가 발사된 지점."
+MEM_PREMATURE_AGEING_WEAPON_ANALYZE_PROJECT: "소행성을 조사"
+MEM_PREMATURE_AGEING_WEAPON_ANALYZE_PROJECT_DESC: "우린 이 성계의 소행성 지대에서 잔존 에너지를 발견했습니다. 우리가 찾고자 노력하지 않았다면 놓쳤을 것이지만 항성 소멸기가 가장 있을법한 장소입니다."
+mem_premature_ageing.5.name: "항성 소멸기"
+mem_premature_ageing.5.desc: "모르는 자들에겐 단순히 소행성처럼 보이지만, 우리에겐 아닙니다. 이 임무에 특화된 스캐너들을 사용한 결과 이 소행성은 매우 발전된 에너지 전송 시스템의 일부였던 것으로 보입니다. 금속 광맥처럼 보이던 것들은 사실 행성의 지각 전체에 퍼져있던 전선들이었습니다.\n\n아무래도 이 매우 강력한 무기는 한번 밖에 발사되지 못했던 것으로 보입니다 - 막대한 에너지 흐름은 무기가 있던 행성을 산산조각내어 지금의 소행성지대로 만들었습니다. 이 기술은 우리보다 수천 년은 발전된 것이지만, 행성의 에너지 분배 회로를 분석하는 것만으로도 에너지 무기에 큰 진전이 있을 것으로 보입니다."
+mem_premature_ageing_solar_extinguisher_tech: "항성 소멸기 기술"
+mem_premature_ageing_solar_extinguisher_tech_desc: "이 기술을 연구함으로 우리 에너지 무기들의 피해량을 증가시킬 수 있었습니다."

@@ -1,0 +1,17 @@
+﻿l_english:
+
+MEM_PRIMITIVE_CIVIL_WAR_INTERVENTION: "신의 개입"
+MEM_PRIMITIVE_CIVIL_WAR_INTERVENTION_DESC: "우리 함선 중 하나가 패배 직전의 [mem_primitive_civil_war_planet.GetName] 반군에게 필요한 지원을 제공해줄 것입니다. 비록 원주민들은 무슨 일이 벌어지고 있는지 모르겠지만, 위치가 잘 잡힌 궤도 폭격 몇 방은 제국군을 쉽게 물리칠 것입니다."
+mem_primitive_civil_war.2.name: "전사의 길"
+mem_primitive_civil_war.2.desc: "[mem_primitive_civil_war_planet.GetName] 주위를 도는 관측소는 [mem_primitive_civil_war_planet_owner.GetAdj] 국가에서 내전이 발발했음을 보고했습니다. 모든 것은 젊고 진보적인 후계자가 왕위에 오르자 그의 개혁에 반대한 자들이 일으킨 것으로 보입니다.\n\n[mem_primitive_civil_war_planet_owner.species.GetNamePlural]의 원주민들은 여전히 중세 시대에 살고 있음에도 불구하고 그들의 기술은 훨씬 진보되어 있습니다. 전통에 대한 고집만이 이 기술적인 발전이 퍼지고 실용화되는 것을 방지했습니다. 아무래도 황제의 개혁에 반대하는 가신들이 있는 것으로 보입니다. 특히 사회 계급과 상관없이 사람들을 징병해서 만들어진 군대가 귀족 전사들을 불쾌히 한 듯합니다.\n\n영향력이 전부 사라지게 될 위기에 처하자 그들 중 많은 자가 과거를 보존하기 위해 들고 일어섰습니다. 하지만 그들의 경험과 능력에도 불구하고 전통적인 규범과 전통에 제한받는 그들은 최신 무기들을 보유한 제국군을 상대로 이길 수 없습니다.\n\n총과 칼의 전투가 시작되었습니다."
+mem_primitive_civil_war.2.a: "계속해서 관찰하라."
+mem_primitive_civil_war.3.name: "운명의 시각에 가까워지다"
+mem_primitive_civil_war.3.desc: "[mem_primitive_civil_war_planet.GetName]의 궤도에 있는 관측소의 직원들에 의하면 초기 승리 몇 번을 제외하면 반군들은 계속된 패배로 그 수가 줄고 후퇴할 수밖에 없어졌습니다. 보아하니 그들은 최후의 저항을 위해 방어진지를 세우고 있는 것으로 보입니다. 제국군은 적이 전략적 우위를 점한 것을 보고 수적 우위에 있음에도 불구하고 망설이고 있는 것으로 보입니다.\n\n반군들에게 더는 선택지가 없는 지금 제국군의 완전한 승리는 시간문제입니다. 하지만 과연 그럴까요??"
+mem_primitive_civil_war.3.a: "그들은 포위되었고 수적 열세에 처했다. 끝났다..."
+mem_primitive_civil_war.3.b: "그들을 구할 수 있는 것은 "기적"뿐이다..."
+mem_primitive_civil_war.4.name: "운명의 시각"
+mem_primitive_civil_war.4.desc: "[mem_primitive_civil_war_planet.GetName]의 [mem_primitive_civil_war_planet_owner.GetAdj] 반군 지도자는 마지막 전투를 위해 병사들을 준비시켰습니다. 황제의 항복 요구를 받아들이기보다는 영광스러운 죽음을 선택한 듯합니다.\n\n그들의 최후의 돌격은 [mem_primitive_civil_war_planet_owner.GetAdj] 역사상 최초로 시전된 연사가 가능한 총들의 교차 사격으로 금방 끝났습니다. 이는 전투가 아니라 학살이었습니다.\n\n적어도 반란의 끝으로 옛것들을 고집하는 세력들이 전멸했고 미래로 이어질 길을 열었습니다. 그 장래가 밝은 것이길 바랄 뿐입니다."
+mem_primitive_civil_war.4.a: "새로운 것이 옛것을 만날 때 항상 옛길을 끝낸다."
+mem_primitive_civil_war.5.name: "제국군에 저항하다"
+mem_primitive_civil_war.5.desc: "반군 지도자가 최후의 돌격을 시작하려던 그 순간, [root.owner.GetAdj]의 무기에 의해 땅 전체가 흔들렸습니다. 제국군 근처에 떨어지도록 계획된 공격은 사상자를 발생시키지 않고 원했던 효과를 가져왔습니다.\n\n제국군은 겁에 질려 도망쳤고 반군 세력은 더 이상의 손실 없이 승리했습니다. 신의 총애를 받는 군사 지도자의 소문은 빠르게 퍼졌고 그의 지휘로 많은 자가 몰렸습니다.\n\n사람들의 지지를 잃은 황제는 정권을 유지하기 위해 개혁을 취소하고 남은 반군들에게 사면권을 준다는 협약을 맺을 수밖에 없었습니다.\n\n한동안 [mem_primitive_civil_war_planet_owner.GetAdj] 문명은 중세 시대에 머물 것으로 보입니다."
+mem_primitive_civil_war.5.a: "신이 그들의 편이다 이말이지?"

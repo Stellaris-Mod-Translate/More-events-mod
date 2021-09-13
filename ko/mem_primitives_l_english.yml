@@ -1,11 +1,98 @@
 ﻿l_english:
 
+
 #Small primitive events
+
+
 #By ViolentBeetle
+
+
 #ONE SMALL STEP
+
+mem_primitives.101.name: "[the_planet.GetName]: 작은 한걸음"
+
 #WORLD WARS
+
+mem_primitives.101.desc: "오늘 §Y[the_planet.GetName]§!의 상공에 있는 관측소는 원시 문명의 역사적인 발전을 목격했습니다: 지표면에서 발사된 유인 함선이 행성의 자연적인 위성인 §Y[the_moon.GetName]§!의 표면에 착륙했고 승무원들은 위성의 표면에 장기간 걸었습니다. 비록 현재 기술 단계로 영구적인 기지의 건설은 불가능하겠지만, [From.GetName]에게 있어선 엄청난 발전임은 부정할 수 없습니다.\n\n관측소의 직원들은 다행히 시야에서 벗어나 정체를 들키지 않았습니다."
+
 #RELIGIONS
+
+mem_primitives.101a: "축하한다."
+
 #EPIDEMICS
+
+mem_primitives.101a.phobe: "쓰레기는 쓰레기들끼리 살 수 없나?"
+
 #TERROR
+
+mem_primitives.101a.mat: "이는 올바른 길이다."
+
 #Y2K
+
+mem_primitives.101a.matphile: "참 빨리도 성장하는군!"
+
 #Fall of Rome
+
+mem_primitives.301.name: "[the_planet.GetName]: 국제 전쟁"
+mem_primitives.301.desc: "오늘은 §Y[From.GetName]§!에게 있어선 역사적인 순간입니다. 국제 정세가 불안정한 지금, 평소라면 무시됬을 작은 외교적 갈등 하나가 수많은 세력 간의 국제적 전쟁으로 커졌습니다. 행성 전체가 이 전쟁에 휘말렸으며 사상자 수는 그 모든 예측을 넘어서고 있습니다.\n\n누가 승리할지는 알 수 없지만, 이 전쟁이 이 행성의 역사에 거대한 영향을 끼칠 것은 당연해 보입니다."
+mem_primitives.303.name: "[the_planet.GetName]: 전쟁의 끝"
+mem_primitives.303.desc: "한동안 계속됬던 §Y[the_planet.GetName]§!의 전쟁이 드디어 끝을 내렸습니다. 오늘 서명된 평화협정은 세력 구성도를 완전히 재구축할 정도로 수많은 국가가 하룻밤 만에 몰락하거나 힘을 얻었습니다.\n\n하지만 이것이 끝일까요? 막대한 배상금과 영토의 할양을 해야 하는 패배자 측은 분명히 힘이 회복되는 대로 복수를 계획할 것입니다."
+mem_primitives.303a: "20년간의 휴전"
+mem_primitives.305.name: "[the_planet.GetName]: 모든 전쟁을 끝내기 위해"
+mem_primitives.305.desc: "§Y[From.GetSpeciesNamePlural]§! 간의 갈등은 한동안 양측 모두 막대한 인적, 물적 손실을 내면서도 한 발짝도 전진하지 못하는 상황이 되었습니다.\n\n오늘 드디어 주요국 간의 휴전 협정으로 인해 전쟁이 끝난 것으로 보입니다. 민중의 머릿속에 남은 전쟁의 참혹함은 행성의 주민들이 모든 군사적 행동을 멀리하고 다시는 그런 것을 경험하지 않도록 미래를 향해 공존하는 방향으로 나아가게 만들고 있습니다."
+mem_primitives.305a.milphobe: "부끄러운 줄 알아라."
+mem_primitives.305a.pacphile: "드디어 그들도 깨달았군."
+mem_primitives.307.name: "[the_planet.GetName]: 새로운 국제전쟁"
+mem_primitives.307.desc: "오늘 아슬아슬하게 지켜지던 §Y[the_planet.GetName]§!의 평화가 사라졌습니다. 저번 전쟁에서 굴욕적인 패배를 맛보고 모든 책임을 지게 된 국가는 극국가주의 정부를 이끄는 한 카리스마적인 인물에게 모든 권력을 넘겼습니다. 한동안 그 국가는 주변국들을 상대로 군사력으로 압박했지만 주요국들이 더 이상 물러날 수 없는 상황이라 판단한 것으로 보입니다.\n\n광신적인 민중과 압도적인 군사 교리들로 무장한 레반시스트들은 그들처럼 불만이 쌓인 다른 국가들의 연합의 지지를 받고 있지만, 그들이 전세계를 상대로 전쟁을 벌이고 이겨 역사를 바꿀 수 있을지는 지켜봐야할 것입니다."
+mem_primitives.307a: "이렇게 될 수 밖에 없었다."
+mem_primitives.309.name: "[the_planet.GetName]: 제 2의 평화"
+mem_primitives.309.desc: "한동안 §Y[the_planet.GetName]§!에서 계속되던 전쟁이 드디어 끝났습니다. 아무래도 첫 전쟁에서 이긴 연합이 두번째도 이긴 것을 보아할 때 §Y[from.GetName]§!의 역사는 반복되는 성질이 있는 것으로 보입니다.\n\n개전 측의 멸망과 이데올로기의 파괴로 인해 그들의 문명이 다시 한번 크게 바뀔 것입니다."
+mem_primitives.311.name: "[the_planet.GetName]: 뉴오더"
+mem_primitives.311.desc: "천문학적인 확률을 뚫고 §Y[the_planet.GetName]§!에서 전쟁을 개전시킨 세력이 승리하였습니다.\n\n비록 행성 전체를 손에 넣은 것은 아니지만 그들은 과겅의 영광을 되찾고 다시 한번 주요국이 되었습니다. 그들의 이데올로기가 불러온 승리와 승자의 말에 의해 정당화된 전쟁범죄들은 §Y[from.GetSpeciesNamePlural]§!의 미래를 크게 바꿀 것으로 보입니다."
+mem_primitives.401.name: "[the_planet.GetName]: 종교의 발달"
+mem_primitives.401.desc: "우리가 §Y[the_planet.GetName]§! 상공에 건설한 관측소는 §Y[from.GetName]§!의 문명 발전에 변곡기가 왔다는 것을 관찰했습니다.\n\n이단으로 처형당한 신관이 만든 종교가 세상 전체에 퍼져나가 대종교가 되었습니다. 가난하고 버려진 자들 사이에서 주로 퍼지는 이 종교는 용서와 인내를 주 가치로 삼고 선한 자들에게 죽은 뒤의 상을 예언합니다.\n\n하지만 이제 사회를 좌지우지할 수 있는 정도로 성장하였으니 좀 더 권위주의적인 성격을 지게 될 것으로 추측됩니다."
+mem_primitives.401a.mat: "우리도 한때 이렇게 무식했던가?"
+mem_primitives.401a.sp: "그들이 올바른 길을 걷고 있는지 지켜보지."
+mem_primitives.401a.sphile: "그들 나름대로 진실에 다가가고 있다."
+mem_primitives.401a.sphobe: "우린 저 이단자들은 언젠가 처단할 것이다."
+mem_primitives.403.name: "[the_planet.GetName]: 종교의 발달"
+mem_primitives.403.desc: "우리가 §Y[the_planet.GetName]§! 상공에 건설한 관측소는 §Y[from.GetName]§!의 문명 발전에 변곡기가 왔다는 것을 관찰했습니다.\n\n어느 한 위대한 전사가 창시한 종교가 정복과 개종을 통해 주변 지역으로 퍼져나가고 있습니다. 전시 상황을 장려하는 이 종교는 사회학과 밀접하게 연관되어 있고 통제와 희생을 통한 전파를 그 무엇보다 높게 여깁니다."
+mem_primitives.405.name: "[the_planet.GetName]: 종교의 발달"
+mem_primitives.405.desc: "우리가 §Y[the_planet.GetName]§! 상공에 건설한 관측소는 §Y[from.GetName]§!의 문명 발전에 변곡기가 왔다는 것을 관찰했습니다.\n\n자기 성찰과 금욕주의를 통해 내면의 평화를 찾는 데 중점을 둔 새로운 종교가 행성 전역에서 두각을 나타내고 있습니다. 모든 영혼은 끝없이 거듭날 수밖에 없다고 믿으며, 추종자들에게 끝없는 환생의 순환에서 벗어나 무에서 영원한 행복을 얻을 수 있는 기회를 약속합니다."
+mem_primitives.407.name: "[the_planet.GetName]: 종교의 발달"
+mem_primitives.407.desc: "우리가 §Y[the_planet.GetName]§! 상공에 건설한 관측소는 §Y[from.GetName]§!의 문명 발전에 변곡기가 왔다는 것을 관찰했습니다.\n\n종교적 장식과 사이비 과학적 발표를 결합한 준종교적 가르침이 귀족들 사이에서 인기를 얻고 있습니다. 그것은 사회를 괴롭히는 문제 대부분이 행성의 과거에 외계인 활동, 더 구체적으로 행성 표면에서 그의 신하들을 대량 학살한 외계인 통치자에서 비롯된 것이라고 가르칩니다.\n\n추정되는 바에 따르면, 죽은 외계인의 유령이 이제 [the_planet.GetName]을(를) 떠돌아다니며 사람들에게 정신적 고통을 일으키고 있습니다."
+mem_primitives.407a: "터무니 없군. 우리 그런 짓을 하지 않았어."
+mem_primitives.501.name: "[the_planet.GetName]: 역병"
+mem_primitives.501.desc: "[the_planet.GetName]에서 새로운 강력한 독성 박테리아를 감지하고 있습니다. 전염성이 강한 질병이 들불처럼 행성 전역에 퍼지고 있으며 [From.GetName]와(과) 같은 원시적인 의학 기술로는 전체 인구가 사라질 수 있습니다.\n\n물론, 우리의 선진 의학 지식이 있다면, 우리가 그렇게 하고자 한다면 그 확산을 쉽게 막을 수 있을 것입니다."
+mem_primitives.501a: "치료제 개발을 시작해라."
+mem_primitives.501b: "우리는 간섭하지 않는다."
+mem_primitives.501b.phobe: "사라지게 두어라. 외계종은 죽어야 한다."
+mem_primitives.503.name: "[from.GetSpeciesNamePlural] 멸종"
+mem_primitives.503.desc: "[the_planet.GetName]의 관측소에 따르면 행성의 마지막 지성체가 지표면을 황폐화시킨 역병으로 전멸했다고 합니다. [from.GetSpeciesNamePlural]은(는) 이제 공식적으로 멸종된 것으로 간주되며 관찰할 것이 남아 있지 않기 때문에 관찰 전초 기지가 해체되었습니다.\n\n하지만 역병은 우리 시민들에게 위험하지 않기 때문에 우리가 원한다면 행성을 식민지화할 수 있습니다."
+mem_primitives.503a.phobe: "사라지게 두어라. 외계종은 죽어야 한다."
+mem_primitives.503a.matphobe: "그들은 진화의 게임에서 졌을 뿐이야."
+mem_primitives.505.name: "[the_planet.GetName]: 역병의 끝"
+mem_primitives.505.desc: "§Y[the_planet.GetName]§!의 지표면을 황폐화한 전염병의 새로운 사례는 더는 찾아볼 수 없습니다. 생존 가능한 숙주가 바닥났을 가능성이 있으며, 자연적으로 면역이 있는 숙주를 남겼습니다."
+mem_primitives.506.name: "[the_planet.GetName]: 치료제 제공"
+mem_primitives.506.desc: "[Root.GetName]은(는)§Y[the_planet.GetName]§!을 황폐화시키는 역병에 대응하기 위해 특별히 설계된 합성 백신을 행성 대기에 성공적으로 분사했습니다.\n\n한 달 안에 감염률이 0으로 떨어질 것으로 예상하고 있습니다. 전염병은 효과적으로 끝났습니다."
+MEM_PRIMITIVES_BD_CURE_PROJECT: "전염병 예방 접종"
+MEM_PRIMITIVES_BD_CURE_PROJECT_DESC: "우리 연구실에서 설계된 합성 백신은 행성의 대기에 은밀하게 분사되어 원시 인구가 멸종되는 것을 방지할 수 있습니다."
+mem_primitives.601.name: "[the_planet.GetName]: 파괴적인 테러리스트 공격"
+mem_primitives.601.desc: "§Y[From.GetName]§!에는 오늘 중대한 대량 사상자 사건이 발생했습니다. 몇몇 급진적인 시민들이 §Y[the_planet.GetName]§의 주요 문화 및 경제 중심지를 공격했습니다! 아마도 행성 역사상 가장 파괴적인 단일 테러 사건을 일으킬 것입니다.\n\n수천명의 사망자와 불타는 건물의 이미지가 대중의 마음에 생생하게 떠오른 이 사건은 아마도 이 문명의 역사에서 전환점이 될 것입니다."
+mem_primitives.601a.mil: "누군가 외교에 지친 것 같군..."
+mem_primitives.601a.pacphobe: "적어도 우리는 그러한 야만성을 넘어섰어. 그렇지?"
+mem_primitives.603.name: "[the_planet.GetName]: 핵 테러!"
+mem_primitives.603.desc: "§Y[the_planet.GetName]§!에 있는 관측소의 승무원이 오늘 대규모 폭발을 목격했다고 보고했습니다. 그들은 원주민들이 핵무기로 자멸할 것을 우려했지만 이것은 고립된 사건임이 분명해졌습니다. 겉보기에는 몇몇 급진파가 군대에서 강력한 핵 장치를 훔쳐 행성 표면의 인구 중심지 중 하나를 파괴하는 데 사용했습니다.\n\n이러한 사건은 [From.GetName]의 역사를 확실히 바꿀 것입니다."
+mem_primitives.701.name: "[the_planet.GetName]: 디지털 재해"
+mem_primitives.701.desc: "§Y[the_planet.GetName]§!의 관측소에서 행성 기반 시설에서 연쇄적인 문제를 목격했다고 보고했습니다.\n\n비교적 최근에 널리 보급된 전자 컴퓨터를 채택한 §Y[From.GetName]§!은(는) 연도 변경이 변수를 넘고 날짜가 0으로 재설정됨에 따라 날짜 변경을 적절하게 처리할 준비가 되어 있지 않은 것 같습니다.\n\n우리 연구원들은 대부분의 통신 기반시설이 중단되고 운송 및 유통의 중단뿐만 아니라 여러 원자력 발전소가 붕괴될 것이라고 보고합니다. 긴급 코드 패치가 전달되면 이 사건이 문명을 파괴할 가능성은 없지만 기술에 대한 인식에는 확실히 영향을 미칠 것입니다."
+mem_primitives.701a: "안타깝군."
+mem_primitives.701a.sp: "그들은 기계를 너무 많이 신뢰했다."
+mem_primitives.701a.sphobe: "그들은 영혼 없는 기계에 의존하는 대가를 치렀다."
+mem_primitives.701a.mat: "끔직하게 무능하군..."
+mem_primitives.701a.matphile: "그들은 그것을 극복하고 배울 것이다."
+mem_primitives.801.name: "[the_planet.GetName]: 제국의 몰락"
+mem_primitives.801.desc: "§Y[the_planet.GetName]§!에 대한 우리의 관측소에 따르면 [From.GetSpeciesAdj] 문명은 거의 천 년 동안 하나의 거대한 제국이 지배해 왔습니다. 전 세계 사람이 거주할 수 있는 표면의 5분의 1이 넘는 면적과 높이에 [From.GetSpeciesNamePlural]의 거의 3분의 1을 포함하는 영토가 있는 이곳은 배움과 문화의 중심지였습니다. 도시가 건설되고 기술이 발견되었으며 새로운 차원의 번영에 도달했습니다.\n\n그러나 지난 50년 동안 제국은 약해진 것 같습니다. 내부 분쟁과 그들의 부의 일부를 찾는 새로 부상한 외부 적의 결합으로 제국이 무너졌습니다. 최근 [From.GetSpeciesAdj] 지식인이 "야만인"으로 간주하는 대규모 세력이 제국 중심부에 침투하여 수도를 약탈한 후 제국 중심부를 가로질러 맹렬히 약탈하며 제지 없이 약탈했습니다.\n\n야만인들은 나중에 후퇴했지만, 우리는 제국이 오래 살아남을 것이라고 믿지 않습니다. 이것은 [From.GetSpeciesNamePlural]을(를) 상당히 퇴보시킬 것입니다."
+mem_primitives.801a: "안됐군."
+mem_primitives.801a.materialist: "진보는 험난한 여정이다."
+mem_primitives.801a.sphobe: "무슨 상관이야?"
+mem_primitives.801.tooltip: "[from.GetSpeciesNamePlural]은(는) 청동기 시대로 회귀합니다."

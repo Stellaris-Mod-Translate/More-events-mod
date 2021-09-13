@@ -1,8 +1,32 @@
 ﻿l_english:
 
+
 # Idea by tzerrell
+
+
 # Writing and Code by Rahorus
+
+
 # Anomaly Category 
+
+mem_nanobot_room_category: "독특한 채굴 전초 기지"
+
 # Anomaly Success
+
+mem_nanobot_room_category_desc: "스캔이 [Root.GetName]의 표면에서 흥미로운 발견을 표시했습니다. 이것은 버려진 채굴 항성기지로 보이지만 과학선의 센서가 이 기지에서 파동하는 에너지 신호를 감지하였습니다.\n\n이 시설은 여전히 운영되고 있는것 처럼 보입니다."
+
 # Anomaly Failure
+
+
 # Anomaly Epic Failure
+
+mem_nanobot_room.1.name: "나노봇 채굴"
+mem_nanobot_room.1.desc: "표면에 착륙하는 데엔 좀 애먹었지만 [Root.GetLeaderName]이 이끄는 과학조사대는 결국 기지 내부로 안전하게 진입하는 데 성공하였습니다. 보호복에 장착된 센서가 감지하는 그 불안정한 에너지 신호를 따라 조사대는 더욱 시설 깊숙이 진전하였습니다. 그리고 그곳에서 그들이 발견한 것은 꽤 특별했습니다.\n\n그 불규칙한 에너지 신호는 나노봇 무리가 생성하고 있었습니다. 그리고 이들은 이들의 나이와 없다시피 하던 유지보수에도 불구하고 그들의 목적만은 잊지 않았던 거로 보입니다. 조사팀은 나노봇들의 모든 행동을 그저 경이롭게 바라보았습니다. 그들은 말 그대로 쓸데없어 보이는 돌과 바위를 '먹어'치우고, 불필요한 잔재를 폐기 상자에 '배설'하고 귀중한 광물들을 '토해'내어 나중에 수집되기 편하게 가지런히 정리하였습니다. 이 정리된 광물들은 수집되지 않고 쌓여 있은 지 꽤 오래되어 보입니다."
+mem_nanobot_room.1.a: "그들의 창조자들도 우리가 이 광물들을 가져가는 데 그리 상관하지 않겠지."
+mem_nanobot_room.1.mat: "나노봇을 수리한다."
+mem_nanobot_room.10.name: "실패"
+mem_nanobot_room.10.desc: "에너지 신호가 빠르게 나타났던것 처럼 빠르게 사라졌습니다. 몇 시간 동안 조사와 수색을 계속 진행해 봤지만 그다지 수확이 없었고 [Root.GetLeaderName]은(는) 결국 [Leader.GetHisHer]을 찾는데 포기하였습니다. 그게 무엇이었던, 에너지 신호가 다시 감지될 일은 없어 보입니다."
+mem_nanobot_room.10.a: "어쩔수 없지."
+mem_nanobot_room.20.name: "치명적 실패"
+mem_nanobot_room.20.desc: "조사대가 지표면에 내디뎠을 때 [Root.GetLeaderName]이(가) 실수로 옛 능동 방어 체계를 작동시켜 버렸습니다. 땅이 흔들렸고 조사팀의 호기심도 공포로 흔들렸습니다. 에너지 신호는 시설 깊숙한 곳에서 뻗어 나오는 것으로 보입니다, 조사대를 향해서 말이죠. 조사대는 이곳을 빠져나가고자 하였지만 많은 시도가 아무 소용이 없었습니다.\n\n에너지 신호는 공격적인 나노봇 무리에게서 나타나고 있었습니다, 이들은 기지에서 나와 순식간에 [Root.GetLeaderName], [Leader.GetHisHer]승무원과 모든 과학선을 삼켜버렸습니다. 식사를 마친 후에 나노봇들은 채굴시설로 다시 몰려 들어갔습니다. 이들이 원래 그 안에서 무엇을 하고 있었는지는 알 수 없을 것 같습니다"
+mem_nanobot_room.20.a: "젠장할."

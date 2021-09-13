@@ -1,4 +1,33 @@
 ﻿l_english:
 
+
 #Native Problem
+
+
 #By ViolentBeetle
+
+mem_native_problem.2.name: "원주민 갈등"
+mem_native_problem.2.desc: "몇몇 식민지 주민들이 식민행성인 §Y[Root.GetName]§!의 주요 정착지 외곽에서 죽은 채로 발견되었습니다. 사인은 장거리에서 발포된 여러 총격입니다.\n\n당국은 아직 그 가해자들을 확인하지 못하였습니다. 하지만 총격이 있었을 당시 주민들 중 그 어느 사람도 해당 지역에 없었다는 것은 자신하고 있습니다. 조사대도 해당 지역에 보내졌으나 그 어떠한 단서도 찾아낼 수 없었습니다.\n\n해당 수사가 확실치 않자 많은 주민이 거주구역을 떠나는걸 두려워하고 있으며 수많은 추측이 난무하고 있습니다. 설마스럽습니다만, [Root.GetName]이(가) 우리가 생각했던 것 만큼 비어있지 않았던 걸까요?"
+mem_native_problem.2.a: "주의할 필요가 있군."
+mem_native_problem.2.purifiers: "원주민이 있다면, 우리는 그들 모두를 죽이면 그만이다."
+mem_native_problem.3.name: "총격 사건에 대한 추가 조사"
+mem_native_problem.3.desc: "§Y[Root.GetName]§! 지도부는 지난 몇 달 동안 식민지 주민들이 의문의 총격에 목숨을 잃는 사건이 추가로 여럿 발생했다고 보고했습니다. \n\n그렇지만 가해자들을 색출하는 일에도 진전이 있었습니다. 이 행성에는 광활한 석회암 동굴망이 지하 깊숙이 이어져 있고, 입구는 황무지 곳곳 발견하기 어려운 장소에 흩어져 있는 것으로 보입니다. 총격 사건의 범인은 동굴 깊숙한 곳에 숨어있지만, 지역 전체의 장애물들을 제거하는 데는 상당한 시간이 걸릴 것입니다."
+mem_native_problem.3.a: "동굴망 전체를 붕괴시켜라."
+mem_native_problem.3.a.tooltip: "동굴은 가스 형태의 열기압 폭발물로 채워진 후 폭파될 것이고, 총격 사건의 범인은 영원히 묻힐 것입니다..."
+mem_native_problem.3.b: "동굴에 진입할 준비를 해라."
+mem_native_problem.3.b.tooltip: "동굴 내부를 정리하는 작업이 시작될 것입니다. 총격 사건의 범인이 생포될 가능성도 있지만, 이를 장담할 수는 없습니다."
+mem_native_problem.3.c: "동굴에 진입하고 내부 인원을 생포할 방안을 마련해라."
+mem_native_problem.3.c.tooltip: "비살상적 해결책에는 §S상당히 오랜 시간§!이 소요되지만, 총격범들은 확실히 생포할 수 있을 것입니다."
+mem_native_problem.4.name: "총격범의 최후"
+mem_native_problem.4.desc: "§Y[Root.GetName]§! 주민 여럿을 살해한 수수께끼의 총격범이 마침내 당국에 의해 석회암 동굴의 깊숙한 곳에서 궁지에 몰렸고 격렬한 저항 끝에 사살되었습니다.\n\n놀랍게도 범인은 [Owner.GetSpeciesName](이)지만, 식민지화 프로젝트의 하나로 행성에 이주한 주민이 아니었습니다. [the_guy.GetSheHe]이(가) 입고 있던 너덜너덜한 비행복을 통해 범인은 10년 전 흔적도 없이 사라졌던 소형 민간 선박의 선장인 [the_guy.GetName](이)라는 것을 확인했습니다.\n\n아마도 [the_guy.GetSheHe]는 이 행성에 불시착한 후 그때부터 행성 표면에서 생활하고 있었을 것입니다. [the_guy.GetHerHim]이(가) 무엇 때문에 식민지 주민들을 공격했는지는 분명하지 않지만, 장기간에 걸친 야생에서의 생활이 [the_guy.GetHerHis]의 정신에 악영향을 끼쳤을 것으로 보입니다."
+mem_native_problem.4.a: "비극적인 이야기군."
+mem_native_problem.5.name: "총격범이 체포되다"
+mem_native_problem.5.desc: "§Y[Root.GetName]§! 주민 여럿을 살해한 수수께끼의 총격범이 마침내 당국에 의해 석회암 동굴의 깊숙한 곳에서 궁지에 몰렸습니다. 짧은 교전 끝에 [the_guy.GetSheHe]은(는) 제압된 후 구금되었습니다.\n\n놀랍게도 범인은 [Owner.GetSpeciesName](이)지만, 식민지화 프로젝트의 하나로 행성에 이주한 주민이 아니었습니다. [the_guy.GetSheHe]이(가) 입고 있던 너덜너덜한 비행복을 통해 범인은 10년 전 흔적도 없이 사라졌던 소형 민간 선박의 선장인 [the_guy.GetName](이)라는 것을 확인했습니다.\n\n의료진이 간신히 [the_guy.GetHerHim]을(를) 진정시킨 후, [the_guy.GetHerHim]로부터 그동안의 이야기를 들을 수 있었습니다. [the_guy.GetHerHim]은(는) 선박이 행성 표면에 추락하자 유일한 생존자로서 그때부터 살아남기 위한 사투를 벌여왔지만, 장기간의 고립과 식용으로 부적합한 자생 식물을 오래 섭취한 끝에 인지 능력에 여러 문제가 생겼습니다. [the_guy.GetSheHe]은(는) 새로 도착한 식민지 주민들을 괴물로 생각해 공격했던 것입니다."
+mem_native_problem.5.a: "[the_guy.GetHerHim]을(를) 반역죄로 처형해라."
+mem_native_problem.5.b: "[the_guy.GetSheHe]의 행동에 대한 책임 여부는 재판에서 판단할 것이다."
+mem_native_problem.5.c: "[the_guy.GetSheHeCap]이(가) 여기서 10년 동안이나 살아남았다고? 제법 쓸만한 능력이군."
+mem_native_problem.5.c.tooltip: "§Y[the_guy.GetName]§!(은)는 우리 제국의 §S장군§!이 될 것입니다."
+mem_native_problem_fear: "공포에 사로잡힘"
+mem_native_problem_fear_desc: "이 행성의 주민들은 의문의 총격범에 대한 공포 속에서 살고 있습니다. 누구라도 다음 표적이 될 수 있습니다!"
+mem_leader_trait_native_problem_general: "생존자"
+mem_leader_trait_native_problem_general_desc: "이 지도자는 외딴 행성에서 홀로 10년 넘게 지낸 경험으로 생존에 관한 방대한 지식을 가지고 있습니다."

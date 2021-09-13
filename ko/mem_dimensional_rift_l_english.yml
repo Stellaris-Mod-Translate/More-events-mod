@@ -1,28 +1,34 @@
 ﻿l_english:
 
+
 #Dimensional Rift Anomaly
+
+
 #Writing and idea by Lionheart
+
+
 #Code by LamilLerran
-mem_dimensional_rift_category:0 "희망의 빛"
-mem_dimensional_rift_category_desc:0 "우리 과학선이 이 소행성대에서 높은 기술 수준의 합금 흔적을 발견했고, 승무원들이 이에 보물을 발견했다며 기뻐합니다."
-mem_dimensional_rift.105.name:0 "결과 없음"
-mem_dimensional_rift.105.desc:0 "광범위한 탐색에도 아무런 결과가 없자, §Y[Root.GetLeaderName]§!와(과) §Y[Root.GetName]§! 승무원들이 결국 탐색을 포기했습니다."
-mem_dimensional_rift.105.a:0 "다시 일하자."
-mem_dimensional_rift.106.name:0 "갑작스러운 끝"
-mem_dimensional_rift.106.desc:0 "소행성대를 스캔하는 동안 함선이 큰 바위에 걸려 워프 코어가 파괴되었습니다. §Y[Root.GetName]§!와(과) 함께 모든 승무원들이 실종되었습니다."
-mem_dimensional_rift.106.a:0 "§Y[Root.Owner.GetName]§!에게는 정말 슬픈 날이로군!"
-mem_dimensional_rift.7.name:0 "버려진 연구소"
-mem_dimensional_rift.7.desc:0 "소행성대 근처에 연구 스테이션 하나가 오래되고, 차갑고, 낡고, 버려진 채로 있습니다. 정밀 검사를 통해 동력원이 찢어졌거나 강제로 뜯어졌다는 것을 확인 할 수 있었습니다. 과학자 [root.leader.GetName]이(가) 스테이션의 시스템을 활성화시키기 위해 이동식 동력원 지원을 요청했습니다."
-mem_dimensional_rift.7.a:0 "동력원을 넣어봐."
-mem_dimensional_rift.7.b:0 "지금 당장 그런 곳에 에너지를 소비할 상황이 아니다."
-MEM_DIMENSIONAL_RIFT_PROJECT:0 "데이터 조사"
-MEM_DIMENSIONAL_RIFT_PROJECT_DESC:0 "우리 과학자들이 연구 스테이션에 있던 데이터 활성화 허가를 요청했습니다. 활성화를 하면 더 깊은 연구를 할 수 있을 것이라고 주장합니다."
-mem_dimensional_rift.1.name:0 "버려진 연구소"
-mem_dimensional_rift.1.desc:0 "스테이션의 시스템이 몇 번 깜빡이더니 사람이 북적이던 이전처럼 다시 불빛이 켜지기 시작했습니다. 유압식 문들의 회로는 이미 타버려서 아직 사람이 살 수도 없고 중앙 통제실 빼고 다른 곳에서는 연구가 불가능합니다. 승무원들이 이제 남아있는 다른 데이터 파일 접속 승인을 요청합니다."
-mem_dimensional_rift.1.a:0 "연구를 지속하자. 연구소가 왜 그렇게 변했는지 알아내."
-mem_dimensional_rift.1.b:0 "더 이상 그런 곳에 시간을 낭비할 수 없다."
-mem_dimensional_rift.2.name:0 "버려진 연구소"
-mem_dimensional_rift.2.desc:0 "스테이션의 마지막 일지는 이 시설이 완전히 폐쇄될 때 기록된 것으로 보입니다. 파일에 있던 데이터에 따르면 시공간 균열이 스테이션의 중요부위를 찢었고 많은 이들이 죽거나 다쳤다고 합니다. 실험에 대한 정보는 삭제되거나 유실되었습니다. 무엇이 이 스테이션을 찢어버린 것인지는 확실치 않습니다. 어쨌건, 워프와 물리 법칙의 허점에 대해 더 많이 이해하게 되었습니다."
-mem_dimensional_rift.2.a:0 "승무원들에게 표창을 주게."
-budget_group_country_modifier:0 "이벤트 변동치"
-mem_powering_abandoned_station:0 "버려진 스테이션에 전원 공급 중"
+
+mem_dimensional_rift_category: "희망의 빛"
+mem_dimensional_rift_category_desc: "우리 과학선이 이 소행성대에서 높은 기술 수준의 합금 흔적을 발견했고, 승무원들이 보물을 발견했다며 기뻐합니다."
+mem_dimensional_rift.105.name: "결과 없음"
+mem_dimensional_rift.105.desc: "광범위한 탐색에도 아무런 결과가 없자, §Y[Root.GetLeaderName]§!와(과) §Y[Root.GetName]§! 승무원들은 결국 탐색을 포기했습니다."
+mem_dimensional_rift.105.a: "다시 일하자."
+mem_dimensional_rift.106.name: "갑작스러운 끝"
+mem_dimensional_rift.106.desc: "소행성대를 스캔하는 동안 함선이 큰 바위에 걸려 워프 엔진이 파괴되었습니다. §Y[Root.GetName]§!와(과) 함께 모든 승무원들이 실종되었습니다."
+mem_dimensional_rift.106.a: "§Y[Root.Owner.GetName]§!에게는 정말 슬픈 날이로군."
+mem_dimensional_rift.7.name: "버려진 연구소"
+mem_dimensional_rift.7.desc: "춥고 낡아빠진 고대 연구 기지가 근처 소행성 꼭대기에 있습니다. 자세히 살펴보면 전원 동력원이 뜯겨나갔거나 강제로 빼낸 것으로 보입니다. 과학 장교 [root.leader.GetName]은(는) 스테이션의 시스템을 다시 활성화하기 위해 휴대용 전원 동력원을 요청합니다."
+mem_dimensional_rift.7.a: "동력원을 넣어봐."
+mem_dimensional_rift.7.b: "지금 당장 그런 곳에 에너지를 낭비할 상황이 아니다."
+MEM_DIMENSIONAL_RIFT_PROJECT: "데이터 분석"
+MEM_DIMENSIONAL_RIFT_PROJECT_DESC: "우리 과학자들이 연구 스테이션에 있던 데이터 활성화 허가를 요청했습니다. 활성화를 하면 더 깊은 연구를 할 수 있다고 주장합니다."
+mem_dimensional_rift.1.name: "버려진 연구소"
+mem_dimensional_rift.1.desc: "스테이션의 시스템이 잠시 깜박이며 한때 분주했던 실험실의 잔해에 둔한 빛을 비춥니다. 유압식 문들의 회로는 이미 타버려서 사람이 지낼 수 없고 아직 중앙 통제실 말고는 다른 곳에서는 연구할 수 없습니다. 승무원들은 이제 남아있는 다른 데이터 자료 접속 승인을 요청합니다."
+mem_dimensional_rift.1.a: "연구를 계속해라. 연구소가 왜 그렇게 변했는지 알아내."
+mem_dimensional_rift.1.b: "더 이상 그런 곳에 시간을 낭비할 수 없다."
+mem_dimensional_rift.2.name: "버려진 연구소"
+mem_dimensional_rift.2.desc: "스테이션의 마지막 일지는 이 시설이 완전히 폐쇄될 때 기록된 것으로 보입니다. 자료에 있던 기록에 따르면 시공간 균열이 스테이션의 중요한 곳을 찢었고 많은 이들이 죽거나 다쳤다고 합니다. 실험에 대한 정보는 삭제되거나 유실되었습니다. 무엇이 이 스테이션을 찢어버린 것인지는 확실치 않습니다. 어쨌건, 워프와 물리 법칙의 허점에 대해 더 많이 이해하게 되었습니다."
+mem_dimensional_rift.2.a: "승무원들에게 표창을 주게."
+budget_group_country_modifier: "사건 변동치"
+mem_powering_abandoned_station: "버려진 스테이션에 전원 공급 중"

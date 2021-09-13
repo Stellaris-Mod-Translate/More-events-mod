@@ -1,13 +1,19 @@
 ﻿l_english:
 
+
 #Molten Core Anomaly
+
+
 #Writing and idea by Foremole
+
+
 #Code by LamilLerran
-mem_molten_core_category:0 "화염 바다"
-mem_molten_core_category_desc:0 "대부분의 용암행성과 마찬가지로, §Y[Root.GetName]§!은(는) 용암의 바다로 덮여있습니다. 그러나 이 행성에는 궤도에서도 보일만큼 특이한 것이 있습니다. [Root.GetPlanetMoon]의 태양이 충분한 열을 제공해주지 않아 용암이 굳어있어야 정상이지만, 다른 대륙형 행성들처럼 이 행성 지표의 70%는 액체로 뒤덮혀 있습니다."
-mem_molten_core.1.name:0 "노출된 핵"
-mem_molten_core.1.desc:0 "용암행성의 대부분은 외핵에서 나오는 마그마가 표면으로 나올 수 있도록 표면에 많은 구멍이 있지만, §Y[From.GetName]§!은(는) 평균보다 더합니다. 행성 표면의 40%가 외핵으로 노출이 되어있으며, 이는 우리의 연구를 방해하는 요소입니다. 대신 무인기를 통해 행성의 중심을 탐사할 수 있고, 이를 통해 다른 행성의 표면을 굴착해서 얻는 만큼의 행성 지질학에 대한 지식을 얻을 수 있을 겁니다. 따라서 §Y[From.GetName]§!은(는) 우리에게 있어 최상의 연구지입니다."
-mem_molten_core.1.a:0 "좋은 소식이군."
-mem_molten_core.99.name:0 "굳어진 바다"
-mem_molten_core.99.desc:0 "§Y[This.GetLeaderName]§!의 보고에 따르면, §Y[From.From.GetName]§!의 용암 바다는 우연한 것이라고 합니다. 이미 지표가 식어가고 있으며, 몇 년 안에 [From.From.GetPlanetMoon]의 용암-육지 비율은 평범한 용암행성처럼 변할 것이라고 합니다."
-mem_molten_core.99.a:0 "좋아."
+
+mem_molten_core_category: "화염 바다"
+mem_molten_core_category_desc: "대부분의 용암 행성과 마찬가지로, §Y[Root.GetName]§!은(는) 용암의 바다로 덮여있습니다. 그러나 이 행성에는 궤도에서도 보일 만큼 특이한 것이 있습니다. [Root.GetPlanetMoon]의 태양이 충분한 열을 제공해주지 않아 용암이 굳어있어야 정상이지만, 다른 대륙형 행성들처럼 이 행성 지표의 70%는 액체로 뒤덮여 있습니다."
+mem_molten_core.1.name: "노출된 핵"
+mem_molten_core.1.desc: "용암 행성의 대부분은 외핵에서 나오는 마그마가 표면으로 나올 수 있도록 표면에 많은 구멍이 있지만, §Y[From.GetName]§!은(는) 평균보다 더합니다. 행성 표면의 40%가 외핵으로 노출이 되어있으며, 이는 우리의 연구를 방해하는 요소입니다. 대신 무인기를 통해 행성의 중심을 탐사할 수 있고, 이를 통해 다른 행성의 표면을 뚫어서 얻는 만큼의 행성 지질학에 대한 지식을 얻을 수 있을 겁니다. 따라서 §Y[From.GetName]§!은(는) 우리에게 있어 최상의 연구지입니다."
+mem_molten_core.1.a: "좋은 소식이군."
+mem_molten_core.99.name: "굳어진 바다"
+mem_molten_core.99.desc: "§Y[This.GetLeaderName]§!의 보고에 따르면, §Y[From.From.GetName]§!의 용암 바다는 우연한 것이라고 합니다. 이미 지표가 식어가고 있으며, 몇 년 안에 [From.From.GetPlanetMoon]의 용암-육지 비율은 평범한 용암 행성처럼 변할 것이라고 합니다."
+mem_molten_core.99.a: "좋아."

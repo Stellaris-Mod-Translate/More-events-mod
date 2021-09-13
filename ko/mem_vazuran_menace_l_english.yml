@@ -1,202 +1,477 @@
 ﻿l_english:
 
+
 #Vazuran Menace
+
+
 #Text & Code by Malthus
+
+
 #shipsizes (multipliers just added to get rid of errormessages)
-mem_vazuran_weapon:0 "레비아탄"
-mem_vazuran_weapon_plural:0 "레비아탄"
-mem_vazuran_cruiser:0 "전투순양함"
-mem_vazuran_cruiser_plural:0 "전투순양함"
-mem_vazuran_escort:0 "호위함"
-mem_vazuran_escort_plural:0 "호위함"
-mem_vazuran_control_drone:0 "지휘 드론"
-mem_vazuran_control_drone_plural:0 "지휘 드론"
-mem_vazuran_combat_drone:0 "전투 드론"
-mem_vazuran_combat_drone_plural:0 "전투 드론"
-mem_vazuran_large_military_station:0 "요새"
-mem_vazuran_large_military_station_plural:0 "요새"
-mem_vazuran_small_military_station:0 "보루"
-mem_vazuran_small_military_station_plural:0 "보루"
+
+mem_vazuran_weapon: "레비아탄"
+mem_vazuran_weapon_plural: "레비아탄"
+shipsize_mem_vazuran_weapon_construction_speed_mult: ""
+mem_vazuran_cruiser: "전투순양함"
+shipsize_mem_vazuran_weapon_build_cost_mult: ""
+mem_vazuran_cruiser_plural: "전투순양함"
+shipsize_mem_vazuran_weapon_upkeep_mult: ""
+mem_vazuran_escort: "호위함"
+mem_vazuran_escort_plural: "호위함"
+mem_vazuran_control_drone: "지휘 드론"
+shipsize_mem_vazuran_cruiser_construction_speed_mult: ""
+mem_vazuran_control_drone_plural: "지휘 드론"
+shipsize_mem_vazuran_cruiser_build_cost_mult: ""
+mem_vazuran_combat_drone: "전투 드론"
+shipsize_mem_vazuran_cruiser_upkeep_mult: ""
+mem_vazuran_combat_drone_plural: "전투 드론"
+mem_vazuran_large_military_station: "요새"
+mem_vazuran_large_military_station_plural: "요새"
+shipsize_mem_vazuran_escort_construction_speed_mult: ""
+mem_vazuran_small_military_station: "보루"
+shipsize_mem_vazuran_escort_build_cost_mult: ""
+mem_vazuran_small_military_station_plural: "보루"
+shipsize_mem_vazuran_escort_upkeep_mult: ""
+
 #shipsections
-mem_vazuran_combat_drone_key:0 "전투 드론 구역"
-mem_vazuran_control_drone_key:0 "지휘 드론 구역"
-mem_vazuran_escort_key:0 "호위함 구역"
-mem_vazuran_cruiser_key:0 "전투순양함 구역"
-mem_vazuran_weapon_key:0 "레비아탄 구역"
-mem_vazuran_small_military_station_key:0 "보루 구역"
-mem_vazuran_large_military_station_key:0 "요새 구역"
+
+mem_vazuran_combat_drone_key: "전투 드론 구역"
+mem_vazuran_control_drone_key: "지휘 드론 구역"
+shipsize_mem_vazuran_control_drone_construction_speed_mult: ""
+mem_vazuran_escort_key: "호위함 구역"
+shipsize_mem_vazuran_control_drone_build_cost_mult: ""
+mem_vazuran_cruiser_key: "전투순양함 구역"
+shipsize_mem_vazuran_control_drone_upkeep_mult: ""
+mem_vazuran_weapon_key: "레비아탄 구역"
+mem_vazuran_small_military_station_key: "보루 구역"
+mem_vazuran_large_military_station_key: "요새 구역"
+shipsize_mem_vazuran_combat_drone_construction_speed_mult: ""
+
 #planet
-pc_mem_vazuran_habitat:0 "선구자 거주지"
-pc_mem_vazuran_habitat_tile:0 "선구자 거주지"
-pc_mem_vazuran_habitat_tile_desc:0 "선구자 문명에 의해 건설된 고대 거주지입니다."
-pc_mem_vazuran_habitat_habitability:0 "거주지 적합성"
-trait_pc_mem_vazuran_habitat_preference:0 "거주지 선호"
+
+shipsize_mem_vazuran_combat_drone_build_cost_mult: ""
+pc_mem_vazuran_habitat: "선구자 거주지"
+shipsize_mem_vazuran_combat_drone_upkeep_mult: ""
+pc_mem_vazuran_habitat_tile: "선구자 거주지"
+pc_mem_vazuran_habitat_tile_desc: "선구자 문명에 의해 건설된 고대 거주지입니다."
+pc_mem_vazuran_habitat_habitability: "거주지 적합성"
+shipsize_mem_vazuran_large_military_station_construction_speed_mult: ""
+trait_pc_mem_vazuran_habitat_preference: "거주지 선호"
+shipsize_mem_vazuran_large_military_station_build_cost_mult: ""
+
 #districts
+
+shipsize_mem_vazuran_large_military_station_upkeep_mult: ""
+
 #Techs
-tech_mem_vazuran_xentronium_armor:0 "젠트로늄 장갑"
-tech_mem_vazuran_xentronium_rounds:0 "젠트로늄 탄약"
-tech_mem_vazuran_rift_stabilization:0 "균열 안정화"
+
+tech_mem_vazuran_xentronium_armor: "젠트로늄 장갑"
+tech_mem_vazuran_xentronium_rounds: "젠트로늄 탄약"
+shipsize_mem_vazuran_small_military_station_construction_speed_mult: ""
+tech_mem_vazuran_rift_stabilization: "균열 안정화"
+shipsize_mem_vazuran_small_military_station_build_cost_mult: ""
+
 #ambient objects
-mem_vazuran_wreckage_object:0 "바주란 함선 잔해"
+
+shipsize_mem_vazuran_small_military_station_upkeep_mult: ""
+mem_vazuran_wreckage_object: "바주란 함선 잔해"
+
 #Components
-mem_VAZURAN_ARMOR:0 "젠트로늄 장갑"
-mem_XENTRONIUM_ARMOR_L:0 "대형 젠트로늄 장갑"
-mem_XENTRONIUM_ARMOR_M:0 "중형 젠트로늄 장갑"
-mem_XENTRONIUM_ARMOR_S:0 "소형 젠트로늄 장갑"
-mem_VAZURAN_DRONE_HANGAR:0 "드론 격납고"
-mem_VAZURAN_PD:0 "거점 방어 기관포"
+
+mem_VAZURAN_ARMOR: "젠트로늄 장갑"
+mem_XENTRONIUM_ARMOR_L: "대형 젠트로늄 장갑"
+mem_XENTRONIUM_ARMOR_M: "중형 젠트로늄 장갑"
+mem_XENTRONIUM_ARMOR_S: "소형 젠트로늄 장갑"
+mem_VAZURAN_DRONE_HANGAR: "드론 격납고"
+mem_VAZURAN_PD: "거점 방어 기관포"
+
 #Modifiers
-mod_damage_vs_country_type_mem_vazurans_mult:0 "바주란에 대한 피해량"
-mem_vazurans_raided:0 "바주란 함대의 목표가 됨"
-mem_vazurans_raided_desc:0 "이 행성은 바주란의 잔혹한 공격으로 황폐화되었습니다. 회복되려면 꽤나 오랜시간이 걸릴 것입니다."
+
+mod_damage_vs_country_type_mem_vazurans_mult: "바주란에 대한 피해량"
+mem_vazurans_raided: "바주란 함대의 목표가 됨"
+pc_mem_vazuran_habitat_desc: "도시화된 행성 조건을 가진 선구자 아콜로지. 수경 재배 농장과 발전된 필터 기술을 통해 자급자족이 가능한 구조며 정거장 내의 시설들로 행성의 내부에서 광물을 채취할 수 있습니다."
+mem_vazurans_raided_desc: "이 행성은 바주란의 잔혹한 공격으로 황폐화되었습니다. 회복되려면 꽤나 오랜시간이 걸릴 것입니다."
+
 #deposit blocker
+
+
 #Blockers
-d_mem_vazuran_ruined_section:0 "폐허가된 구역"
-d_mem_vazuran_ruined_section_desc:0 "이 거주지 구역은 여러 발의 폭격으로 파괴되었습니다. 거주 가능한 지역으로 만들려면 대대적인 수리와 청소가 필요합니다."
+
+d_mem_vazuran_ruined_section: "폐허가된 구역"
+d_mem_vazuran_ruined_section_desc: "이 거주지 구역은 여러 발의 폭격으로 파괴되었습니다. 거주 가능한 지역으로 만들려면 대대적인 수리와 청소가 필요합니다."
+trait_pc_mem_vazuran_habitat_preference_desc: "$trait_pc_habitat_preference_desc$"
+
 #Opinion Modifier
-mem_ended_vazuran_menace:0 "바주란의 위협을 끝냄"
+
+mem_ended_vazuran_menace: "바주란의 위협을 끝냄"
+district_mem_vazuran_habitat_housing: "$district_arcology_housing$"
+
 #Megastructures
+
+district_mem_vazuran_habitat_housing_plural: "$district_arcology_housing_plural$"
+
 #standard empire stabilized rift
+
+district_mem_vazuran_habitat_housing_desc: "$district_arcology_housing_desc$"
+
 #Vazuran Rift Nexus
+
+district_mem_vazuran_habitat_arms_industry: "$district_arcology_arms_industry$"
+
 #bypass
+
+district_mem_vazuran_habitat_arms_industry_plural: "$district_arcology_arms_industry_plural$"
+
 #Rift opens
-mem_vazurans.4.name:0 "아공간 균열의 생성"
+
+district_mem_vazuran_habitat_arms_industry_desc: "$district_arcology_arms_industry_desc$"
+mem_vazurans.4.name: "아공간 균열의 생성"
+district_mem_vazuran_habitat_civilian_industry: "$district_arcology_civilian_industry$"
+
 #first rift ever seen in own territory
-mem_vazurans.4a.desc:0 "엄청난 규모의 에너지폭주가 감지기를 통해 [mem_vazurans_target_sun.GetName] 성계에서 감지되었습니다. 첫 보고서에서는 이것이 우주 공간에 생긴 균열 때문이라고 했습니다.\n\n성계 방위대가 초경계상태에 돌입했으며, 지방 정부들이 해군의 도움을 급하게 요청하고 있습니다."
+
+district_mem_vazuran_habitat_civilian_industry_plural: "$district_arcology_civilian_industry_plural$"
+mem_vazurans.4a.desc: "엄청난 규모의 에너지폭주가 감지기를 통해 [mem_vazurans_target_sun.GetName] 성계에서 감지되었습니다. 첫 보고서에서는 이것이 우주 공간에 생긴 균열 때문이라고 했습니다.\n\n성계 방위대가 초경계상태에 돌입했으며, 지방 정부들이 해군의 도움을 급하게 요청하고 있습니다."
+district_mem_vazuran_habitat_civilian_industry_desc: "$district_arcology_civilian_industry_desc$"
+
 #every later standard rift encounter
+
+district_mem_vazuran_habitat_leisure: "$district_arcology_leisure$"
+
 #retaliation rift encounter
+
+district_mem_vazuran_habitat_leisure_plural: "$district_arcology_leisure_plural$"
+
 #response in first encounter
-mem_vazurans.4.a:0 "이 이상현상 조사를 시작하라."
+
+district_mem_vazuran_habitat_leisure_desc: "$district_arcology_leisure_desc$"
+mem_vazurans.4.a: "이 이상현상 조사를 시작하라."
+
 #response in later encounter
-mem_vazurans.4.b:0 "함대를 준비시켜."
+
+mem_vazurans.4.b: "함대를 준비시켜."
+tech_mem_vazuran_xentronium_armor_desc: "이 초고밀도의 재질은 바주란 함선들의 놀라운 내구도의 비밀입니다. 현재 알려진 그 어떤 장갑보다도 우월합니다."
+
 #response in retaliation encounter
-mem_vazurans.4.c:0 "약해져서는 안된다."
-MEM_VAZURANS_RIFT_INVESTIGATION:0 "아공간 균열 조사"
-MEM_VAZURANS_RIFT_INVESTIGATION_DESC:0 "시공간에 이런 균열이 어떻게 생긴 것인지 우리 과학자들도 영문을 모르며 당황해하고 있습니다. 답을 찾아내야만 합니다."
+
+mem_vazurans.4.c: "약해져서는 안된다."
+tech_mem_vazuran_xentronium_rounds_desc: "이 초고밀도의 재질은 바주란 함선들의 놀라운 내구도의 비밀입니다. 하지만 재질 특성상 우리의 탄환에 적용하기 매우 적합합니다."
+MEM_VAZURANS_RIFT_INVESTIGATION: "아공간 균열 조사"
+tech_mem_vazuran_damper_field_bypass: "완충막 관통"
+MEM_VAZURANS_RIFT_INVESTIGATION_DESC: "시공간에 이런 균열이 어떻게 생긴 것인지 우리 과학자들도 영문을 모르며 당황해하고 있습니다. 답을 찾아내야만 합니다."
+tech_mem_vazuran_damper_field_bypass_desc: "완충막 기술의 물리적인 법칙들을 깊숙이 이해하면 그것이 우리의 무기들에게 끼치는 영향을 어느 정도 줄일 수 있을 것입니다."
+
 #Rift opens and fleet spawns
-mem_vazurans.5.name:0 "공격의 시작"
+
+mem_vazurans.5.name: "공격의 시작"
+tech_mem_vazuran_rift_stabilization_desc: "우리 과학자들은 바주란 함대가 우리 수도를 공격할 떄 사용한 균열을 재현시킬 수 있다고 하며, 이를 통해 그들에게 반격을 가할 수 있을 것이라고 합니다."
+
 #first encounter
-mem_vazurans.5a.desc:0 "균열에서 차원문의 종류로 보이는 무언가가 생성되었습니다. 전에 보지 못한 설계를 지닌 함선들이 차원문에서 쏟아져 나옵니다. 이들이 우리에게 신호를 보내고 있습니다."
+
+mem_vazurans.5a.desc: "균열에서 차원문의 종류로 보이는 무언가가 생성되었습니다. 전에 보지 못한 설계를 지닌 함선들이 차원문에서 쏟아져 나옵니다. 이들이 우리에게 신호를 보내고 있습니다."
+
 #after first encounter has happened before
-mem_vazurans.5b.desc:0 "차원문이 열렸고 이어 나타난 적대적 함대가 우리 식민지로 향하고 있는 것이 확인되었습니다. 또 다른 습격 함대인 것으로 보입니다."
+
+mem_vazurans.5b.desc: "차원문이 열렸고 이어 나타난 적대적 함대가 우리 식민지로 향하고 있는 것이 확인되었습니다. 또 다른 습격 함대인 것으로 보입니다."
+MEM_VAZURANS_ENERGY_DAMPENER: "에너지 완충막"
+
 #retaliation encounter
-mem_vazurans.5c.desc:0 "거대한 차원문이 열리고 엄청난 규모의 함대가 나타났습니다. 우리 본성으로 향하고 있습니다!"
-mem_vazurans.5.a:0 "연결해."
-mem_vazurans.5.b:0 "식민지를 지켜라."
-mem_vazurans.5.c:0 "무슨 수를 쓰더라도 [root.Capital.GetName]을(를) 지켜내야만 한다!"
+
+mem_vazurans_aura_energy_dampener: "에너지 완충기"
+mem_vazurans.5c.desc: "거대한 차원문이 열리고 엄청난 규모의 함대가 나타났습니다. 우리 본성으로 향하고 있습니다!"
+mem_vazurans.5.a: "연결해."
+mem_VAZURAN_ARMOR_DESC: "이 초고밀도의 재질은 바주란 함선들의 놀라운 내구도의 비밀입니다. 현재 알려진 그 어떤 장갑보다도 우월합니다."
+mem_vazurans.5.b: "식민지를 지켜라."
+mem_vazurans.5.c: "무슨 수를 쓰더라도 [root.Capital.GetName]을(를) 지켜내야만 한다!"
+
 #First Contact message
-mem_vazurans.6.name:0 "메시지 수신"
-mem_vazurans.6a.desc:0 "우리는 바주란이다. 아주 오래 전, 너희 조상들이 하찮은 동굴 속에서 살고 있을 때조차 이 은하는 우리의 것이었다...\n\n우리에게 복종하지 아니하면 이전에 있었던 자들과 같은 운명을 마주하게 될 것이다.\n\n너희가 존재할 수 있는 이유는 우리가 너희의 존재를 용납하기 때문인 것을 깨달아라...\n\n그리고 저항할 생각은 절대 하지마라... 우리가 원하면 끝을 보게 될 것이니."
-mem_vazurans.6b.desc:0 "예상했던 것보다 회복이 빠른 종족이였군...\n\n우리는 바주란이다. 아주 오래 전, 너희 조상들이 하찮은 동굴 속에서 살고 있을 때조차 이 은하는 우리의 것이었다...\n\n우리에게 복종하지 아니하면 이전에 있었던 자들과 같은 운명을 마주하게 될 것이다. 이미 너희의 고향을 불태운 적이 있으니 한 번 더 하는 것은 어렵지도 않다.\n\n너희가 존재할 수 있는 이유는 우리가 너희의 존재를 용납하기 때문인 것을 깨달아라...\n\n그리고 저항할 생각은 절대 하지마라... 우리가 원하면 끝을 보게 될 것이니."
-mem_vazurans.6.a:0 "넌 누구지?"
-mem_vazurans.6.a.response:0 "너희의 주인... 더 알 필요는 없다..."
+
+mem_vazurans.6.name: "메시지 수신"
+mem_vazurans.6a.desc: "우리는 바주란이다. 아주 오래 전, 너희 조상들이 하찮은 동굴 속에서 살고 있을 때조차 이 은하는 우리의 것이었다...\n\n우리에게 복종하지 아니하면 이전에 있었던 자들과 같은 운명을 마주하게 될 것이다.\n\n너희가 존재할 수 있는 이유는 우리가 너희의 존재를 용납하기 때문인 것을 깨달아라...\n\n그리고 저항할 생각은 절대 하지마라... 우리가 원하면 끝을 보게 될 것이니."
+mem_vazurans.6b.desc: "예상했던 것보다 회복이 빠른 종족이였군...\n\n우리는 바주란이다. 아주 오래 전, 너희 조상들이 하찮은 동굴 속에서 살고 있을 때조차 이 은하는 우리의 것이었다...\n\n우리에게 복종하지 아니하면 이전에 있었던 자들과 같은 운명을 마주하게 될 것이다. 이미 너희의 고향을 불태운 적이 있으니 한 번 더 하는 것은 어렵지도 않다.\n\n너희가 존재할 수 있는 이유는 우리가 너희의 존재를 용납하기 때문인 것을 깨달아라...\n\n그리고 저항할 생각은 절대 하지마라... 우리가 원하면 끝을 보게 될 것이니."
+mem_vazurans.6.a: "넌 누구지?"
+mem_vazurans.6.a.response: "너희의 주인... 더 알 필요는 없다..."
+mem_vazurans_damper_field_exploit: "완충막 이해"
+
 #peaceful reply
-mem_vazurans.6.b:0 "거, 서로 평화롭게 공존하는 방법은 없는거요!?"
-mem_vazurans.6.b.response:0 "존재하지... 우리가 다스리고, 너희가 복종하고..."
+
+mem_vazurans_damper_field_exploit_desc: "그 능력과 한계점들을 이해함으로 우린 우리 무기들이 완충막의 약점을 노리도록 개조했습니다."
+mem_vazurans.6.b: "거, 서로 평화롭게 공존하는 방법은 없는거요!?"
+mem_vazurans.6.b.response: "존재하지... 우리가 다스리고, 너희가 복종하고..."
+
 #xenophobe reply
-mem_vazurans.6.c:0 "우리는 두렵지 않다, 외계종..."
-mem_vazurans.6.c.response:0 "때가 되면... 두려워 할 것이다..."
+
+mem_vazurans.6.c: "우리는 두렵지 않다, 외계종..."
+d_mem_vazuran_bomb_crater: "$d_bomb_crater$"
+mem_vazurans.6.c.response: "때가 되면... 두려워 할 것이다..."
+d_mem_vazuran_bomb_crater_desc: "$d_bomb_crater_desc$"
+
 #Message for retaliation
-mem_vazurans.7.name:0 "메시지 수신"
-mem_vazurans.7a.desc:0 "너희의 저항이 계속 우리를 귀찮게 했다. 너희의 이 행동에 대한 결과를 보여주기 위해 강력한 함대를 보냈다."
-mem_vazurans.7.a:0 "통신을 종료해라."
+
+mem_vazurans.7.name: "메시지 수신"
+mem_vazurans.7a.desc: "너희의 저항이 계속 우리를 귀찮게 했다. 너희의 이 행동에 대한 결과를 보여주기 위해 강력한 함대를 보냈다."
+mem_vazurans.7.a: "통신을 종료해라."
+
 #Colony lost to Vazuran Terror attack
-mem_vazurans.8.name:0 "식민지 상실"
-mem_vazurans.8.desc:0 "이번에는 바주란 함대가 자원을 약탈하는 것으로 만족하지 못했던 것으로 보입니다. 식민지 하나가 아예 파괴되었고, 우리는 이 악행에 아무런 대응도 하지 못했습니다."
-mem_vazurans.8.a:0 "멈출 방법이 분명 존재할거야!"
-mem_vazurans.8.b:0 "국민을 지켜야만 한다... 어떻게 지킬지는 모르겠다!"
+
+mem_vazurans.8.name: "식민지 상실"
+mem_vazurans.8.desc: "이번에는 바주란 함대가 자원을 약탈하는 것으로 만족하지 못했던 것으로 보입니다. 식민지 하나가 아예 파괴되었고, 우리는 이 악행에 아무런 대응도 하지 못했습니다."
+mem_vazurans.8.a: "멈출 방법이 분명 존재할거야!"
+mem_vazuran_gateway: "안정화된 균열"
+mem_vazurans.8.b: "국민을 지켜야만 한다... 어떻게 지킬지는 모르겠다!"
+mem_vazuran_gateway_DESC: "이 성계와 균열 연결체를 잇는 복구된 균열."
+
 #Colony attacked by Vazuran Raid
-mem_vazurans.9.name:0 "공격당한 식민지"
-mem_vazurans.9.desc.a:0 "우리 [mem_vazurans_raid_planet_name.Getname] 식민지가 바주란 습격 함대에게 공격을 받았습니다. 셀 수 없이 많은 시민들이 이 무자비한 공격에 목숨을 잃었고, 식민지의 기반시설이 파괴되었습니다.\n\n끔찍하기는 했지만, 행성 방위 체계가 없었다면 그 피해는 더 심각했을 수도 있습니다."
-mem_vazurans.9.desc.b:0 "우리 [mem_vazurans_raid_planet_name.Getname] 식민지가 바주란 습격 함대에게 공격을 받았습니다. 셀 수 없이 많은 시민들이 이 무자비한 공격에 목숨을 잃었고, 식민지의 기반시설이 파괴되었습니다."
-mem_vazurans.9.a:0 "우리는 견뎌낼 것이다!"
-mem_vazurans.9.b:0 "방어 체계를 강화시켜라!"
-mem_vazurans.9.c:0 "국민을 지켜야 하지만... 대체 어떻게?!"
+
+mem_vazuran_gateway_MEGASTRUCTURE_DETAILS: ""
+mem_vazurans.9.name: "공격당한 식민지"
+mem_vazuran_gateway_CONSTRUCTION_INFO_DELAYED: ""
+mem_vazurans.9.desc.a: "우리 [mem_vazurans_raid_planet_name.Getname] 식민지가 바주란 습격 함대에게 공격을 받았습니다. 셀 수 없이 많은 시민들이 이 무자비한 공격에 목숨을 잃었고, 식민지의 기반시설이 파괴되었습니다.\n\n끔찍하기는 했지만, 행성 방위 체계가 없었다면 그 피해는 더 심각했을 수도 있습니다."
+mem_vazurans.9.desc.b: "우리 [mem_vazurans_raid_planet_name.Getname] 식민지가 바주란 습격 함대에게 공격을 받았습니다. 셀 수 없이 많은 시민들이 이 무자비한 공격에 목숨을 잃었고, 식민지의 기반시설이 파괴되었습니다."
+mem_vazuran_gateway_nexus: "균열 연결체"
+mem_vazurans.9.a: "우리는 견뎌낼 것이다!"
+mem_vazuran_gateway_nexus_DESC: "차원 균열을 통해 순식간에 이동할 수 있게 해주는 연결체."
+mem_vazurans.9.b: "방어 체계를 강화시켜라!"
+mem_vazuran_gateway_nexus_MEGASTRUCTURE_DETAILS: ""
+mem_vazurans.9.c: "국민을 지켜야 하지만... 대체 어떻게?!"
+mem_vazuran_gateway_nexus_CONSTRUCTION_INFO_DELAYED: ""
+
 #Planetary defense project
-MEM_VAZURANS_DEFENSE_PLAN:0 "방어 강화"
-MEM_VAZURANS_DEFENSE_PLAN_DESC:0 "우리 식민지가 공격을 받은 이후, 이것을 교훈으로 삼아 바주란의 위협으로부터 우리 사람들을 지키기 위해 새로운 방어 체계를 개발해내기 위한 계획이 개시되었습니다."
+
+MEM_VAZURANS_DEFENSE_PLAN: "방어 강화"
+GATEWAY_VAZURAN: "차원 균열"
+MEM_VAZURANS_DEFENSE_PLAN_DESC: "우리 식민지가 공격을 받은 이후, 이것을 교훈으로 삼아 바주란의 위협으로부터 우리 사람들을 지키기 위해 새로운 방어 체계를 개발해내기 위한 계획이 개시되었습니다."
+GATEWAY_VAZURAN_DESC: "두 공간 사이의 이동이 가능하도록 인위적으로 만들어진 균열."
+
 #Information event about a known empire being attacked
-mem_vazurans.20.name:0 "어수선한 은하"
-mem_vazurans.20a.desc:0 "알 수 없는 세력이 [mem_vazuran_victim.GetName]을(를) 공격했다는 보고를 받았습니다."
-mem_vazurans.20b.desc:0 "[mem_vazuran_victim.GetName]에 있는 우리 정보원이 상주하고 있는 국가에 바주란 함대의 공격이 다시 시작되었다고 보고했습니다."
-mem_vazurans.20c.desc:0 "바주란 함대가 [mem_vazuran_victim.GetName]을(를) 공격하고 있다는 보고를 받았습니다."
-mem_vazurans.20d.desc:0 "바주란 함대가 또 다시 습격을 시작했습니다. 이번에는 [mem_vazuran_victim.GetName]을(를) 목표로 하고 있습니다."
+
+mem_vazurans.20.name: "어수선한 은하"
+mem_vazurans.20a.desc: "알 수 없는 세력이 [mem_vazuran_victim.GetName]을(를) 공격했다는 보고를 받았습니다."
+mem_vazurans.20b.desc: "[mem_vazuran_victim.GetName]에 있는 우리 정보원이 상주하고 있는 국가에 바주란 함대의 공격이 다시 시작되었다고 보고했습니다."
+mem_vazurans.20c.desc: "바주란 함대가 [mem_vazuran_victim.GetName]을(를) 공격하고 있다는 보고를 받았습니다."
+mem_vazurans.4a.desc.gestalt: "[mem_vazurans_target_sun.GetName] 성계 내의 우리 센서들은 엄청난 에너지 수치를 기록했습니다. 드론들을 보내 조사한 결과 현실 자체를 찢는 우주적 균열이 발견되었습니다.\n\n현재 성계의 경계 단계는 최고 수준으로 지정되었습니다. 성계의 방어를 위해 우리 함대 일부를 지원으로 보내는 것을 고려해야 할 것입니다."
+mem_vazurans.20d.desc: "바주란 함대가 또 다시 습격을 시작했습니다. 이번에는 [mem_vazuran_victim.GetName]을(를) 목표로 하고 있습니다."
+
 #Information event about an unknown empire being attacked
-mem_vazurans.21.name:0 "어수선한 은하"
-mem_vazurans.21a.desc:0 "무역상들로부터 얻은 소식에 의하면 많은 제국들이 알 수 없는 세력에게 공격을 받고 있다고 합니다. 또한 공격자가 매우 잘 무장한 상태라고 합니다."
-mem_vazurans.21b.desc:0 "우주 자유 통신 채널은 바주란의 공격에 대한 소식들로 가득합니다."
+
+mem_vazurans.4b.desc: "[mem_vazurans_target_sun.GetName] 성계 내의 감시 스테이션의 보고에 의하면 새로운 우주적 균열이 생기고 있다고 합니다. 우리 함대는 이미 경계 태세에 들어갔습니다. 최악의 상황을 가정해야 합니다."
+mem_vazurans.21.name: "어수선한 은하"
+mem_vazurans.21a.desc: "무역상들로부터 얻은 소식에 의하면 많은 제국들이 알 수 없는 세력에게 공격을 받고 있다고 합니다. 또한 공격자가 매우 잘 무장한 상태라고 합니다."
+mem_vazurans.4c.desc: "[mem_vazurans_target_sun.GetName] 성계 내의 감시 스테이션의 보고에 의하면 거대한 우주적 균열이 생기고 있다고 합니다. 크기를 보아하니 매우 위험한 수준입니다. 최악의 상황을 가정해야 합니다."
+mem_vazurans.21b.desc: "우주 자유 통신 채널은 바주란의 공격에 대한 소식들로 가득합니다."
+
 # Information event about Vazuran Homefleet defeated
-mem_vazurans.30.name:0 "바주란 본토 함대가 패배함!"
-mem_vazurans.30a.desc:0 "Reports have reached us of the Vazurans suffering a decisive defeat against the [mem_vazuran_victor.GetAdj] navy. 이들의 함대가 격퇴되면서 온 은하가 바주란의 공포에서 벗어났다는 사실에 기뻐하고 있습니다."
+
+mem_vazurans.30.name: "바주란 본토 함대가 패배함!"
+mem_vazurans.30a.desc: "Reports have reached us of the Vazurans suffering a decisive defeat against the [mem_vazuran_victor.GetAdj] navy. 이들의 함대가 격퇴되면서 온 은하가 바주란의 공포에서 벗어났다는 사실에 기뻐하고 있습니다."
+
 # Information event about Vazuran Homeworld Taken
-mem_vazurans.31.name:0 "바주란 본성의 함락"
-mem_vazurans.31a.desc:0 "함대가 없는 바주란의 본성을 점령하는 것은 식은 죽 먹기였습니다. [mem_vazuran_invader.GetAdj] 군대가 이 성공적이었던 작전을 기념하였고, 이는 오랫동안 이어졌던 바주란의 위협으로부터 벗어난 은하가 새로운 시대에 접어들었다는 것을 의미합니다."
-mem_vazurans_31.a:0 "드디어!"
+
+mem_vazurans.31.name: "바주란 본성의 함락"
+mem_vazurans.31a.desc: "함대가 없는 바주란의 본성을 점령하는 것은 식은 죽 먹기였습니다. [mem_vazuran_invader.GetAdj] 군대가 이 성공적이었던 작전을 기념하였고, 이는 오랫동안 이어졌던 바주란의 위협으로부터 벗어난 은하가 새로운 시대에 접어들었다는 것을 의미합니다."
+mem_vazurans_31.a: "드디어!"
+
 #Finishing investigation of first Rift
-mem_vazurans.40.name:0 "차원문"
-mem_vazurans.40.a:0 "매우 불안해지는군."
+
+mem_vazurans.40.name: "차원문"
+mem_vazurans.40.a: "매우 불안해지는군."
+
 #Retaliation Fleet has been destroyed by target empire
+
+
 #Stabilization tech researched and project to stabilize rift set
-mem_vazurans.51.name:0 "관문 수호자"
-MEM_VAZURANS_RIFT_STABILIZATION:0 "균열 안정화"
+
+mem_vazurans.51.name: "관문 수호자"
+MEM_VAZURANS_RIFT_STABILIZATION: "균열 안정화"
+
 #Player being informed about established connection
-mem_vazurans.53.name:0 "차원문"
+
+mem_vazurans.53.name: "차원문"
+
 #Finding a destroyed Planet
+
+
 #haven't seen anything Vazuran related so far
+
+
 #only seen another destroyed planet so far
+
+
 #already met the vazurans and seen a destroyed planet
-MEM_VAZURANS_BROKEN_PLANET_INVESTIGATION:0 "파괴된 행성"
+
+MEM_VAZURANS_BROKEN_PLANET_INVESTIGATION: "파괴된 행성"
+
 #Finished Project on first broken world
+
+
 #not met vazurans before
+
+
 #met vazurans before
+
+
 #Anomaly 1
+
+
 #Anomaly success 1
+
+
 #Anomaly success 2
+
+
 #Anomaly success 3
-mem_vazurans.204.name:0 "과거의 망령"
+
+mem_vazurans.204.name: "과거의 망령"
+
 #Anomaly 2
+
+
 #Anomaly success 4
+
+
 #Project finished
-mem_vazurans.206.name:0 "타임캡슐"
+
+mem_vazurans.206.name: "타임캡슐"
+
 #Finished Planet defense project
+
+
 #Damper field quest start 1
-mem_vazurans.251.a:0 "조사를 개시하라."
+
+mem_vazurans.251.a: "조사를 개시하라."
+
 #Damper field anomaly 1
-mem_vazurans_category_3_desc:0 "An ancient alien wreckage has been found on [From.GetName]. 추가적인 조사가 필요합니다."
+
+mem_vazurans.7b.desc: "우리의 기술을 가지고 장난치면 모를 것이라 생각했나? 너희들은 이제 이 모독의 대가를 치르게 될 것이다."
+mem_vazurans_category_3_desc: "An ancient alien wreckage has been found on [From.GetName]. 추가적인 조사가 필요합니다."
+
 #Anomaly success
-mem_vazurans.252.a:0 "흥미롭군."
+
+mem_vazurans.252.a: "흥미롭군."
+
 #Damper field quest start 2
-mem_vazurans.253.name:0 "외계 함선 잔해 발견"
-mem_vazurans.253.a:0 "조사를 개시하라."
+
+mem_vazurans.253.name: "외계 함선 잔해 발견"
+mem_vazurans.253.a: "조사를 개시하라."
+
 #Damper field anomaly 2
-mem_vazurans_category_4:0 "외계 함선 잔해"
-mem_vazurans.254.a:0 "흥미롭군."
+
+mem_vazurans_category_4: "외계 함선 잔해"
+mem_vazurans.254.a: "흥미롭군."
+
 #Drifting vazuran wreckage found in deep space
-mem_vazurans.255.a:0 "조사를 개시하라."
+
+mem_vazurans.255.a: "조사를 개시하라."
+
 #Wreckage investigation
+
+
 #Wreckage investigation success
-mem_vazurans.256.a:0 "흥미롭군."
+
+mem_vazurans.256.a: "흥미롭군."
+
 #Damper field project
-MEM_VAZURANS_DAMPER_FIELD_GENERATOR_INVESTIGATION:0 "역설계"
+
+MEM_VAZURANS_DAMPER_FIELD_GENERATOR_INVESTIGATION: "역설계"
+
 #Damper field project finished
+
+
 # Reaching Vazuran Homesystem
-mem_vazurans.280.name:0 "바주란 고향 성계"
-mem_vazurans.280.desc:0 "우리 정찰대가 균열을 통해 그 반대쪽에 도달했습니다. 예상했던대로 강하게 요새화되어있는 것을 확인했습니다. Besides a circle of formidable fortresses around the system's borders and a fleet of a similar strength to the one we faced during the attack on our homeworld, there is another vessel far larger in size than anything seen before. It is orbiting a shattered world close to a giant structure which appears to be the Vazuran base of operations.\n\nAs our ship is still processing the data, it detects a spike in energy readings in the fortresses. It cannot remain there any longer without the risk of being attacked. If we are to return, it has to be in force."
+
+mem_vazurans.280.name: "바주란 고향 성계"
+mem_vazurans.280.desc: "우리 정찰대가 균열을 통해 그 반대쪽에 도달했습니다. 예상했던대로 강하게 요새화되어있는 것을 확인했습니다. Besides a circle of formidable fortresses around the system's borders and a fleet of a similar strength to the one we faced during the attack on our homeworld, there is another vessel far larger in size than anything seen before. It is orbiting a shattered world close to a giant structure which appears to be the Vazuran base of operations.\n\nAs our ship is still processing the data, it detects a spike in energy readings in the fortresses. It cannot remain there any longer without the risk of being attacked. If we are to return, it has to be in force."
+
 # Defeated Vazuran Homefleet
-mem_vazurans.281.name:0 "바주란 함대의 패배"
-mem_vazurans.281.desc:0 "바주란 함대가 쓰러졌습니다. 바주란의 콜로서스는 전투에서 패배했고 우리가 이 전투에서 승리했습니다.\n\n이제 이들의 고향에 진격할 우리 군대를 막을 적은 남지 않았습니다."
-mem_vazurans.281:0 "승리를 향하여."
+
+mem_vazurans.281.name: "바주란 함대의 패배"
+mem_vazurans.281.desc: "바주란 함대가 쓰러졌습니다. 바주란의 콜로서스는 전투에서 패배했고 우리가 이 전투에서 승리했습니다.\n\n이제 이들의 고향에 진격할 우리 군대를 막을 적은 남지 않았습니다."
+mem_vazurans.281: "승리를 향하여."
+
 # Invaded Vazuran HQ
-mem_vazurans.282.name:0 "재앙의 끝"
-mem_vazurans.282.desc:0 "오늘은 새로운 시대의 시작을 나타내는 날입니다. 바주란의 군세는 격퇴되었습니다. 이제 바주란 때문에 두려워하지 않아도 됩니다.\n\n남아있는 바주란 군대가 방어에 전념했고, 우리는 이 승리를 얻어내기 위해 수 많은 희생을 치렀습니다. 패배가 불가피하다는 것을 깨달은 이들은 결국 자폭 명령을 내려 거주구역의 대부분을 날려버렸습니다.\n\n하지만 성과가 없었던 것은 아니였습니다. 특수작전팀 중 하나가 바주란 군대가 사용하던 '젠트로늄'의 자세한 생산 과정이 담긴 데이터 코어를 성공적으로 탈취했습니다. 높은 밀도의 특징을 가진 이 젠트로늄으로 함선의 장갑을 강화시킬 수 있지만, 실탄포에 들어가는 탄약을 크게 개선시킬 수도 있을 것입니다."
-mem_vazurans.282.a:0 "잘했어!"
+
+mem_vazurans.282.name: "재앙의 끝"
+mem_vazurans.282.desc: "오늘은 새로운 시대의 시작을 나타내는 날입니다. 바주란의 군세는 격퇴되었습니다. 이제 바주란 때문에 두려워하지 않아도 됩니다.\n\n남아있는 바주란 군대가 방어에 전념했고, 우리는 이 승리를 얻어내기 위해 수 많은 희생을 치렀습니다. 패배가 불가피하다는 것을 깨달은 이들은 결국 자폭 명령을 내려 거주구역의 대부분을 날려버렸습니다.\n\n하지만 성과가 없었던 것은 아니였습니다. 특수작전팀 중 하나가 바주란 군대가 사용하던 '젠트로늄'의 자세한 생산 과정이 담긴 데이터 코어를 성공적으로 탈취했습니다. 높은 밀도의 특징을 가진 이 젠트로늄으로 함선의 장갑을 강화시킬 수 있지만, 실탄포에 들어가는 탄약을 크게 개선시킬 수도 있을 것입니다."
+mem_vazurans.282.a: "잘했어!"
+
 # Player is informed of Vazurans committing genocide
-mem_vazurans.306.name:0 "바주란의 잔악행위"
-mem_vazurans.306.desc:0 "바주란이 [mem_vazurans_extermination_target.GetSpeciesNamePlural] 종족과 [mem_vazurans_extermination_target.GetName]을(를) 완전히 없애버리려는 군사 작전을 펼치고 있다는 보고를 받았습니다. 대체 왜 이런 잔악행위를 펼치는 것인지는 명확히 밝혀진 것이 없습니다. 하지만 분명한 것은, [mem_vazurans_extermination_target.GetSpeciesNamePlural]들이 승산없는 전투를 벌이고 있다는 것입니다. 이들의 멸망은 이제 시간문제입니다."
-mem_vazurans.306.a:0 "정말 끔찍하군..."
+
+mem_vazurans.306.name: "바주란의 잔악행위"
+mem_vazurans.306.desc: "바주란이 [mem_vazurans_extermination_target.GetSpeciesNamePlural] 종족과 [mem_vazurans_extermination_target.GetName]을(를) 완전히 없애버리려는 군사 작전을 펼치고 있다는 보고를 받았습니다. 대체 왜 이런 잔악행위를 펼치는 것인지는 명확히 밝혀진 것이 없습니다. 하지만 분명한 것은, [mem_vazurans_extermination_target.GetSpeciesNamePlural]들이 승산없는 전투를 벌이고 있다는 것입니다. 이들의 멸망은 이제 시간문제입니다."
+mem_vazurans.306.a: "정말 끔찍하군..."
+
 # Galactic Resolutions
-resolution_mem_galactic_focus_crisis_vazurans_1:0 "바주란의 위협: 식민지 방어"
-resolution_mem_galactic_focus_crisis_vazurans_1_desc:0 "바주란 함대가 온 은하를 공격하기에 은하에 안전한 식민지는 존재하지 않다는 것이 확실해졌습니다. 이 결의안으로 은하 공동체 회원국들은 바주란 군대의 공격 패턴과 식민지를 보호할 대책에 대한 지식을 공유하게 될 것입니다."
-resolution_galactic_focus_crisis_vazurans_1_effect_success:0 "식민지들이 바주란의 폭격으로부터 더 적은 황폐화를 얻게되고 POP의 손실도 줄어들게 될 것입니다."
-resolution_mem_galactic_focus_crisis_vazurans_2:0 "바주란의 위협: 판 뒤집기"
-resolution_mem_galactic_focus_crisis_vazurans_2_desc:0 "은하 공동체는 너무 오랫동안 바주란의 공격에 무방비한 채로 있었습니다. 저들의 맹공격으로부터 살아남기 위해 이제 서로 힘을 합쳐 상대해야할 시간입니다."
+
+resolution_mem_galactic_focus_crisis_vazurans_1: "바주란의 위협: 식민지 방어"
+resolution_mem_galactic_focus_crisis_vazurans_1_desc: "바주란 함대가 온 은하를 공격하기에 은하에 안전한 식민지는 존재하지 않다는 것이 확실해졌습니다. 이 결의안으로 은하 공동체 회원국들은 바주란 군대의 공격 패턴과 식민지를 보호할 대책에 대한 지식을 공유하게 될 것입니다."
+resolution_galactic_focus_crisis_vazurans_1_effect_success: "식민지들이 바주란의 폭격으로부터 더 적은 황폐화를 얻게되고 POP의 손실도 줄어들게 될 것입니다."
+mem_vazurans.40.desc: "바주란과의 접촉 후 균열 내부로 보낸 드론들의 데이터에 의하면, 균열은 자연적으로 발생하는 웜홀과 상당히 비슷한 구조였습니다. 하지만 웜홀과는 달리 이 균열은 인위적으로 만들어진 것으로 보입니다. 우리 [root.GetScientistResearchSubroutinePlural]들은 이것이 어떻게 가능한지에 대한 설명을 하지 못하는 상황입니다.\n\n추가적인 정보를 얻기 전까진 이 균열들이 어디든지 열릴 수 있다고 가정해야 합니다. 우린 상시경계하고 있어야 합니다."
+resolution_mem_galactic_focus_crisis_vazurans_2: "바주란의 위협: 판 뒤집기"
+resolution_mem_galactic_focus_crisis_vazurans_2_desc: "은하 공동체는 너무 오랫동안 바주란의 공격에 무방비한 채로 있었습니다. 저들의 맹공격으로부터 살아남기 위해 이제 서로 힘을 합쳐 상대해야할 시간입니다."
+mem_vazurans.50.name: "전투는 끝났다"
+mem_vazurans.50a.desc: "우리 함대는 [root.capital_scope.GetName]에서의 격렬한 전투 후 승리했습니다. 남은 바주란 함선들은 전부 후퇴중입니다. 아직 우리의 손실은 집결되고 있지만 많은 함선들이 반파되었으며 일부는 버려져야 했습니다. 하지만 이는 가치 있는 희생이었습니다. 이제 그들은 우리를 함부로 공격하지 못할 것입니다."
+mem_vazurans.50b.desc: "우리 함대는 바주란 함선들을 막아내는 데에 실패했습니다. 그들은 우리 수도를 폭격하고 황무지로 만들었습니다. 도시들을 집중으로 공격했기에 사상자는 수십억명에 달하며 물질적인 피해의 복구에만 수년이 걸릴 것입니다.\n\n그들이 우리를 침공할 때 사용한 균열이 닫히고 있습니다. 하지만 이번엔 매우 느리게 벌어지고 있습니다. 우리 과학자들은 이 거대한 균열은 소멸하지 않을 것이라 예측합니다. 이는걱정이면서도 우리에게 큰 기회가 됩니다. 우리가 이 균열을 안정화시킨다면, 죽은 자들의 복수를 하기 위해 바주란의 본진을 칠 수 있을 것입니다."
+mem_vazurans.50b.desc.gestalt: "우리 함대는 바주란 함선들을 막아내는 데에 실패했습니다. 그들은 우리 수도를 폭격하고 황무지로 만들었습니다. 전략적 장소들을 집중으로 공격했기에 드론 손실은 수십억에 달하며 물질적인 피해의 복구에만 수년이 걸릴 것입니다.\n\n그들이 우리를 침공할 때 사용한 균열이 닫히고 있습니다. 하지만 이번엔 매우 느리게 벌어지고 있습니다. 우리 [root.GetScientistResearchSubroutine]들은 이 거대한 균열은 소멸하지 않을 것이라 예측합니다. 이는걱정이면서도 우리에게 큰 기회가 됩니다. 우리가 이 균열을 안정화시킨다면, 죽은 자들의 복수를 하기 위해 바주란의 본진을 칠 수 있을 것입니다."
+mem_vazurans.50.a: "그리 되기를 바라자."
+mem_vazurans.51.desc: "균열의 이해와 기반 기술의 연구가 완료되었으니 [root.GetScientistResearchSubroutinePlural]들은 기존 균열 근처에 정거장의 건설을 제안했습니다. 계획에 의하면 이 정거장은 균열을 다시 열고 유지하는 데에 필요한 에너지를 공급할 것입니다."
+mem_vazurans.51.a: "그리하라."
+MEM_VAZURANS_RIFT_STABILIZATION_DESC: "우린 바주란 본진으로의 침공로를 만들고 유지하는 데에 필요한 장비를 준비해야 합니다."
+mem_vazurans.53.desc: "우리 기술자들은 균열 정거장의 건설을 완료했습니다. 안정화 작업이 시작되자 영원과도 같았던 시간이 흐른 뒤 균열이 다시 열렸습니다. 균열에 진입한 탐사정들에 의하면 반대쪽과 연결이 무사히 되었다고 합니다. 우린 이제 유인 탐사대를 보낼 준비가 되었습니다."
+mem_vazurans.53.desc.gestalt: "우리 드론들은 균열 정거장의 건설을 완료했습니다. 안정화 작업이 시작되자 영원과도 같았던 시간이 흐른 뒤 균열이 다시 열렸습니다. 균열에 진입한 탐사정들에 의하면 반대쪽과 연결이 무사히 되었다고 합니다. 우린 이제 유인 탐사대를 보낼 준비가 되었습니다."
+mem_vazurans.53.a: "잘했다."
+mem_vazurans.200.name: "페허"
+mem_vazurans.200a.desc: "[From.GetName] 성계에 도달하자 우리 센서에 과거에 산산조각난 행성이 하나 발견되었습니다. 이것의 원인은 불명하며, 추가 조사가 필요합니다."
+mem_vazurans.200b.desc: "우린 또 다른 부서진 행성에 도착했습니다. 스캔에 의하면 저번의 그 행성과 동일한 중금속의 흔적이 발견되었습니다. 이 행성도 같은 세력에 의해 파괴되었을 것입니다."
+mem_vazurans.200c.desc: "우린 또 다른 부서진 행성에 도착했습니다. 스캔에 의하면 저번의 그 행성과 동일한 중금속의 흔적이 발견되었습니다. 그들의 강철 주먹에 또 다른 행성이 희생되었습니다."
+MEM_VAZURANS_BROKEN_PLANET_INVESTIGATION_DESC: "이 장소의 장기간 연구를 한다면 행성에 무슨 일이 일어났는지를 알 수 있을 것입니다."
+mem_vazurans.201.name: "아포칼립스"
+mem_vazurans.201a.desc: "행성의 잔해들을 조사한 결과 [root.Leader.GetName]과 동기들은 우려되는 결론에 도달했습니다. 주어진 정보를 조합해본 결과 [From.From.GetName]의 현 상태는 괴멸적인 궤도 폭격의 결과입니다.\n\n행성에는 자연적으로 생기지 않는 중금속 원소들이 발견되었습니다. 하지만 누가 어째서 이런 짓을 했는지는 알 수 없습니다."
+mem_vazurans.201b.desc: "행성의 잔해들을 조사한 결과 [root.Leader.GetName]과 동기들은 우려되는 결론에 도달했습니다. 주어진 정보를 조합해본 결과 [From.From.GetName]의 현 상태는 괴멸적인 궤도 폭격의 결과입니다./n/n바주란의 기술에만 존재하는 중금속 원소들이 행성에서 발견되었습니다. 아무래도 이 행성을 멸망시킴으로 경고를 보낸 것으로 보입니다. 이 행성에 살았을 문명의 흔적은 전혀 없습니다."
+mem_vazurans.201.a: "조금 우려스럽군."
+mem_vazurans_category_1: "크레이터 투성이"
+mem_vazurans_category_1_desc: "황무지 행성에서 소행성 충돌의 흔적이 발견되는 것은 흔한 일이지만, 이 경우에는 크레이터들이 자연스럽게 생성되었다기에는 배치가 너무 규칙적입니다."
+mem_vazurans.202.name: "세상의 끝"
+mem_vazurans.202.desc: "크레이터를 조사하기 위해 저고도 비행을 하던 도중, 우리 과학자들은 페허 아래에서 반복되는 신호를 감지했습니다. [root.Leader.GetName]는 신호의 위치를 추적했지만, 위험성 떄문에 접근하는 계획을 보류했습니다.\n\n조사팀은 [root.GetName] 내에서 암호화된 통신을 해독하는 데에 성공했습니다.\n\n통신의 영상은 대중적인 축제를 생중개하던 도중에 시작하였습니다.\n\n사람들은 무언가의 잔해를 들고 퍼레이드 하는 자들을 보며 환호하고 있었지만, 갑자기 분위기가 바뀌고 사람들이 도망치기 시작했습니다. 그러다 화면은 검게 변한 하늘을 가리키기 시작합니다. 불타는 잔해들이 지상으로 떨어지기 시작합니다. 잔해들이 지상에 충돌하기 전, 곳곳에서 커다란 폭발이 일어나고 영상은 끝납니다.\n\n음성을 번역하기에는 자료가 부족하지만, [root.Leader.GetName]의 주장에 의하면 이는 [From.GetName]가 외계 함대에 의해 폭격되었다는 증거입니다. 행성 표면 전체에서 발견되는 초고밀도 물질은 이 주장을 지지합니다."
+mem_vazurans.203.name: "악의로 가득한 장난"
+mem_vazurans.203.desc: "[From.GetName]의 표면을 조사한 결과 그다지 도움이 되는 정보를 얻지 못했습니다. 오히려 새로운 미스터리가 생겼습니다. 자연적으로는 생성되지 않는 물질이 행성 표면 전체에서 발견되었습니다.\n\n하지만 [From.GetName] 주변을 돌던 소행성에서 [root.GetName]가 숨겨진 기지를 발견하였을 때 이 의문이 해결되었습니다. 우리 기준으론 미개한 이 시설은 동면장치들이 수천 구의 시체를 보관하고 있었습니다.\n\n시설의 컴퓨터에 남은 자료들을 모아서 분석한 결과, 우리 과학자들은 [From.GetName]의 주민들이 처했던 절망적인 상황을 알아낼 수 있었습니다. 그들의 문명은 과거에 수 차례나 기술적으로 우위에 선 자들에 의해 공격받았습니다. 그들이 더 격하게 저항할수록 상대 또한 수단을 가리지 않게 되었고, 결국 예상대로 그들은 패배한 것으로 보입니다. 이 기지는 최악의 상황에 대비하기 위해 만들어진 노아의 방주로써 그들 중 가장 뛰어난 지식인들과 유전적 다양성을 고려해 선발된 주민들을 보호해 문명을 재건할 수 있도록 할 계획이었던 것으로 보입니다. \n\n하지만 그들은 적이 자신들의 행성 자체를 파괴할 것으로 예상하지 못한 것으로 보입니다. 우리조차 이 시설을 발견할 수 있었다는 것을 보면, 이 기지는 의도적으로 살려둔 것으로 보입니다. 기록에 의하면 동면 장치들은 지상과의 연락이 두절되고 10년 후에 계획대로 정지했습니다. [root.Leader.GetName]은 이 사람들이 처한 상황에 느꼈을 절망을 상상조차 하지 못하고 있습니다. 아광속 함선 2대만 가진 체 돌아갈 행성을 잃은 그들은 우주에 고립되었습니다. 얼마 뒤, 동면 장치들은 영원히 재가동되었습니다."
+mem_vazurans.203.desc.gestalt: "[From.GetName]의 표면을 조사한 결과 그다지 도움이 되는 정보를 얻지 못했습니다. 오히려 새로운 미스터리가 생겼습니다. 자연적으로는 생성되지 않는 물질이 행성 표면 전체에서 발견되었습니다.\n\n하지만 [From.GetName] 주변을 돌던 소행성에서 [root.GetName]가 숨겨진 기지를 발견하였을 때 이 의문이 해결되었습니다. 우리 기준으론 미개한 이 시설은 동면장치들이 수천 구의 시체를 보관하고 있었습니다.\n\n시설의 컴퓨터에 남은 자료들을 모아서 분석한 결과, 우리 과학자들은 [From.GetName]의 주민들이 처했던 절망적인 상황을 알아낼 수 있었습니다. 그들의 문명은 과거에 수 차례나 기술적으로 우위에 선 자들에 의해 공격받았습니다. 그들이 더 격하게 저항할수록 상대 또한 수단을 가리지 않게 되었고, 결국 예상대로 그들은 패배한 것으로 보입니다. 이 기지는 최악의 상황에 대비하기 위해 만들어진 노아의 방주로써 그들 중 가장 뛰어난 지식인들과 유전적 다양성을 고려해 선발된 주민들을 보호해 문명을 재건할 수 있도록 할 계획이었던 것으로 보입니다. \n\n하지만 그들은 적이 자신들의 행성 자체를 파괴할 것으로 예상하지 못한 것으로 보입니다. 우리조차 이 시설을 발견할 수 있었다는 것을 보면, 이 기지는 의도적으로 살려둔 것으로 보입니다. 기록에 의하면 동면 장치들은 지상과의 연락이 두절되고 10년 후에 계획대로 정지했습니다.우리는 이 사람들이 처한 상황에 느꼈을 절망을 상상조차 하지 못하고 있습니다. 아광속 함선 2대만 가진 체 돌아갈 행성을 잃은 그들은 우주에 고립되었습니다. 얼마 뒤, 동면 장치들은 영원히 재가동되었습니다."
+mem_vazurans.204.desc: "[From.GetName]의 표면을 더 면밀히 탐사한 결과 [root.Leader.GetName]의 조수 중 하나는 인공적 구조물로 확인된 무언가를 발견하였습니다.\n\n하지만 [root.GetName]의 통신과 [root.Leader.GetName]의 조사팀 간의 통신이 계속 끊겼기에 이 페허의 탐색은 예정되로 진행되지 못하고 있습니다. 이 기간동안 조사대 인원들 중 상당수는 환영을 보았다고 주장하기도 했습니다. 결국 조사대의 팀장마저 이를 겪자 위험성을 고려해 함선으로 돌아가기로 결정했습니다. 하지만 그들이 이륙하기 전에 다시 통신이 끊겼습니다. 통신이 회복되었을 때, 떨리는 목소리로 과학자들 중 하나가 당장 행성을 떠나겠다고 보고했습니다. [root.GetName]과의 집결지에 도착했을 때 쯤에는 선원의 절반은 여전히 의식이 없었습니다.\n\n의식을 되찾은 [root.Leader.GetName]은 자비 없는 적에 의한 한 행성의 멸망을 직접 목격했다고 보고했습니다. 그 이론에 의하면 [From.GetName]의 주민들은 상당한 사이오닉 능력을 보유했으며, 그 때문에 그들의 마지막 순간이 행성 자체에 각인되었다고 합니다. 신체에는 문제가 없지만, 이 경험은 조사대를 영원히 따라다닐 것입니다.\n\n추가적인 스캔을 진행한 결과 행성 표면 전체에서 무기에 사용되었을 법한 초고밀도의 재질이 발견되어 [root.Leader.GetName]의 주장에 신빙성을 추가했습니다."
+mem_vazurans_category_2: "크레이터 투성이"
+mem_vazurans_category_2_desc: "[From.GetName]의 스캔 결과 자연적으로 발생하지 않지만 수많은 문명의 붕괴 현장에서 발견된 재질과 크레이터들이 발견되었습니다."
+mem_vazurans.205.name: "수상한 위성"
+mem_vazurans.205.desc: "[From.GetName]를 추가적으로 조사한 결과 이 행성은 한때 생명이 살 수 있었으나 초고밀도 물질이 표면에 생성된 시기와 비슷하게 행성이 페허가 된 것을 보면 역시 궤도 폭격을 당한 것으로 보입니다. 이 사건은 수천년 전에 벌어졌을 것이며, 표면의 남은 잔해들은 너무 오래되어 흔적도 발견하기가 힘듭니다.\n\n[root.Leader.GetName]가 조사를 마치려던 무렵, [root.GetName]의 스캐너들은 [From.GetName]의 위성 주변을 도는 여러개의 동일 물체들을 탐지했습니다. 이 물체들은 데이터 코어들을 보관하고 있는 위성으로 확인되었습니다. 팀장은 이 토어들이 미래에 발견되기 위해 만들어진 타임캡슐이라 추정하고 있습니다.\n\n하지만 거기에 든 데이터에 접근하고 해독하는 데에는 많은 노력이 필요할 것입니다."
+mem_vazurans.205.a: "안에 무엇이 들었지?"
+MEM_VAZURANS_ANOMALY_PLANET_INVESTIGATION: "데이터 코어 해독"
+MEM_VAZURANS_ANOMALY_PLANET_INVESTIGATION_DESC: "우린 [From.From.GetName]가 파괴되었을 때 우주에 남겨진 데이터 코어들을 회수했습니다. 과연 어떤 비밀이나 메시지를 담고 있을까요?"
+mem_vazurans.206.desc: "우리 과학자들은 데이터 코어의 일부를 해독하는 데에 성공했습니다. 현재까지는 데이터의 보존 확률을 높이기 위해 동일한 데이터 코어를 여럿 만들어 놓은 것으로 보입니다. 남겨진 데이터는 방대하며, 해독하는 데에만 수개월부터 수년은 걸릴 것으로 보입니다. 현재 서론으로 추정되는 부분은 완벽히 번역되었습니다.\n\n"우리는 우리가 무적이라 생각했다. '파괴자'들을 막을 수 있을 것이라 생각했다. 천년 넘게 이 우주를 여행한 우린 그들이 멸망시킨 다른 자들처럼 젊고 약한 문명이 아니었다. 하지만 그들은 우리를 상대로 승리했다. 이 메시지가 발견되는 때 쯤에는 우리 문명의 흔적조차 사라졌을 것이다. 우린 우리의 철학자들의 지식, 우리의 문화가 우리의 멸망 후에도 살아남기를 바라며 이 기록을 남긴다.""
+mem_vazurans.206.a: "잘했다."
+mem_vazurans.240.name: "행성 방어 계획 완료"
+mem_vazurans.240.desc: "이 야심찬 계획이 진행된 그날부터 수많은 계획들이 제안되었고 버려졌다. 하지만 하나는 가능성을 보였다.\n\n우린 오랫동안 방어막으로 함선과 정거장을 지켜왔지만, 이를 행성 단위로 적용하는 것은 언제나 예산 낭비로 치부되어왔다. 하지만 [root.GetName]를 노리는 바주란들의 위협에 결국 이 계획을 지지하던 자들이 필요한 예산을 확보하는 데에 성공했다."
+mem_vazurans.240.a: "연구를 시작해라."
+mem_vazurans.251.name: "외계 잔해 발견"
+mem_vazurans.251.desc: ""
+mem_vazurans.251.desc.gestalt: ""
+mem_vazurans_category_3: "외계 함선 잔해"
+mem_vazurans.252.name: "기술적 보물"
+mem_vazurans.252.desc: ""
+mem_vazurans.252.desc.gestalt: ""
+mem_vazurans.253.desc: ""
+mem_vazurans.253.desc.gestalt: ""
+mem_vazurans_category_4_desc: ""
+mem_vazurans.254.name: ""
+mem_vazurans.254.desc: ""
+mem_vazurans.254.desc.gestalt: ""
+mem_vazurans.255.name: ""
+mem_vazurans.255.desc: ""
+MEM_VAZURANS_WRECKAGE_INVESTIGATION: ""
+MEM_VAZURANS_WRECKAGE_INVESTIGATION_DESC: ""
+mem_vazurans.256.name: ""
+mem_vazurans.256.desc: ""
+mem_vazurans.256.desc.gestalt: ""
+MEM_VAZURANS_DAMPER_FIELD_GENERATOR_INVESTIGATION_DESC: "이제 바주란 완충막 발전기를 손에 넣었으니, 우린 그 작동 원리를 알아낼 수 있습니다."
+mem_vazurans.260.name: "에너지 전달 방해"
+mem_vazurans.260.desc: "회수된 완충막 발전기에 여러 실험을 진행해본 결과, [root.GetScientistResearchSubroutinePlural]는 완충막의 원리를 이해하는 데에 성공했습니다. 소멸할 때까지 날아오는 공격의 에너지를 흡수하는 우리의 방어막 기술과는 다르게, 이 발전기는 공격이 담은 에너지의 극히 일부만 목표물에 도착하도록 하는 막을 상시적으로 전개하고 있습니다.\n\n이 방식은 모든 무기에 유효하지만, 실험에 의하면 에너지 무기를 상대로 가장 유효하다고 합니다. 마음만 같아선 이 기술을 바로 우리 함선들에 적용하고 싶지만, 우리 연구진들은 이 완충막에서 치명적인 문제를 발견했습니다. 에너지 전달의 방해는 완충막의 외부에서 오는 에너지뿐만이 아니라 내부에서 발생하는 에너지에도 영향을 끼치는 것으로 보입니다. 현재까지로썬 우리 함선들을 완충막의 영향으로부터 지킬 방법이 발견되지 않았습니다.\n\n우리 [root.GetScientistResearchSubroutinePlural]들은 이 기술의 근본적인 내용만 이해하는 데에 성공했습니다. 하지만 이는 바주란의 기술적 우위를 무력화시키는 데에 한 걸은 다가선 것이며 우리의 승산을 크게 높였습니다."
+mem_vazurans.260.a: "흥미롭군."
+mem_vazurans.280.a: "당장 그곳을 벗어나라!"
+mem_vazurans.282.desc.gestalt: "오늘은 역사적인 날입니다. 바주란 위협은 드디어 제거되었습니다. [root.GetName]은 더 이상 그들의 공포에 떨면서 살지 않아도 됩니다.\n\n바주란의 잔존 군대가 남은 영토라도 지키기 위해 결사적인 저항을 펼쳤기에 우리 또한 큰 희생을 치루어야 했습니다. 그리고 패배가 확실해졌을 때, 그들은 자폭 장치를 가동시켜 생존이 가능한 지역을 전부 날려버렸습니다.\n\n하지만 우리 전투 드론들은 빈손이 아니었습니다. 기술 회수의 목적으로 보내진 특수 임무 드론들 중 하나가 바주란 장갑의 주 재료인 젠트로늄의 합성법을 담은 데이터 코어를 회수하는 데에 성공했습니다. 젠트로늄의 특성, 특히 그 높은 밀도를 고려하면 이를 우리 장갑 뿐만이 아니라 포탄 기술에도 큰 진전이 될 것으로 보입니다."
+resolution_galactic_focus_crisis_vazurans_2_effect_success: "바주란 함선에서 회수한 전략전 데이터와 아광속 엔진 기술의 발전은 공격받는 식민지들에 제 시간 내에 도착하고 적과 맞서는 데에 도움이 될 것입니다."

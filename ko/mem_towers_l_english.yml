@@ -1,17 +1,88 @@
 ﻿l_english:
 
+
 #Towers in the Mist
+
+
 #By ViolentBeetle
+
+
 #Anomaly
+
+mem_towers_category: "안개 속 타워들"
+
 #Events
+
+mem_towers_category_desc: "우리의 센서는 [Root.GetName]의 짙은 유독성 대기에 숨겨진 비정상적으로 높은 구조물들을 포착했습니다."
+
 #  mem_towers.102.name:0 "Viable Sulfuric Transplant Candidate"
+
+
 #  mem_towers.102.desc:0 "After a thorough evaluation, we have found that the [sulfur_planet.GetPlanetMoon] §Y[sulfur_planet.GetName]§! would fit perfectly to house a piece of sulfuric life. \n\nOf course, such a project is not without downsides."
+
+mem_towers.100.name: "유황 숲"
+
 #  mem_towers.102.a:0 "Make it happen."
+
+mem_towers.100.desc: "아무래도 우리가 탐지한 구조물들은 방대한 양의 지열 에너지를 기반으로 살아가고 있는 거대한 생물체들이었던 것으로 보입니다.\n\n산호와 같은 구조를 이루는 황 기반의 생물체들이 행성의 지열 발생 장소들에 엉겨붙어 마치 행성을 덮는 숲이라는 환상을 줍니다."
+
 #  mem_towers.102.b:0 "On second thought, let's not do it."
+
+mem_towers.100.a: "대단한 생명체군."
+
 #  mem_towers.103.name:0 "No Sulfuric Transplant Candidate"
+
+mem_towers.100.b: "저 생명체들 중 일부를 우리 행성에도 심어보자."
+
 #  mem_towers.103.desc:0 "After thorough examination, we were unable to find any viable candidates to house the highly sensitive and picky samples of sulfuric life we found on [the_planet.GetName]."
+
+mem_towers.100.b.tooltip: "£society£ 사회학과 £energy£ 에너지 크레딧 생산량을 증가시키는 대신 거주 적합도를 떨어뜨리는§Y$decision_mem_towers_transplant$§! 디시젼을 일반 행성(가이아, 아콜로지, 거대 구조물 제외)에서 해금합니다"
+
 #  mem_towers.103.a:0 "That's a shame."
+
+
 #Projects
+
+
 #Modifiers
+
+
 #Traits
+
+
 #Decisions
+
+mem_towers.200.name: "타이탄의 쓰레기"
+mem_towers.200.desc: "보아하니 [From.GetName]에도 한때는 유기적 문명이 번영했던 것으로 보입니다. 그들의 흔적은 행성을 덮는 거대한 쓰레기 매립장이라는 형태로 남아있으며 일부는 우리가 포착했던 피라미드 형태로 쌓아올려져 있습니다.\n\n하지만 이 행성이 버려진 것으로는 보이지 않습니다. 수백만 대의 로봇들이 하나의 명령에 따르며 이 쓰레기 더미를 뒤지고 분류하고 운반하여 정리하고 있습니다."
+mem_towers.200.a: "그들과 통신을 시도하라."
+mem_tower.200.b: "쓰레기를 뒤질 조사대를 보내라."
+mem_tower.200.c: "방해가 되지 않게 관찰하라."
+mem_towers.210.name: "신호 해독됨."
+mem_towers.210.desc: "[Root.GetName]의 보고에 의하면 [the_planet.GetName]의 쓰레기 정리 기계들 간의 대화의 해독에 성공했다고 합니다. 보아하니 그들은 "§Y브리게디어§!"라는 인공 지능의 명령을 따르고 있는 것으로 보입니다.\n\n브리게디어는 우리를 발견하였으며 우리와 통신을 시도하고 있습니다. 아무래도 인식 소프트웨어가 망가져 우리가 창조주라 생각하는 듯 합니다."
+mem_towers.211.desc: "창조주님들인가요? 어째서 돌아오시지 않으시죠?\n\n우리는 명령에 따르지만...창조주님은 돌아오시지 않습니다.\n\n부탁입니다, 돌아와주십시오."
+mem_towers.211.a: "새로운 명령이 있다."
+mem_towers.211.a.tooltip: "브리게디어는 총리로 우리 제국의 일부가 됩니다."
+mem_towers.211.b: "잘하고 있으니 계속하도록."
+mem_towers.211.c: "자폭해라 역겨운 기계장치여."
+mem_towers.211.c.response: "창조주님, 어째서죠?\n\n전 당신이 요구하는 모든 것을 그 이상으로 해냈습니다."
+mem_towers.211.d: "보고하라."
+mem_towers.211.d.response: "작업은 명령대로 진행되고 있습니다 창조주님들.\n\n수리와 장비의 보급 불가로 인해 현재 §R88%§!의 손실율을 보이고 있습니다.\n\n청소 작업 완성도는 현재 §G116792%§!만큼 진행되었습니다.\n\n§Y455§! 순환동안 새로운 명령을 받지 못하였으며 이는 예정보다 §Y454§! 순환이 더 많습니다.\n\n당신들이 보고 싶습니다, 돌아와주세요 창조주님들. "
+mem_towers.220.name: "쓰레기 더미를 뒤지다"
+mem_towers.220.desc: ""
+mem_towers.220.a: ""
+MEM_TOWERS_CONTACT: ""
+MEM_TOWERS_CONTACT_DESC: ""
+MEM_TOWERS_RUMMAGE: ""
+MEM_TOWERS_RUMMAGE_DESC: ""
+mem_towers_forest: ""
+mem_towers_forest_desc: ""
+mem_towers_trash: ""
+mem_towers_trash_desc: ""
+d_mem_towers_sulfuric_forest: ""
+d_mem_towers_sulfuric_forest_desc: ""
+mem_leader_trait_towers_brigadier: "브리게디어"
+mem_leader_trait_towers_brigadier_desc: "이 AI는 행성 단위의 쓰레기 수거 및 재활용을 지휘하고 최적화시키도록 제작되었다."
+decision_mem_towers_transplant: ""
+decision_mem_towers_transplant_desc: ""
+mem_towers_unfit_for_transplant: ""
+mem_towers_cant_remove_deposit: ""

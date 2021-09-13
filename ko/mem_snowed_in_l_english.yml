@@ -1,7 +1,79 @@
 ﻿l_english:
 
+
 #Anomaly
+
+mem_snowed_in_category: "얼어붙은 폐허"
+
 #Events
+
+mem_snowed_in_category_desc: "불가능해 보이지만, §Y[Root.GetName]§!의 얼어붙은 표면에는 생명의 흔적이 있습니다. 행성에서 한떄 번영했던 문명의 흔적이 발견되었습니다."
+
 #Projects
+
+
 #Traits
+
+mem_snowed_in.1.name: "얼어붙은 폐허"
+
 #Modifiers
+
+mem_snowed_in.1.desc: "§Y[From.GetName]§!의 관측 결과 발견된 페허들은 우리의 추측과 맞아떨어집니다. 수많은 지역에서 광대한 주거 구역들이 여전히 존재하고 있습니다.\n\n초기 분석에 의하면 산업 중심적인 문명이 한때 이곳에 존재했으나 원인불명의 격변에 의한 빙하기로 지금의 페허로 바뀌었다고 합니다."
+mem_snowed_in.3.name: "얼음 속의 생명"
+mem_snowed_in.3.desc.first: "§Y[mem_snowed_in_planet.GetName]§!(을)를 지속적으로 관찰하던 중 예기치 않은 사실이 드러났습니다. \n\n행성 표면 아래 깊은 곳에서 에너지 발생원이 여전히 가동 중인 것으로 보입니다. 연구 기지의 추가 조사로 이 행성에 빙하기를 초래한 재난으로부터 살아남은 생존자들이 지하 깊은 곳에서 살고 있다는 것을 밝혀냈습니다."
+mem_snowed_in.3.desc.second: "재난으로 §Y[mem_snowed_in_planet.GetName]§!(이)가 얼어붙은 황무지가 된 이후 살아남은 생존자 집단이 지하 깊은 곳에서 살고 있는 것 같습니다. \n\n우리 연구 기지는 그들의 지하 거주지가 위치한 곳을 정확히 알아냈습니다."
+mem_snowed_in.3.a: "그들과 통신을 수립하라."
+mem_snowed_in.3.b: "관찰을 계속하라."
+mem_snowed_in.3.c: "생존자라고? 저들이 생존해 있을 날도 얼마 안 남았군."
+mem_snowed_in.3.d: "생존자라고? 우리가 수확할 수 있겠군."
+mem_snowed_in.3.tooltip: "§Y[mem_snowed_in_planet.GetName]§!의 £society£ §G사회학§! 산출량이 증가합니다."
+mem_snowed_in.5.name: "통신 수립"
+mem_snowed_in.5.desc: "우리는 §Y[mem_snowed_in_planet.GetName]§!의 지하 거주지로부터 충분한 데이터를 확보한 후, 외계 언어와 데이터 프로토콜을 해독하는 데 성공했습니다. \n\n벙커 주민들과 접촉할 준비가 되었습니다."
+mem_snowed_in.6.name: "[mem_snowed_in_planet.GetName](와)과의 통신"
+mem_snowed_in.6.desc.first: "안녕하십니까. 저는 §Y[mem_snowed_in_species.GetSpeciesName] 문명§!의 임시 정부를 대표해 나왔습니다... 정확히는 생존자 집단이라고 해야겠군요. \n\n당신은 우주 여행이 가능한 문명에서 온 건가요? 우리 행성이 살기에 그리 좋은 환경이 아니라는 것쯤은 보셨으리라 생각합니다. 혹시 막강한 당신들 제국의 행성 중에 우리를 받아줄 만한 곳이 있을까요?"
+mem_snowed_in.6.desc.second: "아, 처음 보는 분 같군요. \n\n위에서 무슨 일이 일어나고 있는지는 저도 모르지만, 앞서 왔던 분께 했던 말을 그대로 해드리겠습니다. \n\n저는 §Y[mem_snowed_in_species.GetSpeciesName] 문명§!의 임시 정부를 대표해 나왔습니다. 우리 행성이 살기에 그리 좋은 환경이 아니라는 것쯤은 보셨으리라 생각합니다. 혹시 막강한 당신들 제국의 행성 중에 우리를 받아줄 만한 곳이 있을까요?"
+mem_snowed_in.6.a: "당신들 행성에 무슨 일이 일어난 거지?"
+mem_snowed_in.6.a.response: "정확히 말할 순 없습니다. 이렇게 되기 시작되었을 무렵에는 과학이 이 현상을 완전히 이해할 만큼 발달해 있지 않았고... 지금은 과학 기술 같은 건 거의 남아있지 않습니다. \n\n무언가, 혹은 누군가가 우리 행성의 궤도를 불안정하게 만들었던 것 같습니다. 지금처럼 항성으로부터 멀리 떨어지기까지는 수 세기가 걸렸기에 적응할 수는 있었지만... 우린 여전히 이 절대영도에 육박하는 환경에 갇혀 있는 상태입니다."
+mem_snowed_in.6.b: "그렇게 하도록 하지."
+mem_snowed_in.6.b.tooltip: "거주 가능한 공간이 남아 있다면 §Y[mem_snowed_in_planet.GetName]§!의 난민들이 서서히 우리 행성들로 이주할 것입니다."
+mem_snowed_in.6.c: "너희를 받아줄 수는 없다."
+mem_snowed_in.6.c.gestalt: "우리 제국에 너희 같은 개인주의자들의 자리는 없다."
+mem_snowed_in.6.c.response: "그렇군요. 유감입니다. \n\n하지만 우리는 여태껏 살아남았으니 앞으로도 당신의 도움 없이 살아갈 방법을 찾을 수 있을 겁니다."
+mem_snowed_in.6.c.xenophobe: "너희 같은 [mem_snowed_in_species.GetSpeciesNameInsult]들은 멸망해야 마땅하다."
+mem_snowed_in.6.c.xenophobe.response: "그렇군요. \n\n단순히 거절 의사만 밝히셔도 됐을 텐데요."
+mem_snowed_in.6.d: "당신들의 생존에 도움이 될 기술을 제공해 주지."
+mem_snowed_in.6.d.response: "우리가 그걸 바라고 있던 건 아니지만... 확실히 도움이 되겠군요."
+mem_snowed_in.6.e: "너희들의 구원을 위해 기도하겠다."
+mem_snowed_in.6.e.response: "진심입니까?! 기도라고요? \n\n뭐 안 될 건 없군요. 기도하는 게 당장 얼어 죽을 판인 상황에 얼마나 도움이 될 진 의문이지만."
+mem_snowed_in.7.name: "궤도 폭격 완료"
+mem_snowed_in.7.desc: "아군 병력이 무사히 §Y[mem_snowed_in_planet.GetName]§! 표면에 엄청난 양의 폭뢰를 투하했습니다. 벙커는 성공적으로 붕괴되었고, 내부에 숨어있던 인원도 남김없이 제거되었습니다."
+mem_snowed_in.7.tooltip: "원주민들이 사라짐에 따라 §Y[mem_snowed_in_planet.GetName]§!의 £society£ §G사회학§! 산출량이 대폭 감소합니다."
+mem_snowed_in.8.name: "벙커 점령 완료"
+mem_snowed_in.8.desc: "우리 공격 드론들이 §Y[mem_snowed_in_planet.GetName]§! 표면 아래의 벙커에 진입했습니다. 벙커 주민들의 원시적인 저항 시도는 빠르게 진압되었고, 그들은 성공적으로 생포되어 우리의 처분을 기다리고 있습니다."
+mem_snowed_in.8.a: "포식하라."
+mem_snowed_in.8.b: "그들로부터 지식만을 받아들인 다음 처리해 버려라."
+mem_snowed_in.8.c: "그들을 동화시킨 후 거주하기 좋은 곳에 다시 정착시켜라."
+mem_snowed_in.8.c.tooltip: "몇몇 £pop£ 팝을 사이보그로 만들어 우리 행성에 들여옵니다."
+mem_snowed_in.9.name: "대피 완료"
+mem_snowed_in.9.desc: "§Y[mem_snowed_in_planet.GetName]§!에 있던 최후의 생존자들은 우리 행성들에 정착하기 위해 떠났습니다. 이 행성은 이제 완전히 비어 있습니다."
+mem_snowed_in.999.name: "착각"
+mem_snowed_in.999.desc: "§Y[fromfrom.GetName]§!에 관한 최초의 보고는 틀렸던 것 같습니다. \n\n이 행성은 특이하게 생긴 들쭉날쭉한 바위들로 덮여 있긴 하지만, 명백하게 어떤 종류의 인공 구조물도 찾아볼 수 없습니다."
+mem_snowed_in.999.a: "아쉽군."
+MEM_SNOWED_IN_ESTABLISH_CONTACT: "통신 수립"
+MEM_SNOWED_IN_ESTABLISH_CONTACT_DESC: "§Y[mem_snowed_in_planet.GetName]§! 지하에 위치한 벙커에는 지성체가 살고 있는 것으로 보입니다. 그들의 통신을 감청 및 해독한다면 그들이 사용하는 언어는 번역할 수 있을 것입니다."
+MEM_SNOWED_IN_DESTROY: "벙커 파괴"
+MEM_SNOWED_IN_DESTROY_DESC: "§Y[mem_snowed_in_planet.GetName]§! 지하에 있는 벙커에는 지성체가 사는 것으로 보입니다. 이러한 일을 용납해서는 안 됩니다.\n\n충분히 정밀한 폭격을 이용한다면 벙커를 손쉽게 붕괴시키고 주민들을 잔해와 극심한 추위에 노출해 제거할 수 있을 것입니다."
+MEM_SNOWED_IN_ASSAULT: "벙커 점령"
+MEM_SNOWED_IN_ASSAULT_DESC: "§Y[mem_snowed_in_planet.GetName]§! 지하에 있는 벙커에는 지성체가 사는 것으로 보입니다. 소규모 공격대를 보낸다면 이들을 생포해 우리의 필요에 따라 이용할 수 있을 것입니다."
+trait_mem_snowed_in_survivors: "얼어붙은 행성의 생존자"
+trait_mem_snowed_in_survivors_desc: "이 종족은 원래 살던 환경의 파괴를 겪으며 살아남았고 절대영도에 육박하는 외부 기온에 둘러싸인 작은 거주지에서 살 수 있도록 적응했습니다."
+mem_snowed_in_ruins: "얼어붙은 폐허"
+mem_snowed_in_ruins_desc: "이 행성의 표면에는 멸망한 문명의 폐허가 산재해 있습니다."
+mem_snowed_in_civilisation: "추위 속의 생존자"
+mem_snowed_in_civilisation_desc: "행성 표면은 완전히 얼어붙었지만, 지하에서는 유기 생명체들이 여전히 살아가고 있습니다."
+mem_snowed_in_civilisation_destroyed: "파괴된 문명"
+mem_snowed_in_civilisation_destroyed_desc: "새롭게 도래한 빙하기를 피해 지하에서 살던 유기체들은 우주로부터의 침략으로 멸망했습니다."
+mem_snowed_in_civilisation_evacuated: "버려진 폐허"
+mem_snowed_in_civilisation_evacuated_desc: "한때 이곳에 살았던 문명의 마지막 생존자들은 더 나은 환경을 찾아 이 행성을 두고 떠났습니다."
+mem_snowed_in_eat_everyone: "추위 속의 생존자"
+mem_snowed_in_eat_everyone_desc: "행성의 파괴로부터 도망쳐 온 이들은 때때로 일개 간식거리로 전락하기도 합니다."

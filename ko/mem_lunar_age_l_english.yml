@@ -1,14 +1,190 @@
 ﻿l_english:
 
+
 #LUNAR AGE
+
+
 #CIVICS
+
+civic_mem_colonial_greed: "식민지 야욕"
+
 #GOVERNMENTS
+
+civic_mem_colonial_administration: "식민 행정"
+
 #AGES
+
+civic_mem_land_of_opportunity: "기회의 땅"
+
 #MODIIFIERS
+
+civic_mem_declaration_of_independence: "독립 선언"
+
 #BUILDINGS
+
+civic_mem_rebellion_quelled: "반란 진압"
+
 #OBSERVATION OUTPOST ISSUES
+
+civic_mem_never_again: "두번 다시는"
+
 #First contact events
+
+civic_mem_memories_of_homeworld: "고향 행성의 기억"
+
 #Independence path
+
+civic_mem_colonial_greed_desc: "향신료는 흘러야 합니다. (이 사회제도는 보이지 않습니다)"
+
 #Nuclear war
+
+civic_mem_colonial_administration_desc: "$civic_mem_colonial_greed_desc$"
+
 #Enlightenment events
+
+civic_mem_land_of_opportunity_desc: "$civic_mem_colonial_greed_desc$"
+
 #DEBUG MENU - NO NEED TO PROOFREAD OR TRANSLATE
+
+civic_mem_declaration_of_independence_desc: "$civic_mem_colonial_greed_desc$"
+civic_mem_rebellion_quelled_desc: "$civic_mem_colonial_greed_desc$"
+civic_mem_never_again_desc: "$civic_mem_colonial_greed_desc$"
+civic_mem_memories_of_homeworld_desc: "$civic_mem_colonial_greed_desc$"
+mem_gov_fragmented_nation_states: "$gov_fragmented_nation_states$"
+mem_gov_fragmented_nation_states_desc: "$gov_fragmented_nation_states_desc$"
+mem_gov_colony: "궤도 식민지 국가"
+mem_gov_colony_desc: "고향 행성의 이익을 위해 원격으로 관리되는 속국입니다."
+MEM_RULER_GOVERNOR: "행성 총독"
+MEM_RULER_GOVERNOR_FEMALE: "$MEM_RULER_GOVERNOR$"
+mem_gov_colony_democratic: "의회 공화국"
+mem_gov_colony_democratic_desc: "초기 행성 통합을 통해 형성된 원시적 형태의 민주주의로 선출된 대표를 통해 전체 인구가 행성 정치에 영향을 미칠 수 있도록 보장하고자 합니다. 선거구 지역은 아직 통합된 행성 정부가 없는 상태에서 상당한 주권을 유지합니다."
+MEM_RULER_COLONY_DEM: "총리"
+MEM_RULER_COLONY_DEM_FEMALE: "$MEM_RULER_COLONY_DEM$"
+mem_gov_colony_oligarchic: "공동 행성 위원회"
+mem_gov_colony_oligarchic_desc: "초기 행성 통합을 통해 형성된 이 원시적 형태의 과두제는 소수의 선출되지 않은 관리들의 통제 하에 행성 업무를 관리하려고 합니다. 선거구 지역은 아직 통합된 행성 정부가 없는 상태에서 상당한 주권을 유지합니다."
+MEM_RULER_COLONY_OLI: "의장"
+MEM_RULER_COLONY_OLI_FEMALE: "의장"
+mem_gov_colony_dictatorial: "행성 독재정"
+mem_gov_colony_dictatorial_desc: "초기 행성 통합을 통해 형성된 이 원시적 형태의 독재정은 단일 독재자의 절대적인 권위 아래 행성의 이익을 보호하려고 합니다. 구성 지역은 아직 통합된 행성 정부가 없는 상태에서 상당한 주권을 유지합니다."
+MEM_RULER_COLONY_DIC: "첫 번째 시민"
+MEM_RULER_COLONY_DIC_FEMALE: "$MEM_RULER_COLONY_DEM$"
+mem_gov_colony_imperial: "행성 왕국"
+mem_gov_colony_imperial_desc: "초기 행성 통합을 통해 형성된 이 원시적 형태의 군주제는 단일 세습 권위 아래 전체 행성을 통합하려고 합니다. 구성 지역은 아직 통합된 행성 정부가 없는 상태에서 상당한 주권을 유지합니다."
+MEM_RULER_COLONY_IMP: "왕"
+MEM_RULER_COLONY_IMP_FEMALE: "여왕"
+mem_lunar_age: "달의 시대"
+mem_lunar_age_desc: "거주 가능한 행성에 근접했기 때문에 이 문명이 빛의 장벽을 돌파하기 전에 다른 행성을 식민지화하기 시작한 다소 특이한 개발 단계입니다."
+mem_lunar_age_colony: "위성 식민지"
+mem_lunar_age_colony_desc: "초광속 항해 이전 문명이 접근할 수 있는 행성으로 모험가, 추방자 그리고 기회주의자가 거주합니다."
+mem_lunar_age_annex_modifier: "우리를 자신들로부터 구함"
+mem_lunar_age_supported_us: "우리를 지원함"
+mem_lunar_age_supported_rebels: "반군 지원"
+mem_lunar_age_supported_tyrants: "폭군 지원"
+mem_lunar_age_tried_annexation: "우리를 합병하려 함"
+mem_lunar_age_refused_request: "우리 요청을 거부함"
+mem_lunar_age_refused_to_stop: "식민지 계몽을 거부함"
+mem_lunar_age_monument: "전쟁 기념관"
+mem_lunar_age_monument_desc: "다시는 벌어지지 말아야 할 무의미한 전쟁으로 희생된 모든 생명을 기리는 추모비."
+mem_lunar_age_cant_englighten: "문명은 계몽하기에 너무 많은 혼란 속에 있습니다."
+mem_lunar_age_promised: "우리는 식민지를 홀로 계몽하지 않기로 약속했습니다."
+mission_mem_lunar_technological_enlightenment: "$mission_technological_enlightenment_9$"
+mission_mem_lunar_technological_enlightenment_desc: "$mission_technological_enlightenment_9_desc$"
+mem_lunar_age.1.name: "달의 시대"
+mem_lunar_age.1.desc: "[Root.GetName]의 승무원들은 행성을 스캔하는 동안 원시 문명을 발견했다고 보고합니다.\n\n아직 성간 비행 기술을 익히지 않았지만, [From.Owner.GetName]은(는) 고향 [From.GetName]의 경계를 떠나 자연 위성 [the_moon.GetName]을(를) 식민지화하기 시작했습니다.\n\n그것은 분명히 자연적으로 거주 가능했기 때문에 상당한 수의 [From.Owner.GetSpeciesNamePlural]이(가) 쉽게 정착할 수 있었습니다. 식민지 착취에 혈안이 된 본국과 기업의 착취 정책으로 인해 두 행성의 관계가 불안정합니다.\n\n더 자세히 연구하기 위해 그들의 행성 위에 §Y관측소§!를 건설할 수 있습니다."
+mem_lunar_age.2.name: "달의 시대"
+mem_lunar_age.2.desc: "[Root.GetName]의 승무원들은 위성을 스캔하는 동안 원시 문명을 발견했다고 보고합니다.\n\n그러나 그들이 [From.GetName]이라고 부르는 위성은 사실 그들의 고향이 아니라 식민지이며 대부분의 인구가 [From.GetName]의 주요 행성인 [the_planet.GetName]에 거주하고 있습니다.\n\n[From.GetName]은(는) 분명히 자연적으로 거주 가능했기 때문에 상당한 수의 [From.Owner.GetSpeciesNamePlural]이(각) 쉽게 정착할 수 있었습니다. 식민지 착취에 혈안이 된 고향 국가와 기업의 착취 정책으로 인해 두 행성의 관계가 불안합니다.\n\n우리는 그들을 더 자세히 연구하기 위해 그들의 세계 위에 §Y관측소§!를 건설할 수 있습니다."
+mem_lunar_age.301.name: "독립을 논하다."
+mem_lunar_age.301.desc: "[From.GetName]의 사람들은 한동안 그들과 [home_faction.GetName]사이 관계 대부분에 만족하지 못했습니다.\n\n최근에는 거리에서 시민들이 폭동을 일으키고 정치인들이 암실에서 공모하는 등 불만이 많아졌습니다. 아무것도 바뀌지 않는다면 [home_faction.GetName]은(는) 폭력적인 봉기와 잠재적으로 파괴적인 내전을 겪게 될 것 같습니다."
+mem_lunar_age.303.name: "독립 인정"
+mem_lunar_age.303.desc: "예상치 못한 상황에서 [home_faction.GetName]의 여러 국가의 통치 기관이 위성의 국가와 조약을 비준했습니다.\n\n이 새로운 협정은 식민지 주민들에게 행해진 불의를 완화하고 완전한 자치와 경제적, 정치적 독립을 허용합니다."
+mem_lunar_age.305.name: "독립 실현"
+mem_lunar_age.305.desc: "[moon_faction.capital_scope.GetName]의 시민들은 오늘 공식적으로 완전한 주권으로 전환되었습니다. [moon_faction.GetName]이라고 하는 새로운 국가가 공식적으로 헌법을 발표하고 정부를 완전히 장악했습니다."
+mem_lunar_age.306.name: "독립 거부"
+mem_lunar_age.306.desc: "예상대로 [home_faction.GetName]의 엘리트들은 그들의 식민지가 독립하려는 시도를 좋게 받아들이지 않았습니다.\n\n현재의 행보가 곧 바뀌지 않는다면 두 행성의 전면전을 예상할 수 있습니다."
+mem_lunar_age.308.name: "식민지 동원"
+mem_lunar_age.308.desc: "새로 선언된 [moon_faction.GetName]은(는) 이제 [moon_faction.capital_scope.GetName] 거의 전체를 통제하고 있습니다. 행성간 전쟁을 위해 적극적으로 동원하기 시작했습니다.\n\n파괴적인 전쟁을 향한 진로가 정해졌습니다."
+mem_lunar_age.310.name: "[home_faction.GetAdj] 고향 행성은 전쟁 준비가 되었습니다."
+mem_lunar_age.310.desc: "[moon_faction.capital_scope.GetName]에 있는 식민 기업과 그 이해관계가 있는 [home_faction.capital_scope.GetName] 국가는 자칭 [moon_faction.GetName]의 행동에 대응하여 적극적으로 군대를 동원하고 있습니다.\n\n우리의 추측에 따르면, 이 시점에서 예상치 못한 누군가가 간섭하기로 선택하지 않는 한 전쟁은 불가피합니다..."
+mem_lunar_age.310.a: "이건 우리의 싸움이 아냐."
+mem_lunar_age.310.a.tooltip: "$mem_lunar_age.312.a.tooltip$"
+mem_lunar_age.310.b: "우리 모습을 들어내고 협상을 시작하자."
+mem_lunar_age.312.name: "[home_faction.capital_scope.GetName](으)로부터 $TRANSMISSION$"
+mem_lunar_age.312.desc: "반갑다... 외계인. 우리 일에 개입하겠다는 당신의 제안을 받았다.\n\n이렇게 표현하고 싶군. 관.심.없.어. 우리는 당신을 신뢰하지도 권위를 인정하지도 않는다. 우리 일에서 손 떼라."
+mem_lunar_age.312.a: "좋아. 앞으로 일어나는 일은 너희들에게 달려있어."
+mem_lunar_age.312.a.phile: "아니! 너희들은 큰 실수를 하는거야!"
+mem_lunar_age.312.a.tooltip: "§Y[moon_faction.GetName]§!와(과) §Y[home_faction.GetName]§! 사이에 전쟁이 발발합니다."
+mem_lunar_age.312.b: "협상하게 될 것이다. 그리하지 않으면 우리가 너희를 부숴버릴 테니까."
+mem_lunar_age.312.b.tooltip: "§Y[moon_faction.GetName]§!와(과) §Y[home_faction.GetName]§!이(가) 협상하도록 압력을 가할 수 있지만 그들은 만족하지 않을 것입니다."
+mem_lunar_age.313.benign: "반갑다. 외계인 친구들. 나는 당신과 연락을 취할 권한이 있다.\n\n[home_faction.capital_scope.GetName]에 있는 대부분의 국가와 자칭 [moon_faction.GetName]의 대표들이 오늘 여러분의 의견을 듣기 위해 이 자리에 모였다. 아마도 당신의 도움으로 우리는 앞으로 닥칠 끔찍한 재앙을 피할 수 있을 것이다."
+mem_lunar_age.313.aggro: "좋다. 외계인. 당신의 화력을 알기에 우리는 당신의 요구에 굴복하고 말을 듣겠다.\n\n[home_faction.capital_scope.GetName]의 대부분의 국가와 자칭 [moon_faction.GetName]의 대표자들이 당신의 간섭 결과를 기다리기 위해 여기에 모였다. 무슨 말을 해야 하는가?"
+mem_lunar_age.313.a: "[moon_faction.GetName]은(는) 독립할 자격이 있다."
+mem_lunar_age.313.a.tooltip: "[moon_faction.GetName]은(는) [home_faction.capital_scope.GetName]에서 공식적으로 고향 행성에서 분리됩니다."
+mem_lunar_age.313.a.response: "아주 좋다. 우리 둘 다 자기 마음대로 할 수 있는 한, 합의할 수 있다. [moon_faction.capital_scope.GetName]의 독립을 인정하겠다. [moon_faction.GetName]을 주권 국가로 공식 인정하는 절차가 곧 완료된다."
+mem_lunar_age.313.b: "식민지를 복구해라. 식민지는 다시 고향 행성에 속할 것이다."
+mem_lunar_age.313.b.tooltip: "[moon_faction.GetName]은(는) 더 이상 독립 상태로 존재하지 않습니다."
+mem_lunar_age.313.b.response: "거래는 성사되었다. 자칭 "[moon_faction.GetName]"의 대표자들에게 그들의 독립이 끝났다는 것을 알리고 싶다."
+mem_lunar_age.313.c: "너희는 자신을 스스로 다스릴 능력이 없다. 우리는 너희를 위해 그것을 대신하겠다."
+mem_lunar_age.313.c.tooltip: "[home_faction.capital_scope.GetName] 및 [moon_faction.capital_scope.GetName]을(를) 병합하려고 합니다. 그러나 원주민들은 반발할 수 있습니다."
+mem_lunar_age.314.desc: "좋다. 당신 말에 일리가 있군.\n\n우리가 하나의 바위를 놓고 다투고 있는 동안 당신은 은하계를 가로질러 여행했다. 독립은 우리를 완전한 전멸의 위기로 몰아넣었다.\n\n우리는 당신의 권위에 굴복하겠다."
+mem_lunar_age.315.desc: "뭐라고? 농담이 지나치군.\n\n처음에는 협상을 도와주겠다고 제안해놓고 지금은 우리에게 항복을 요구하는 건가? 이런 일은 있을 수 없다.\n\n우리는 희망 없는 전쟁이라도 자신을 방어할 준비가 되어 있으며, 네놈과 끝까지 싸울 것이다. 용기가 있다면 와서 우리 행성을 정복해봐라. 외계인."
+mem_lunar_age.315.a: "이 일을 후회하게 될 것이다."
+mem_lunar_age.317.name: "[home_faction.GetAdj] 고향 행성 항복"
+mem_lunar_age.317.desc: "[moon_faction.capital_scope.GetName]와(과) [home_faction.capital_scope.GetName]은(는) 서로 짧게 핵미사일을 발사한 후, 본국의 국가 정부는 무조건 항복을 선언했습니다.\n\n자칭 [moon_faction.GetName]은(는) 이전 고향 행성으로부터 독립된 세력의 지위를 확보했습니다."
+mem_lunar_age.319.name: "[home_faction.GetAdj] 식민지 항복"
+mem_lunar_age.319.desc: "[moon_faction.capital_scope.GetName]와(과) [home_faction.capital_scope.GetName]은(는) 서로 짧게 핵미사일을 발사한 후, 분리주의자들의 신생 군대는 고향 행성의 기존 세력을 당해낼 수 없다는게 분명해졌습니다. 자칭 [moon_faction.capital_scope.GetName] 정부는 무조건 항복을 선언하고 [home_faction.capital_scope.GetName]의 관리들이 다시 한 번 위성을 장악할 수 있도록 허용했습니다."
+mem_lunar_age.321.name: "[home_faction.GetAdj] 고향 행성 파괴"
+mem_lunar_age.321.desc: "[moon_faction.capital_scope.GetName]와(과) [home_faction.capital_scope.GetName]은(는) 서로 짧게 핵미사일을 발사한 후, 식민지 군은 고향 행성의 방어를 압도하고 파괴적인 일격을 가했습니다.\n\n[home_faction.capital_scope.GetName]의 인구가 전멸했고 행성 자체가 핵겨울에 들어간 것으로 보입니다.\n\n그들은 승리했음에도 식민지 사람들은 기뻐하지 않았고 많은 사람이 전쟁에서 인명을 크게 잃은 것을 애도하고 있습니다."
+mem_lunar_age.323.name: "[home_faction.GetAdj] 식민지 파괴"
+mem_lunar_age.323.desc: "[moon_faction.capital_scope.GetName]와(과) [home_faction.capital_scope.GetName]은(는) 서로 짧게 핵미사일을 발사한 후, 위성 식민지의 신설 방어 시설은 고향 세계의 공격을 막는데 비참할 정도로 부적절하다는 것이 입증되었습니다.\n\n[moon_faction.capital_scope.GetName]의 인구가 전멸하고 위성 자체가 핵겨울에 들어간 것으로 보입니다.\n\n[home_faction.capital_scope.GetName]의 모든 국가가 이 전쟁으로 인한 인명 손실을 애도하고 있습니다."
+mem_lunar_age.325.name: "[home_faction.GetSpeciesNamePlural]은(는) 더 이상 존재하지 않습니다."
+mem_lunar_age.325.desc: "[moon_faction.capital_scope.GetName]와(과) [home_faction.capital_scope.GetName] 간의 핵 공격 교환이 빠르게 확대되었습니다. 양측 모두 자신이 방어할 수 있는 것보다 훨씬 더 많은 공격력을 발휘했습니다.\n\n서로 짧게 핵미사일을 발사한 후, 두 행성의 인구는 전멸했고 행성과 위성은 모두 핵겨울에 들어섰습니다."
+mem_lunar_age.401.name: "[From.GetName] 핵전쟁 돌입"
+mem_lunar_age.401.desc: "우리 관측소는 [_planet.GetName]에서 국가 간에 대규모 전쟁이 일어나고 있다고 보고했습니다.\n\n행성의 위성 [moon_faction.capital_scope.GetName]에서 식민지 권리에 대한 오랜 논쟁이 핵무기를 사용하는 분쟁으로 확대된 긴 논쟁의 말로입니다.\n\n현재 [the_planet.GetName]은(는) 사람들이 죽어 생존의 희망이 없는 핵겨울 상태에 접어들고 있습니다.\n\n그래도 [Moon_faction.GetName]은(는) 살아남습니다. [From.GetName]의 식민지 주민들이 자신의 친족이 멸망하는 것을 무력하게 지켜보고 있습니다. 이제 그들은 종족의 유산을 이어가는 임무를 맡은 자들입니다."
+mem_lunar_age.401.a: " 그들이 이 유산을 어떻게 다루는지 보자."
+mem_lunar_age.501.name: "[country_we_uplifted.GetName]의 요청"
+mem_lunar_age.501.homeworld: "반갑다. 친구들.\n\n우리는 우리의 문명을 계몽하고 새로운 시대로 초대해준 그대의 노력에 감사하지만, 여전히 해결해야 할 문제가 있다.\n\n[country_we_not_uplifted.capital_scope.GetName]에 있는 우리 식민지 형제들은 이 계몽과정에서 뒤처져 있었고 여전히 발전의 경이로움을 누리지 못하고 있다. 그들 또한 계몽해주길 간청한다.\n\n그들의 행성를 합병하고 우리가 새롭게 발견한 발전에 동참할 수 있도록 허락해 주기 바란다."
+mem_lunar_age.501.moon: "반갑다. 친구들.\n\n우리는 우리의 문명을 계몽하고 새로운 시대로 초대해준 그대의 노력에 감사하지만, 여전히 해결해야 할 문제가 있다.\n\n우리의 원래 고향인 [country_we_not_uplifted.capital_scope.GetName]형제들은 이 계몽과정에서 뒤처져 있었고 여전히 발전의 경이로움을 누리지 못하고 있다. 그들 또한 계몽해주길 간청한다.\n\n우리는 조상의 땅을 합병하고 새롭게 발견한 발전에 우리와 함께할 수 있도록 허락해 주기 바란다."
+mem_lunar_age.501.a: "거부한다. 우리는 그들을 위해 다른 계획이 있다."
+mem_lunar_age.501.b: "수락한다."
+mem_lunar_age.503.name: "[home_faction.capital_scope.GetName](으)로부터 $TRANSMISSION$"
+mem_lunar_age.503.desc: "반갑다. 외계인.\n\n[moon_faction.capital_scope.GetName]에서 우리 식민지 주민들을 "계몽"하는 임무를 조언가에게 보냈다는 사실을 알게 되었다.\n\n우리는 당신이 식민지의 정당한 소유자를 무시하면서 이런 짓을 한다는 사실을 용납할 수 없다.\n\n따라서 우리는 당신의 조언가를 우리에게도 보내거나 식민지에서 조언가를 소환할 것을 요청한다."
+mem_lunar_age.503.a: "우리는 우리가 원하는 사람들을 계몽할 수 있다."
+mem_lunar_age.503.a.tooltip: "§Y[home_faction.capital_scope.GetName]§!의 정부를 화나게 할 것이며, 우리의 노력을 방해하기 위한 조치를 취할 수 있습니다."
+mem_lunar_age.503.b: "알겠다. 조언가를 다시 불러들이지."
+mem_lunar_age.503.b.tooltip: "우리가 이 요구를 수용한다면 §Y[home_faction.capital_scope.GetName]§!을(를) 계몽하지 않고는 §Y[moon_faction.capital_scope.GetName]§!의 인구를 계몽할 수 없습니다."
+mem_lunar_age.503.c: "알겠다. 너희 행성에도 조언가를 보내겠다."
+mem_lunar_age.5.c.tooltip: "[home_faction.capital_scope.GetName]에 대한 관측 전초 기지 임무가 §Y$mission_mem_lunar_technological_enlightenment$§!(으)로 설정됩니다.\n\n$mem_lunar_age.503.b.tooltip$"
+mem_lunar_age.503.c.fail_text: "우리는 [home_faction.capital_scope.GetName]에 대한 관측 전초 기지를 통제하지 않습니다."
+mem_lunar_age.507.name: "[moon_faction.capital_scope.GetName]에서 핵 테러 발생!"
+mem_lunar_age.507.desc: "§Y[home_faction.capital_scope.GetName]§!의 정부가 §Y[moon_faction.capital_scope.GetName]§!에 대한 우리의 계몽 작업을 방해하는 데 열심인 것 같습니다.\n\n오늘, 그들의 요원들이 우리 화물 중 하나에 원자 폭탄을 밀반입하고 폭발시켜 상당한 수의 지역 시민과 함께 우리 조언가를 죽였습니다.\n\n의심할 여지없이 우리의 노력을 방해할 것입니다."
+mem_lunar_age.507.a: "미치광이 같으니라고!"
+mem_lunar_age.508.name: "[moon_faction.capital_scope.GetName]에서 테러 발생!"
+mem_lunar_age.508.desc: "§Y[moon_faction.capital_scope.GetName]§!에 대한 계몽 작업은 오늘§Y[home_faction.capital_scope.GetName]§!의 요원에 의해 중단되었습니다.\n\n우리 조언가와 현지 연락관을 암살하는 테러 활동은 의심할 여지 없이 우리의 노력을 후퇴시킬 것입니다."
+mem_lunar_age.508.a: "야만적이군."
+mem_lunar_age.9990.name: "달의 시대 디버그 메뉴"
+mem_lunar_age.9990.desc: "달의 시대 디버그 메뉴입니다. 여기에서 조작할 수 있습니다.\n\n치트 코드를 사용하여 이 성계를 제어하는 ​​것이 좋습니다.\n\n조건이 충족되지 않으면 이벤트가 발생하지 않습니다.\n\n성계 이름은§Y[lunar_age_system.GetName]§!입니다. 이름이 표시되지 않으면 이 게임에서 생성되지 않았음을 의미합니다. 은하 초기화 프로그램이 이상한 방식으로 작동하므로 다시 시작해야 합니다."
+mem_lunar_age.9990.a: "강제 스폰(두 번 스폰되지 않음)"
+mem_lunar_age.9990.b: "관심 지점 장소"
+mem_lunar_age.9990.c: "유예 기간 강제 만료"
+mem_lunar_age.9990.d: "강제 독립 연쇄 임무"
+mem_lunar_age.9990.e: "강제 고향 행성 핵전쟁"
+mem_lunar_age.9990.f: "강제 고향 행성 우주 시대 돌입"
+mem_lunar_age.9990.g: "아무것도 하지 않기"
+mem_test_poi_title: "달의 시대 성계"
+mem_test_poi_desc: "바로 이겁니다."
+d_mem_lunar_age_monument: "$mem_lunar_age_monument$"
+d_mem_lunar_age_monument_desc: "$mem_lunar_age_monument_desc$"
+building_mem_lunar_age_elevator: "원시적인 우주 엘리베이터"
+building_mem_lunar_age_elevator_desc: "팽팽한 탄소 나노튜브의 거대한 케이블은 행성의 지표면을 궤도에 있는 스테이션과 연결합니다. 행성 간 무역에 참여하고자 하는 저급 기술 종족의 필수품입니다."
+building_mem_lunar_age_colonial_administration: "식민지 행정부"
+building_mem_lunar_age_colonial_administration_desc: "식민지 운영을 감독하는 광대한 행정 단지입니다. 거대한 벽이 특권없는 이민자들과 분리시켜 재산 소유권과 이익 분배에 대한 그들의 무식한 의견이 들리지 않도록 합니다."
+building_mem_lunar_age_colonial_housing: "식민지 주거지"
+building_mem_lunar_age_colonial_housing_desc: "식민지 노동자들이 상급자를 위해 일하지 않고 시간을 보내는 광대한 주거 지역."
+job_mem_lunar_age_trader: "위성의 상인"
+job_mem_lunar_age_trader_plural: "위성의 상인들"
+job_mem_lunar_age_trader_desc: "위성에서 피를 흘리는 것은 힘든 일이지만 누군가는 해야 합니다."
+mod_job_mem_lunar_age_trader_add: "$job_mem_lunar_age_trader$ 직업"
+job_mem_lunar_age_administrator: "식민지 관리자"
+job_mem_lunar_age_administrator_plural: "식민지 관리자들"
+job_mem_lunar_age_administrator_desc: "아래 행성의 기업과 정부를 대신하여 식민지 문제를 관리하는 관리."
+mod_job_mem_lunar_age_administrator_add: "$job_mem_lunar_age_administrator$ 직업"

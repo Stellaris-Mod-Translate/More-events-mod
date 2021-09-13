@@ -1,29 +1,134 @@
 ﻿l_english:
 
+
 ########################
+
+
 # Dwarf Fortress
+
+
 # Code by Malthus
+
+
 # Text by ViolentBeetle and Malthus
+
+
 # Proofreading by Z8MB1E
+
+
 #Anomaly
+
+
 #simple fail 
+
+mem_dwarf_fortress_category: "불길 안에서"
+
 #spawn the site later
+
+mem_dwarf_fortress_category_desc: "심층 스캔의 결과 지표에 이상한 형상들이 포착되었습니다. 이는 인공 조형물의 존재 가능성을 시사합니다."
+
 #anomaly success, found digsite
+
+
 #Dwarf fortress digsite
+
+mem_dwarf_fortress.1.name: "그저 뜨거운 공기"
+
 #Dwarf fortress digsite stage 1 Pressure plate
+
+mem_dwarf_fortress.1.desc: "이상한 형상들은 그저 평범한 고원의 모습을 열과 고르지 않은 마그마의 분포가 스캔을 왜곡했던 것으로 보입니다.어떠한 인공적인 것도 현장에서 발견되지 않았습니다."
+
 #Pressure plate - Fire hot - Scientist dead
+
+mem_dwarf_fortress.1.a: "계속 나아가라."
+
 #Pressure plate - Fire hot - Scientist injured
+
+
 #Pressure plate - Fire hot - Scientist alive and well
+
+mem_dwarf_fortress.2.name: "불길 내부에서의 발견"
+
 #Dwarf fortress digsite stage 2 Cave in column
+
+mem_dwarf_fortress.2.desc: "우리 광부들은 인공적으로 만들어진 것이 분명한 동굴망의 입구를 [mem_dwarf_fortress_planet.GetName]의 불타는 표면 아래서 발견하였습니다.\n\n발굴을 시작하면 채굴 작업이 완전히 중단되겠지만, 심연이 감추고 있는 비밀이 과연 무엇인지 누가 알겠습니까?"
+
 #Cave in collumn - Smash - Scientist dead
+
+mem_dwarf_fortress.2.a: "발굴을 시작해라."
+
 #Cave in collumn - Smash - Scientist injured
+
+mem_dwarf_fortress.2.b: "이것 때문에 채굴 작업을 멈출 수는 없지."
+
 #Cave in collumn - Smash - Scientist alive and well
+
+
 #Dwarf fortress digsite stage 3 - Danger room
+
+mem_dwarf_fortress.3.name: "땅을 쳐!"
+
 #Danger room - Stab - Scientist dead or injured
+
+mem_dwarf_fortress.3.desc: "다양한 탐사 굴착 후, 우리의 과학팀은 꽤 정교한 인공 동굴 연결망을 발견하였습니다.\n\n이게 얼마나 깊은지 짐작조차 가지 않는군요."
+
 #Danger room - Stab - Scientist alive and well
+
+mem_dwarf_fortress.3.a: "더 자세히 조사한다."
+
 #Dwarf fortress digsite stage 4 - Commercial district
+
+
 #Dwarf fortress digsite stage 5 - Central district
+
+mem_dwarf_fortress_site: "심연 속으로"
+
 #Dwarf fortress digsite stage 6 - Core-boring section
+
+mem_dwarf_fortress_site_desc: "인공적으로 만들어진 동굴망이 [mem_dwarf_fortress_planet.GetName]의 불타는 표면 아래 있습니다. 위험할 정도로 온도가 높지만, 내열 장비가 충분하다면 추가 탐사를 이어갈 수 있을 겁니다."
+
 #Relic buff
+
+
 #Relic
+
+mem_dwarf_fortress.4.name: "뜨거운 발걸음"
+
 #Traumatized trait
+
+mem_dwarf_fortress.4.desc: "꽤 오랜 시간 동안 그 무지막지하게 큰 구불구불한 터널을 지난 뒤 조사팀은 이 장소가 자연적이라기보단 인공적인 구조물임을 증명하는 확실한 증거를 발견하였습니다.\n\n과학자들 앞에서 터널은 갑작스레 채석장 같은 구덩이로 깊어졌습니다. 정체불명의 글이 적힌 돌판은 대충 잘라내어 만듯한 돌계단의 시작을 알리듯 놓여있습니다. 계단은 한쪽에선 내려갔다가 다른 쪽에서 다시 올라가는 식으로 만들어져 있으며 이 두 계단 사이에 수십 미터의 빈터가 자리하고 있습니다."
+mem_dwarf_fortress.4.desc_01: "$mem_dwarf_fortress.4.desc$\n\n이 구덩이를 지날 때 과학자 [Root.GetLeaderName]이(가) 어리석게도 숨겨져 있던 압력 발판을 밟았고 함정을 발동시키고 말았습니다. 용암이 구덩이에 넘쳐 흘러오기 시작했고 계단 꼭대기까지 차오르자 멈추었습니다. 안타깝지만 우리 조사팀 중 그 누구도 살아나오지 못한 것 같습니다.\n\n용암은 금방 식기 시작했고 이제 며칠 뒤면 이 구덩이였던 곳을 가로지를 수 있을 겁니다."
+mem_dwarf_fortress.4.desc_02: "$mem_dwarf_fortress.4.desc$\n\n그 구덩이를 지날 때에 [Root.GetLeaderName]의 조수가 무의식적으로 숨겨진 함정 압력 발판을 밟아 버렸습니다. 용암이 구덩이를 빠르게 채워 계단 꼭대기에 도달하자 멈추었습니다. 불행히도 조사팀은 무사히 구덩이를 빠져나오지를 못하였습니다. 과학자 [Root.GetLeaderName]은(는) 영구적인 상처를 입고 말았습니다."
+mem_dwarf_fortress.4.desc_03: "$mem_dwarf_fortress.4.desc$\n\n그 구덩이를 지나던 중 과학자 [Root.GetLeaderName]이(가) 숨겨져 있던 압력 발판을 발견하였습니다. 조사를 해보니 이 압력판은 정교한 함정 장치들과 연결되어 있었고 만약 작동된다면 이 구덩이 전체를 용암으로 덮을 것으로 보입니다. 조사팀은 나아가며 이와 유사한 함정들이 있는지 주의하고 있습니다."
+mem_dwarf_fortress.4.a: "끔찍한 결과로군. 하지만 우리는 나아가야 한다."
+mem_dwarf_fortress.4.b: "불행한 일이지만, 우리는 계속 앞으로 가야만 한다."
+mem_dwarf_fortress.4.c: "잘했다. 계속 진행하라."
+mem_dwarf_fortress.5.name: "더 많은 함정"
+mem_dwarf_fortress.5.desc: "구덩이에서 나와 길을 따라 전진하자 터널의 벽면이 들쭉날쭉하던 바위 표면에서 더 잘 다듬어진 부드러운 돌 표면으로 향상되어 갔다. 우리 조사팀은 어떤 벙커 같은 건물의 입구로 보이는 큰 공터에 들어섰습니다. 이 큰 공터 중앙엔 오직 하나의 거대한 기둥이 있었고 이 기둥이 이 건물의 천장 전체를 지탱하고 있었습니다. 그 기둥 위에 해독할 수 없는 글귀가 쓰여있는 어떤 돌판과 함께, 바로 그 아래 지렛대...?와 같은 역할을 할 수 있는 장치로 보이는 것을 발견하였습니다."
+mem_dwarf_fortress.5.desc_01: "$mem_dwarf_fortress.5.desc$\n\n과학자 [Root.GetLeaderName] 및 [Root.Leader.GetHerHis] 동료들은 호기심으로 인해 이 작동원리가 무엇을 위해 만들어졌는지에 대한 궁금증을 밝히지 않을 수 없었습니다. 아무런 준비 없이 [Root.Leader.GetSheHe]이(가) 지렛대를 당겼습니다.\n\n찰칵하는 소음과 함께 복도를 가득 채우는 큰 소리가 들렸습니다. 거의 순식간에 기둥과 천장이 땅에 떨어지고 천천히 제자리로 돌아오며 무게에 짓눌린 불행한 사람들이 드러났습니다."
+mem_dwarf_fortress.5.desc_02: "$mem_dwarf_fortress.5.desc$\n\n과학자 [Root.GetLeaderName] 및 [Root.Leader.GetHerHis] 동료들은 호기심으로 인해 이 작동원리가 무엇을 위해 만들어졌는지에 대한 궁금증을 밝히지 않을 수 없었습니다. 아무런 준비 없이 [Root.Leader.GetSheHe]이(가) 지렛대를 당겼습니다.\n\n찰칵하는 소음과 함께 복도를 가득 채우는 큰 소리가 들렸습니다. 거의 순식간에 기둥과 천장이 땅에 떨어지고 천천히 제자리로 돌아오며 무게에 짓눌린 불행한 사람들이 드러났습니다. 가까스로 죽음을 피했지만, 이것은 과학자 [Root.GetLeaderName]에게 지워지지 않는 상처를 남겼습니다."
+mem_dwarf_fortress.5.desc_03: "$mem_dwarf_fortress.5.desc$ \n\n[Root.Leader.GetHerHis] 자신의 호기심과 [Root.Leader.GetHerHis] 동료들이 부추겼지만 과학자[Root.GetLeaderName]은(는) 지렛대를 당기고 싶은 [Root.Leader.GetHerHis]의 아이 같은 충동에 저항하기로 했습니다. 안전한 거리에서 [Root.Leader.GetHerHis] 스캐너를 사용하여 작동원리를 연구합니다.\n\n결과는 [Root.Leader.GetHerHis]의 의심을 확인시켜주었습니다. 레버는 기둥과 천장의 많은 부분을 제자리에 고정하는 정교한 작동원리로 움직입니다. 지렛대를 작동시키면 천장 대부분이 땅으로 떨어졌을 것으로 보입니다. 그 후, 기계장치는 떨어진 조각을 다시 초기 위치로 들어 올려 함정을 재설정합니다. 누가 이런 함정을 만들었을까요?"
+mem_dwarf_fortress.5.a: "다른 팀을 보내라. 우리는 포기하지 않을 것이다!"
+mem_dwarf_fortress.5.b: "생존자들을 더 신중하게 행동하라고 꾸짖는다."
+mem_dwarf_fortress.5.c: "큰일 날뻔했군. 다른 함정들도 조심해라."
+mem_dwarf_fortress.6.name: "위험한 방"
+mem_dwarf_fortress.6.desc: "출입구가 살짝 닫혀 있었기 때문에 벙커에 들어가는 것은 예상외로 쉬웠습니다. 그러나 원정대는 암울한 광경을 맞이했습니다. 짧지만 튼실한 외계인 인간형의 미라화된 시체가 땅을 어지럽히고 있었습니다. 여기에서 정확히 무슨 일이 일어났는지는 분명하지 않지만, 그들 모두는 잔혹한 최후를 맞이한 것으로 보입니다.\n\n벙커 입구 근처의 가장 가까운 장소는 보안 요원을 위한 막사와 무기고 역할을 했던 것으로 추정됩니다. 이 외계인들은 파워 아머와 에너지 기반 무기를 사용하여 우리와 비슷한 기술을 보유하고 있는 것 같습니다. 그러나 흥미롭게도 저장고 대부분이 망치와 도끼와 같은 구식 근접 무기로 가득 차 있었습니다. 건물 내부 조사가 더 진행됨에 따라 과학자 [Root.GetLeaderName]은(는) [Root.Leader.GetSheHe]이(가) 일종의 훈련장이라고 생각되는 곳으로 도착했습니다. 팀원이 표시되지 않은 지렛대를 가볍게 당기자 여러 개의 송곳이 바닥에서 빠르게 나타났다가 나타난 것처럼 빠르게 뒤로 물러났습니다. 레버를 당겼을 때 나타난 그림은 이 송곳이 사용자의 회피 기술을 훈련하기 위한 것임을 암시합니다."
+mem_dwarf_fortress.6.desc_01: "$mem_dwarf_fortress.6.desc$\n\n보아하니, 과학자 [Root.GetLeaderName]와 [Root.Leader.GetHerHis] 팀은 기껏해야 평범한 회피능력을 갖췄습니다..."
+mem_dwarf_fortress.6.desc_02: "$mem_dwarf_fortress.6.desc$\n\n다가오는 위험을 우아하게 피하면서 과학자 [Root.GetLeaderName]은(는) 누가 다치기 전에 '훈련' 장치를 비활성화할 수 있었습니다. 지렛대를 당긴 멍청이는 이 사건의 여파로 직위 해제되었습니다."
+mem_dwarf_fortress.6.a: "끔찍하군!"
+mem_dwarf_fortress.6.b: "이만하면 다행이군..."
+mem_dwarf_fortress.6.c: "어디서 이런 멍청이를 찾았지?"
+mem_dwarf_fortress.7.name: "어두운 농담"
+mem_dwarf_fortress.7.desc: "입구를 뒤로 하고 과학자 [Root.GetLeaderName] 및 [Root.Leader.GetHerHis] 팀이 상업 지구라고 생각하는 곳에 들어왔습니다. 벽, 바닥 및 일상적인 물건, 벽화 조각에서 이전 주민의 역사의 상당 부분이 원정대에 의해 재구성되었습니다. 이 시설은 시설 지하 깊숙한 곳에 희귀한 광석, 그리고 그들에게는 믿을 수 없을 정도로 귀중한 광석이 있다는 믿음 아래 이러한 가혹한 환경에 설립되었습니다. 마그마를 표면으로 퍼냄으로써 거의 고갈되지 않는 에너지원에 접근할 수 있었고, 여러 용암이 범람할 수 있는 지역에 의존하는 방어 시스템을 구축할 수 있었고, 조각에서 광범위하고 반복적으로 나타난 것처럼 "바람직하지 않은" 처리 수단을 발견할 수 있었습니다.\n\n특별한 가치를 지닌 발견은 우리 언어학자에게 외계인의 언어를 번역하기에 충분한 표본을 제공한 보관소였습니다. 이것은 그들의 기술과의 상호작용을 더 쉽게 할 뿐만 아니라 우리에게 그들의 유머를 엿볼 수 있게 해주었습니다. 다양한 용암과 함정용 지렛대 위치에서 발견된 돌판의 보관된 그림에는 "발걸음 조심" 및 "만지지 마세요!"와 같이 적혀있습니다. 또 다른 예로는 매장지 중 한 곳에 "왜 피하지 않았나요?!"라는 문구와 함께 여러 개의 송곳을 한꺼번에 찔린 전사를 보여주는 비석이었습니다. 놀랍지도 않습니다. 그리 멀지 않은 기억들을 떠올리게 하는군요...\n\n과학자 [Root.GetLeaderName]은(는) 현재 탐사대가 아직 열지 않은 거대한 문 뒤에 잠겨 있는 중앙 구역을 조사하여 여기서 무슨 일이 일어났는지 더 많은 정보를 찾을 수 있을 것으로 기대합니다."
+mem_dwarf_fortress.7.a: "열어 봐라."
+mem_dwarf_fortress.8.name: "불과 피로"
+mem_dwarf_fortress.8.desc: "문을 여는 것은 상당히 힘들었습니다. 발굴팀이 마침내 통과하자 이것이 우연이 아니라는 것이 분명해졌습니다. 누군가가 그것을 안쪽에서 봉인하기 위해 큰 노력을 기울였고 다시는 열 수 없는 극단적인 것들도 있었습니다. 아무도 시도하지 않았을 것입니다. 주민들은 서로를 죽이는 데 더 관심이 있었던 것으로 보이지만, 그 이유는 과학자 중 한 명이 벙커의 데이터 저장소에 있는 연대기를 우연히 발견한 후에야 분명해졌습니다.\n\n처음에는 전초기지가 꾸준히 성장했고, 그 번영으로 많은 이민자가 몰려들었습니다. 많은 주민이 광산에서 일했을 뿐만 아니라 미술에도 종사하면서 자신의 아름답고 기묘하게 생긴 다른 작품들로 복잡하게 장식된 물건들을 만들었습니다. 그들의 채굴 활동이 첫 성공을 거두었을 때, 식민지는 경제 호황을 누렸습니다.\n\n불확실한 경쟁자들에게 끊임없이 포위당했음에도 불구하고, 여러 세대를 견뎌냈습니다. 그러나 행성 핵에 대한 발굴이 거의 끝나갈 무렵, 연대기에 쓰인 내용은 오래전부터 신통치 않게 바뀌었고, 점점 커지는 탐욕과 인구 사이에 광범위한 집착에 대한 기록이 있었습니다.\n\n비이성적인 행동과 폭력적인 충돌이 증가하면서, '경비대의 군주'가 벙커 감독관에게 §Y'큐보르토브 우닐 오모스'§!라는 이름만으로 언급되는 매우 귀중한 유물의 소유권을 놓고 결투를 벌이자 모든 것이 비극적인 사건은 절정에 이르렀습니다. 결투는 순식간에 삶과 죽음의 투쟁으로 바뀌었고, 도전자의 승리로 끝이 났습니다. 뒷 내용은 매일 발생하는 첫 번째 결투와 유사한 연속 결투에 대해 적혀있습니다. 연대기 끝부분은 "그건 내 것이 될 거야"라는 한 줄의 반복입니다.\n\n그때부터 상황이 급속도로 악화된 것 같고, 발굴팀은 어떤 물건이 사회 전체를 무너뜨릴 수 있었는지 궁금해했습니다. 아쉽게도 유물에 대한 추가 정보는 발견되지 않았습니다.\n\n이 곳에서 채굴된 귀중한 물질에 대해 더 자세히 알아보기 위해 과학자들은 핵 채굴구역으로 향했지만 다른 장애물 출입구와 마주쳤습니다..."
+mem_dwarf_fortress.8.a: "뭘 해야 하는지 알겠지?"
+mem_dwarf_fortress.9.name: "집단 정신병"
+mem_dwarf_fortress.9.desc: "출입구가 정리되었을 때, 발굴 팀은 이 구역에 있는 더 많은 시체를 발견한 것에 놀라지 않았습니다. 그런데 그 중 하나가 눈에 띄었습니다.\n\n가장 외딴 구석에 숨어있던 한 구의 시체가 벽에 기대어 발견되었는데, 그 시체는 괴상해 보이는 커다란 금속 장화 속에서 손에 쥐어져 있었습니다.. 시체 옆에는 데이터 패드가 놓여 있었는데, 그 내용이 이상한 물건이 무엇인지 밝혀주고 있습니다. 마지막 로그 항목에는 "내꺼야, 드디어 내꺼야!!"라고만 적혀있었지만, 과학자 [Root.GetLeaderName]은(는) 금방 금속 장화가 §Y'큐보르토브 우닐 오모스'§!일 것이라고 알아 차렸습니다. 이 물건이 식민지가 무너진 이유입니다.\n\n자세히 조사한 결과, 유물의 일부는 원래 광산을 위해 설립된 전초 기지에서 매우 희귀한 재료로 만들어졌습니다. 시설의 연대기에서 그것은 손상되거나 조작된 경우 원래 형태를 '기억'하는 능력(물질이 스스로 수리하는 본질)때문에 '살아 있는 금속'으로 명명되었습니다. 지하 광맥이 개방되고 살아있는 금속이 사람들에게 유입되면서 나머지 식민지로 빠르게 퍼져 널리 사용되었습니다. 거주자들은 물질과의 장기간 접촉으로 인해 정신 건강에 대한 장기적인 악영향을 끼친다는 것을 분명 깨닫지 못했던 것 같습니다. 과학자 [Root.GetLeaderName]은(는) 모든 사람에게 물질과의 직접적인 물리적 접촉을 피하고 물질과 상호 작용할 때 보호복을 착용하도록 현명하게 조언했습니다.\n\n희귀한 금속의 매장량은 완전히 활용되지 않은 것으로 보이며 충분히 안전 조치가 취해진다면 이곳에서 채굴 작업을 재개할 수 있을 것입니다."
+mem_dwarf_fortress.9.a: "뛰어난 업적이군."
+mem_dwarf_fortress_boot: "영감을 주는 장인기술"
+r_mem_dwarf_fortress_boot: "큐보르토브 우닐 오모스"
+r_mem_dwarf_fortress_boot_desc: "'게으른 일꾼을 부수는 망치'\n\n이것은 듀라스틸 장화입니다. 최고급 장인 기술로 제작되었습니다. 통치자가 노동자들을 때리고 발로 차는 모습을 묘사한 판화가 널리 새겨져 있습니다. 그것은 뉴트로늄 고리에 살아있는 금속의 송곳을 달아 장식하고 있으며 위협적입니다."
+leader_trait_mem_traumatized: "$leader_trait_traumatized$"
+leader_trait_mem_traumatized_desc: "$leader_trait_traumatized_desc$"

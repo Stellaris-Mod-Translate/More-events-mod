@@ -1,4 +1,16 @@
 ﻿l_english:
 
+mem_comet_lost.1.name: "잃어버린 혜성"
+
 #Julius' Comet has been making rounds through the [Capital_Scope.Solar_System.GetName] System for thousands of years and was repeatedly seen in the sky of [Capital_Scope.GetName] throughout [root.GetSpeciesAdj] history. However, our astronomers inform us that it has finished its incredibly complex path and left the confines of the system forever. \n\nIt is now beyond the tracking range of our sensors and is not projected to return to charted space for many millennia."
+
+mem_comet_lost.1.desc: "이전에 [Capital_Scope.Solar_System.GetName] 성계 주변을 수천 년 동안 맴돌았고, [root.GetSpeciesAdj] 역사 내내 [Capital_Scope.GetName]의 하늘에서 반복적으로 보였던 혜성이 엄청나게 복잡한 경로를 돌아 성계의 경계 끝으로 영원히 떠났습니다.\n\n이제 센서의 추적 범위를 벗어났으며, 수 천 년 동안 차트화된 공간으로 돌아오지 않을 것으로 예상됩니다."
+
 #Note for translators: The game will generate a random leader to give comet a name and since it's synched, it will be in English. There's no real reason to keep it beside aesthetics, so make two descriptions based on "mem_comet_lost.1.desc" if it's not apropriate to have latin-lettered name in the event.
+
+mem_comet_lost.1.desc.alt: "[the_guy.GetName]의 혜성은 수천 년 동안 [Capital_Scope.Solar_System.GetName] 성계를 통과해 왔으며 [root.GetSpeciesAdj] 역사 전체에 걸쳐 [Capital_Scope.GetName]의 하늘에서 반복적으로 나타났습니다. 그러나 우리 천문학자들은 혜성이 엄청나게 복잡한 경로로 성계의 경계 끝을 영원히 떠났다고 알려줍니다.\n\n이제 센서의 추적 범위를 벗어났으며, 수 천 년 동안 차트화된 공간으로 돌아오지 않을 것으로 예상됩니다."
+mem_comet_lost.1.a: "혜성이 그리울 거야..."
+mem_comet_lost.1.b: "알겠다."
+mem_comet_lost.1.c: "혜성은 지금 외계 행성에 기쁨을 가져다줄 거야."
+mem_comet_lost.1.d: "우리는 혜성을 따라 머나먼 별로 갈 것이다!"
+mem_comet_lost.1.e: "궤도 역학 계산은 정확합니다."

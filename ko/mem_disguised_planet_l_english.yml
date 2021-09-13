@@ -1,4 +1,28 @@
 ﻿l_english:
 
+
 #Disguised Planet
+
+
 #By ViolentBeetle
+
+mem_disguised_planet_category: "변덕쟁이 행성"
+mem_disguised_planet_category_desc: "이 행성의 대기 스캔 결과 시뮬레이션과 일치하지 않으며 자세히 분석해본 결과 불규칙한 데이터를 얻었습니다."
+mem_disguised_planet.1.name: "홀로그램 위장"
+mem_disguised_planet.1.desc: "추가적인 조사에 의하면 [From.GetName]의 독성 대기는 존재하지 않는 듯합니다. 빛의 굴절, 입자 분산과 홀로그램의 조합으로 이 행성이 해로운 대기를 가졌다는 환상을 만들어낸 것이었습니다. 가짜 구름을 제거하자 [Root.GetName]은 완전히... 황폐한 행성을 발견했습니다. 누군가가 이 황폐한 행성을 다른 황폐한 행성처럼 보이게 하려고 엄청난 자원을 투자했습니다."
+mem_disguised_planet.1.a: "대체 왜 이런 짓을?"
+mem_disguised_planet.2.name: "숨겨진 세계"
+mem_disguised_planet.2.desc: "추가적인 조사에 의하면 [From.GetName]의 독성 대기는 존재하지 않는 듯합니다. 빛의 굴절, 입자 분산과 홀로그램의 조합으로 이 행성이 해로운 대기를 가졌다는 환상을 만들어낸 것이었습니다. 가짜 구름을 제거하자 [Root.GetName]은 거주가 가능한 행성을 발견했습니다. 누군가가 이 행성을 황폐한 행성처럼 보이게 하려고 엄청난 자원을 투자했습니다."
+mem_disguised_planet.2.a: " "
+mem_disguised_planet.3.name: "수수께끼에 싸여 있는 수수께끼"
+mem_disguised_planet.3.desc: "추가적인 조사에 의하면 [From.GetName]의 독성대기는 확인해보니 존재하지 않았습니다. 빛의 굴절 및 분산과 이를 영리하게 이용한 홀로그램의 조합으로 꽤 설득력 있게 이 행성이 해로운 대기를 가졌다고 생각할 만한 환상을 만들어 낸 것 입니다.\n\n[Root.GetName]이(가) 이 가짜 구름 밑에서 발견해낸 것은 꽤 희한했습니다 - 뚫을 수 없어 보이는 방어막에 완전히 감싸여 있는 작은 행성이었습니다. 그렇다면 이제 과연 누가, 어떠한 목적을 가지고 이 행성을 이토록 완전히 감추고자 했는지가 의문으로 남는군요."
+mem_disguised_planet.3.a: "이상하군."
+mem_disguised_planet.100.name: "실패"
+mem_disguised_planet.100.desc: "[Root.GetName]은(는) [FromFrom.GetName]에서 이전에 판독된 비정상적인 신호를 복제할 수 없습니다. 그것은 부적절하게 보정된 센서에 의해 발생했을 가능성이 있습니다."
+mem_disguised_planet.100.a: "실망스럽군."
+mem_disguised_planet_modifier: "홀로그램 영사기"
+mem_disguised_planet_modifier_desc: "고대의 홀로그램 영사기는 이 행성에서 유독성 구름의 가짜 이미지를 생성합니다."
+d_mem_disguised_planet_mystery_pile: "수수께끼 기둥"
+d_mem_disguised_planet_mystery_pile_desc: "이 더미가 정확히 무엇인지는 불분명하지만, 고도로 복잡한 중합제로 구성되어 있고 보기에 고통스럽고 악취가 납니다. 또한 흔들거립니다."
+d_mem_disguised_planet_triple_deposit: "숨겨진 계곡"
+d_mem_disguised_planet_triple_deposit_desc: "해로운 행성의 가짜 이미지 아래에 안전하게 숨겨진 희귀 자원이 풍부한 계곡이 있습니다."

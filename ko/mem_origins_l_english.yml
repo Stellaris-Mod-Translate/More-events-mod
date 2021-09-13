@@ -1,9 +1,46 @@
 ﻿l_english:
 
+
 # A file for all origin additions that are not elsewhere.
+
+origin_mem_exiles: "은하계 망명자"
+
 # Vazuran Menace related origins
+
+origin_mem_exiles_desc: "한때는 유명한 제국의 잔류자들이 관문을 통해 고립된 성단으로 후퇴할 수밖에 없었습니다."
+
 # From the Ashes Localisation
+
+origin_mem_out_of_time: "잘못된 시간여행"
+
 # reserved for later added events
+
+origin_mem_out_of_time_desc: "서로 다른 시대의 제국에서 자신의 시간을 벗어나 시간 이상 현상을 통해 지금으로 보내졌습니다."
+
 # Fainthearted Backwater Localisation
+
+origin_tooltip_mem_out_of_time: "결국, 시간 이상현상은 그들을 따라잡아 지금의 차원에서 그들을 존재에서 지울 것입니다."
+
 # Modifier
+
+origin_mem_freebotomites: "기생로봇 제거"
+
 # Opinion Modifier
+
+origin_mem_freebotomites_desc: "측량 프로브에 의해 변형된 그들은 이제 자유 의지를 되찾았습니다."
+origin_mem_from_the_ashes: "잿더미로부터"
+origin_mem_from_the_ashes_desc: "이 문명은 먼 세계로 퍼져나가 별들 사이를 여행했다고 전설이 말해줍니다. 이제 그 사람들은 자연이 뒤덮은 한때 끝이 없는 도시였던 행성의 폐허 아래에서 살고 있습니다. 과거의 잿더미에서 다시 일어나면서 그들은 고대의 파괴자가 여전히 공허에 있다는 것을 알고 있습니다."
+origin_tooltip_mem_from_the_ashes_effects: "§Y유물 행성§!에서 시작합니다.\n§Y바주란 위협§!이 반드시 활성화 됩니다."
+START_SCREEN_MEM_FROM_THE_ASHES: "우리 도시들은 불태워졌고, 우리 문명은 행성 지도에서 거의 지워지기 직전까지 몰렸습니다. 이것은 그 누구도 상상하기 힘든 먼 과거의 일입니다. 그러나 [GetHomeWorldName]의 많은 지역에서 그 시대로부터의 폐허가 대대로 전해져 왔던 그 옛날 이야기들의 산증인이라도 된 듯 우뚝 서 있습니다.\n\n§S 주의하라!"§!는 선조들의 전설은 공허에 여전히 숨어 있는 위협의 존재에 대해 경고합니다.\n\n그럼에도 불구하고, 우리에겐 지금이 바로 우주로 돌아갈 때입니다! 긴 시간 끝에 우리 문명은 성간 여행이 가능할 정도의 재건을 이루었습니다. 이제 우리는 우주에서 우리의 정당한 자리를 되찾을 것입니다!"
+origin_mem_fainthearted: "겁쟁이의 은신처"
+origin_mem_fainthearted_desc: "오래전, 가공할 만한 전력의 고대 침략자가 나타나 은하계를 공포에 떨게 했습니다. 다른 제국들이 연합하여 최후의 저항을 시도하는 동안, 이 문명은 계속되는 맹습에 겁을 먹고 외딴 곳에 있는 자신들의 모성계로 후퇴하여 이 은하적 위기가 끝날 때까지 숨어 지내는 데 성공했습니다. 수천 년에 걸친 은둔 생활 동안 그들은 작고 긴밀한 공동체를 형성하며 축적된 지식의 많은 부분을 서서히 잃어서, 고급 센서 스테이션을 계속해서 전면 가동하는 것 외의 모든 활동을 중단했습니다. 이후 그들은 마침내 은하계가 위험에서 벗어났다는 결론을 내렸고, 우주에서 과거의 위상을 되찾고자 다시 한번 모습을 드러냈습니다."
+origin_tooltip_mem_fainthearted_effects: "- §Y바주란 위협§!이 반드시 비활성화됩니다. (§Y잿더미로부터§! 기원 효과보다 우선됩니다.)\n- £unity£ §Y통합력 생산§!이 §G10%§! 증가합니다.\n- £mod_country_naval_cap_add£ §Y함대 수용력§!이 §R15%§! 감소합니다.\n- £mod_tech_cost_empire_size_mult£ §Y연구 속도§!가 첫 §Y20§!년 동안 §R5%§!, 이어지는 §Y20§!년 동안 §R2%§! 감소합니다.\n- §Y2§!단계와 §Y3§!단계 감지기 기술을 가지고 시작합니다."
+START_SCREEN_MEM_FAINTHEARTED: "침략자들이 왔을 때, 우리는 다른 제국들이 요구해 왔던 폭력 활동에 차마 우리 국민을 참여시킬 수 없었습니다. 우리는 두려움에 질린 채로 영토를 비우고 모든 국민을 고향의 따뜻한 품으로 돌아오게 했습니다.\n\n우리는 안전을 위해 위험하거나 눈에 띄는 기술과는 거리를 두었습니다. 지난 몇 세기 동안 우리의 기술력은 퇴보했을지도 모르지만, 우리는 이 곳에서 살아남는 데 성공했습니다. 이는 수많은 다른 종족들은 달성하지 못했던 일입니다...\n\n관측자들이 고대 위협의 패배를 알리는 아공간 방송을 수신했다고 보고한 날은 우리 역사에서 기쁨의 날로 기록되었습니다.\n\n우리는 수 년에 걸친 고된 노력과 재건을 통해 우리 성계의 소유권을 되찾았습니다. 마침내 우주로 나가 예전의 번영을 다시 이룰 준비가 된 것입니다."
+mem_fainthearted_country: "평화를 사랑하는 사람들"
+mem_fainthearted_research_1: "연구 재정립"
+mem_fainthearted_research_2: "연구 재정립"
+mem_opinion_cowards: "겁쟁이들"
+mem_vazurans_category_5: "오랫동안 버려졌던 우리 식민지의 표면 스캔 결과 현재도 가동 중인 듯한 온전한 건축물이 몇 개 발견되었습니다. 마치 누군가 우리가 남겨두고 간 것을 차지한 것처럼 보입니다! 건축 양식 자체는 우리가 바주란의 침략 전 과거에 사용하던 설계와 매우 비슷한 것 같지만..."
+mem_fainthearted.5.name: "원정대 손실"
+mem_fainthearted.5.desc: "[From.GetName] 주민들을 직접 만나기로 한 것은 중대한 실수였습니다. 우리 조사대는 급습에 손쓸 틈도 없이 당해버렸고, 우리는 뒤늦게 이것이 계획된 매복 작전이었음을 알아차렸습니다.\n\n해당 [From.GetPlanetMoon]은 우리에게 통신을 보내왔습니다."
+mem_fainthearted.5.a: "화면을 띄워라."

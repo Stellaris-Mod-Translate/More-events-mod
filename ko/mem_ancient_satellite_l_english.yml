@@ -1,16 +1,22 @@
 ﻿l_english:
 
+
 #Ancient Satellite Anomaly
+
+
 #Writing and idea by ForeMole
+
+
 #Code by LamilLerran
-mem_ancient_satellite_category:0 "심우주 태양광 장치"
-mem_ancient_satellite_category_desc:0 "§Y[Root.GetName]§!의 조사 결과, 항성의 매우 뜨거운 채층 주변에 위치한 기원이 알려지지 않은 큰 물체를 발견했습니다. 물체는 안정된 궤도에서 항성 주위를 궤도를 천천히 돌고 있지만, 어떻게 궤도에 진입했는지, 어떻게 부서지지 않고 살아남았는지는 아직 알려지지 않았습니다."
-mem_ancient_satellite.1.name:0 "고대 인공위성"
-mem_ancient_satellite.1.desc:0 "추가 연구에 따르면 §Y[From.From.GetName]§! 표면에서 발견된 장치는 일종의 고대 연구 기지로써 완전히 자동화된 것입니다. 이 환경에서 인공위성은 작동될 수 없지만 고급 설계로 인해 가혹한 환경에서 장치를 보호할 수 있는 것처럼 보입니다. 인공위성은 §Y[Root.GetName]§!의 신호에 반응해 항성의 위험한 환경을 알려주며 위성의 위치를 바꿀 수 있는 명령과 같은 간단한 명령에 작동하는 것으로 보입니다.\n\n과학자들이 두가지 제안을 마련했습니다. 스테이션 위치를 그대로 둬서 나중에 우리가 사용할 수도 있고 아니면 더 높은 궤도로 올려 안전하게 위성의 장치들을 연구할 수도 있습니다. 어느쪽을 선택하도 현재 기술 수준보다 수 백년 앞당긴 기술 정보를 얻게 되겠지만, 선택은 오직 하나입니다. 어떻게 할까요?"
-mem_ancient_satellite.1.a:0 "원위치에 둬서 대신 항성을 연구하자."
-mem_ancient_satellite.1.b:0 "이 위성이 무엇으로 만들어 졌는지 보자."
-mem_ancient_satellite.100.name:0 "코로나 방출"
-mem_ancient_satellite.100.desc:0 "이 신기한 위성을 더 자세히 분석하기 위해 §Y[From.From.GetName]§!표면에 가까워지자 갑작스러운 코로나가 §Y[From.From.GetName]§! 표면을 덮쳐 §Y[Root.GetName]§!이(가) 철수를 해야만 했습니다. 조종사는 다행이 안전하게 퇴각했지만 위성을 조사하려는 추가시도는 실패했습니다. 이 위성이 이전 코로나에서 어떻게 살아남았는지 알 수 없지만, 확실히 위성은 파손된 것으로 보입니다."
-mem_ancient_satellite.100.a:0 "재미있었지만 결과는 뭐..."
-mem_ancient_satellite.150.name:0 "코로나 방출"
-mem_ancient_satellite.150.desc:0 "이 신비한 위성을 더 자세히 분석하기 위해 §Y[From.From.GetName]§! 표면에 가까워지자 갑작스러운 코로나가 §Y[From.From.GetName]§!의 표면을 덮쳤습니다. §Y[Root.GetName]§!의 조종사가 탈출하려고 노력했지만 끝내 실패했습니다. §Y[This.GetName]§!이(가) 파괴되었고 모든 승무원이 사망했습니다. 이 위성을 탐색하려는 시도는 처참한 실패로 끝나버렸군요. 이 위성이 이전 코로나에서 어떻게 살아남았는지 알 수 없지만, 확실히 위성은 파손된 것으로 보입니다."
+
+mem_ancient_satellite_category: "심우주 태양광 장치"
+mem_ancient_satellite_category_desc: "§Y[Root.GetName]§!의 조사 결과, 항성의 매우 뜨거운 채층 주변에 있는 기원이 알려지지 않은 큰 물체를 발견했습니다. 물체는 안정된 궤도에서 항성 주위를 궤도를 천천히 돌고 있지만, 어떻게 궤도에 진입했는지, 어떻게 부서지지 않고 살아남았는지는 아직 알려지지 않았습니다."
+mem_ancient_satellite.1.name: "고대 인공위성"
+mem_ancient_satellite.1.desc: "추가 연구에 따르면 §Y[From.From.GetName]§! 표면에서 발견된 장치는 일종의 고대 연구 기지로써 완전히 자동화된 것입니다. 이 환경에서 인공위성은 작동될 수 없지만 고급 설계로 인해 가혹한 환경에서 장치를 보호할 수 있는 것처럼 보입니다. 인공위성은 §Y[Root.GetName]§!의 신호에 반응해 항성의 위험한 환경을 알려주며 위성의 위치를 바꿀 수 있는 명령과 같은 간단한 명령에 작동하는 것으로 보입니다.\n\n과학자들이 두가지 제안을 마련했습니다. 스테이션 위치를 그대로 둬서 나중에 우리가 사용할 수도 있고 아니면 더 높은 궤도로 올려 안전하게 위성의 장치들을 연구할 수도 있습니다. 어느쪽을 선택하도 현재 기술 수준보다 수 백년 앞당긴 기술 정보를 얻게 되겠지만, 선택은 오직 하나입니다. 어떻게 할까요?"
+mem_ancient_satellite.1.a: "원위치에 둬서 대신 항성을 연구하자."
+mem_ancient_satellite.1.b: "이 위성이 무엇으로 만들어 졌는지 보자."
+mem_ancient_satellite.100.name: "코로나 방출"
+mem_ancient_satellite.100.desc: "이 신기한 위성을 더 자세히 분석하기 위해 §Y[From.From.GetName]§!표면에 가까워지자 갑작스러운 코로나가 §Y[From.From.GetName]§! 표면을 덮쳐 §Y[Root.GetName]§!이(가) 철수를 해야만 했습니다. 조종사는 다행히 안전하게 퇴각했지만 위성을 조사하려는 추가 시도는 실패했습니다. 이 위성이 이전 코로나에서 어떻게 살아남았는지 알 수 없지만, 확실히 위성은 파손된 것으로 보입니다."
+mem_ancient_satellite.100.a: "재미있었지만 결과는 뭐..."
+mem_ancient_satellite.150.name: "코로나 방출"
+mem_ancient_satellite.150.desc: "이 신비한 위성을 더 자세히 분석하기 위해 §Y[From.From.GetName]§! 표면에 가까워지자 갑작스러운 코로나가 §Y[From.From.GetName]§!의 표면을 덮쳤습니다. §Y[Root.GetName]§!의 조종사가 탈출하려고 노력했지만 끝내 실패했습니다. §Y[This.GetName]§!이(가) 파괴되었고 모든 승무원이 사망했습니다. 이 위성을 탐색하려는 시도는 처참한 실패로 끝나버렸군요. 이 위성이 이전 코로나에서 어떻게 살아남았는지 알 수 없지만, 확실히 위성은 파손된 것으로 보입니다."

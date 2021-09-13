@@ -1,9 +1,117 @@
 ﻿l_english:
 
+mem_ANCIENT_PRIMARY_WEAPON: "고대 초중력포"
+
 #Ragnarok Construction Platform
+
+mem_ANCIENT_SPACEPORT_WEAPON: "고대 중력포"
+
 #Ragnarok Core
+
+mem_ANCIENT_PRIMARY_STATION_WEAPON: "고대 중력포"
+
 #Ragnarok Structure
+
+mem_ANCIENT_CRUISER_WEAPON: "고대 중력포"
+
 #Ragnarok Mount
+
+mem_ANCIENT_TORPEDO: "고대 부식 어뢰"
+
 #Ragnarok S Funnel
+
+mem_ANCIENT_ESCORT_WEAPON: "고대 광자포 III"
+
 #Ragnarok L Funnel
+
+mem_ANCIENT_LARGE_WEAPON: "고대 광자포 III"
+
 #Ragnarok Reactor
+
+mem_ANCIENT_LARGE_STATION_WEAPON: "고대 광자포 III"
+mem_ANCIENT_MEDIUM_WEAPON: "고대 광자포 II"
+mem_ANCIENT_SMALL_WEAPON: "고대 광자포 I"
+mem_ANCIENT_PD: "고대 방공포"
+mem_ANCIENT_DRONE_HANGAR: "고대 드론 격납고"
+mem_ANCIENT_WEAPON_AURA: "고대 억제장 발생기"
+mem_ancient_combat_drone: "전투 드론"
+mem_ancient_combat_drone_plural: "전투 드론들"
+mem_ancient_combat_drone_key: "전투 드론 코어"
+mem_ancient_control_drone: "제어 드론"
+mem_ancient_control_drone_plural: "제어 드론들"
+mem_ancient_control_drone_key: "제어 드론 코어"
+mem_ancient_escort: "호위함"
+mem_ancient_escort_plural: "호위함들"
+mem_ancient_escort_key: "호위함 코어"
+mem_ancient_cruiser: "타격 순앙함"
+mem_ancient_cruiser_plural: "타격 순앙함들"
+mem_ancient_cruiser_key: "타격 순앙함 코어"
+mem_ancient_weapon: "창궁의 창"
+mem_ancient_weapon_plural: "창궁의 창들"
+mem_ancient_weapon_key: "창궁의 창 코어"
+mem_ancient_large_military_station: "성채"
+mem_ancient_large_military_station_plural: "성채들"
+mem_ancient_large_military_station_key: "성채 코어"
+mem_ancient_small_military_station: "중계지"
+mem_ancient_small_military_station_plural: "중계지들"
+mem_ancient_small_military_station_key: "중계지 코어"
+mem_ancient_fleet_headquarter: "함대 본부"
+mem_ancient_fleet_headquarter_DESC: "함대 통솔을 최적화하고 관료주의를 억누르기 위한 대규모 본부로 작전 효율성을 매우 증가시킵니다."
+mem_ancient_fleet_headquarter_MEGASTRUCTURE_DETAILS: " "
+tech_mem_ancient_weapon: "함대 설계 - 라그나로크"
+tech_mem_ancient_weapon_desc: "고대의 새벽의 전쟁에 사용된 무기의 설계도"
+requires_no_existing_ancient_weapon: "$TRIGGER_FAIL$라그나로크, 창궁의 창 궁니르는 하나만 건조 가능"
+must_build_around_asteroid: "$TRIGGER_FAIL$소행성에만 건설 가능"
+mem_ancient_weapon_project_00: "고대 무역 건설지역"
+mem_ancient_weapon_project_00_DESC: "이 건설 스테이션은 고대 무기 $mem_ancient_weapon_project_25$의 제작 위치입니다."
+mem_ancient_weapon_project_00_MEGASTRUCTURE_DETAILS: "전설의 무기 §Y$mem_ancient_weapon_project_25$§!의 설계도."
+mem_ancient_weapon_project_01: "부분적인 고대 무기"
+mem_ancient_weapon_project_01_DESC: "$mem_ancient_weapon_project_25$ - §Y1/25§! 완성도"
+mem_ancient_weapon_project_02: "부분적인 고대 무기"
+mem_ancient_weapon_project_02_DESC: "$mem_ancient_weapon_project_25$ - §Y2/25§! 완성도"
+mem_ancient_weapon_project_03: "부분적인 고대 무기"
+mem_ancient_weapon_project_03_DESC: "$mem_ancient_weapon_project_25$ - §Y3/25§! 완성도"
+mem_ancient_weapon_project_04: "부분적인 고대 무기"
+mem_ancient_weapon_project_04_DESC: "$mem_ancient_weapon_project_25$ - §Y4/25§! 완성도"
+mem_ancient_weapon_project_05: "부분적인 고대 무기"
+mem_ancient_weapon_project_05_DESC: "$mem_ancient_weapon_project_25$ - §Y5/25§! 완성도"
+mem_ancient_weapon_project_06: "부분적인 고대 무기"
+mem_ancient_weapon_project_06_DESC: "$mem_ancient_weapon_project_25$ - §Y6/25§! 완성도"
+mem_ancient_weapon_project_07: "부분적인 고대 무기"
+mem_ancient_weapon_project_07_DESC: "$mem_ancient_weapon_project_25$ - §Y7/25§! 완성도"
+mem_ancient_weapon_project_08: "부분적인 고대 무기"
+mem_ancient_weapon_project_08_DESC: "$mem_ancient_weapon_project_25$ - §Y8/25§! 완성도"
+mem_ancient_weapon_project_09: "부분적인 고대 무기"
+mem_ancient_weapon_project_09_DESC: "$mem_ancient_weapon_project_25$ - §Y9/25§! 완성도"
+mem_ancient_weapon_project_10: "부분적인 고대 무기"
+mem_ancient_weapon_project_10_DESC: "$mem_ancient_weapon_project_25$ - §Y10/25§! 완성도"
+mem_ancient_weapon_project_11: "부분적인 고대 무기"
+mem_ancient_weapon_project_11_DESC: "$mem_ancient_weapon_project_25$ - §Y11/25§! 완성도"
+mem_ancient_weapon_project_12: "부분적인 고대 무기"
+mem_ancient_weapon_project_12_DESC: "$mem_ancient_weapon_project_25$ - §Y12/25§! 완성도"
+mem_ancient_weapon_project_13: "부분적인 고대 무기"
+mem_ancient_weapon_project_13_DESC: "$mem_ancient_weapon_project_25$ - §Y13/25§! 완성도"
+mem_ancient_weapon_project_14: "부분적인 고대 무기"
+mem_ancient_weapon_project_14_DESC: "$mem_ancient_weapon_project_25$ - §Y14/25§! 완성도"
+mem_ancient_weapon_project_15: "부분적인 고대 무기"
+mem_ancient_weapon_project_15_DESC: "$mem_ancient_weapon_project_25$ - §Y15/25§! 완성도"
+mem_ancient_weapon_project_16: "부분적인 고대 무기"
+mem_ancient_weapon_project_16_DESC: "$mem_ancient_weapon_project_25$ - §Y16/25§! 완성도"
+mem_ancient_weapon_project_17: "부분적인 고대 무기"
+mem_ancient_weapon_project_17_DESC: "$mem_ancient_weapon_project_25$ - §Y17/25§! 완성도"
+mem_ancient_weapon_project_18: "부분적인 고대 무기"
+mem_ancient_weapon_project_18_DESC: "$mem_ancient_weapon_project_25$ - §Y18/25§! 완성도"
+mem_ancient_weapon_project_19: "부분적인 고대 무기"
+mem_ancient_weapon_project_19_DESC: "$mem_ancient_weapon_project_25$ - §Y19/25§! 완성도"
+mem_ancient_weapon_project_20: "부분적인 고대 무기"
+mem_ancient_weapon_project_20_DESC: "$mem_ancient_weapon_project_25$ - §Y20/25§! 완성도"
+mem_ancient_weapon_project_21: "부분적인 고대 무기"
+mem_ancient_weapon_project_21_DESC: "$mem_ancient_weapon_project_25$ - §Y21/25§! 완성도"
+mem_ancient_weapon_project_22: "부분적인 고대 무기"
+mem_ancient_weapon_project_22_DESC: "$mem_ancient_weapon_project_25$ - §Y22/25§! 완성도"
+mem_ancient_weapon_project_23: "부분적인 고대 무기"
+mem_ancient_weapon_project_23_DESC: "$mem_ancient_weapon_project_25$ - §Y23/25§! 완성도"
+mem_ancient_weapon_project_24: "부분적인 고대 무기"
+mem_ancient_weapon_project_24_DESC: "$mem_ancient_weapon_project_25$ - §Y24/25§! 완성도"
+mem_ancient_weapon_project_25: "라그나로크, 창궁의 창 궁니르"
+mem_ancient_weapon_project_25_DESC: "§Y25/25§! 완성도\n\n새벽에 선택받은 자들을 물리치는 데에 사용된 무기의 재현입니다."

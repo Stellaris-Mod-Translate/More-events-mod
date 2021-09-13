@@ -1,15 +1,23 @@
 ﻿l_english:
 
+
 #Base
-mem_flight_recorder_category:0 "미확인 신호"
-mem_flight_recorder_category_desc:0 "§Y[Root.GetName]§!에서 조난 신호 또는 위치 탐지기의 신호로 추정되는 신호가 포착되고 있습니다."
+
+mem_flight_recorder_category: "미확인 신호"
+mem_flight_recorder_category_desc: "§Y[Root.GetName]§!에서 조난 신호 또는 위치 탐지기의 신호로 추정되는 신호가 포착되고 있습니다."
+
 #Success
-mem_flight_recorder.1.name:0 "비행 기록 장치"
-mem_flight_recorder.1.desc:0 "§Y[Root.GetName]§!이(가) §Y[From.GetName]§! 주변 궤도를 선회하는 작은 장치를 회수하고 복구했습니다.\n\n추출한 데이터로 추측컨대, 군용 순양함에 쓰이는 버려진 비행 기록 장치로 보입니다. 장치가 달려있던 함선은 무장한 습격자들에 의해 선체가 파괴당하기 전 항성으로 돌진해 자폭한 것 같습니다.\n\n내부 선실로 추정되는 장소에서 녹음된 목소리에 의하면 습격자들은 민족주의 열성분자 또는 '자유의 투사'인 것 같습니다. 함선을 방어하는 승무원들은 침입자들을 잔인한 보복으로 은하의 평화를 위협하는 무자비한 테러리스트라고 묘사하고, 침입자들은 스스로를 거짓된 이웃들에 의해 제국주의의 멍에를 지게된 주민들을 해방하는 해방자라고 칭합니다.\n\n어찌되었든, 이 기록을 가지고 연구에 유용하게 쓸 수 있을 것 같습니다."
+
+mem_flight_recorder.1.name: "비행 기록 장치"
+mem_flight_recorder.1.desc: "§Y[Root.GetName]§!이(가) §Y[From.GetName]§! 주변 궤도를 선회하는 작은 장치를 회수하고 복구했습니다.\n\n추출한 데이터로 추측컨대, 군용 순양함에 쓰이는 버려진 비행 기록 장치로 보입니다. 장치가 달려있던 함선은 무장한 습격자들에 의해 선체가 파괴당하기 전 항성으로 돌진해 자폭한 것 같습니다.\n\n내부 선실로 추정되는 장소에서 녹음된 목소리에 의하면 습격자들은 민족주의 열성분자 또는 '자유의 투사'인 것 같습니다. 함선을 방어하는 승무원들은 침입자들을 잔인한 보복으로 은하의 평화를 위협하는 무자비한 테러리스트라고 묘사하고, 침입자들은 자신을 스스로 거짓된 이웃들로 제국주의의 멍에를 지게 된 주민들을 해방하는 해방자라고 칭합니다.\n\n어찌되었든, 이 기록을 가지고 연구에 유용하게 쓸 수 있을 것 같습니다."
+
 #Failure
-mem_flight_recorder.2.name:0 "신호를 놓침"
-mem_flight_recorder.2.desc:0 "§Y[Root.GetName]§!이(가) 신호를 추적하지 못하고 놓쳤습니다. 아마 앞으로도 다시 추적할 수 없을 겁니다."
-mem_flight_recorder.dissapointing:0 "실망스럽군."
+
+mem_flight_recorder.2.name: "신호를 놓침"
+mem_flight_recorder.2.desc: "§Y[Root.GetName]§!이(가) 신호를 추적하지 못하고 놓쳤습니다. 아마 앞으로도 다시 추적할 수 없을 겁니다."
+mem_flight_recorder.dissapointing: "실망스럽군."
+
 #Critical Failure
-mem_flight_recorder.3.name:0 "부비트랩"
-mem_flight_recorder.3.desc:0 "§Y[From.GetName]§! 주변을 공전하는 작은 기기를 회수한 직후, 함선과의 신호가 끊겼습니다. 아마 부비트랩처럼 함선 내부로 들어가면 터지는 장치였던 것으로 예상됩니다."
+
+mem_flight_recorder.3.name: "부비트랩"
+mem_flight_recorder.3.desc: "§Y[From.GetName]§! 주변을 공전하는 작은 기기를 회수한 직후, 함선과의 신호가 끊겼습니다. 아마 부비트랩처럼 함선 내부로 들어가면 터지는 장치였던 것으로 예상됩니다."

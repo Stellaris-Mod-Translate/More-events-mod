@@ -1,4 +1,19 @@
 ﻿l_english:
 
+
 #The Ark
+
+
 #By ViolentBeetle
+
+mem_engineered_wildlife_category: "호기심 많은 야생동물"
+mem_engineered_wildlife_category_desc: "스캔 결과, [root.GetName]에 서식하는 야생 동물 사이에서 비정상적인 행동 패턴이 나타났습니다. 이것이 잠재적인 식민지 개발에 어떤 영향을 미칠지 보려면 추가 연구가 필요합니다."
+mem_engineered_wildlife.1.name: "야생생물은...귀여워."
+mem_engineered_wildlife.1.desc: "[from.GetName]의 토착 야생생물은 우리 연구원들 앞에서 매우 차분합니다. 게다가 지금까지 만난 모든 종은 승무원들에게 미학적으로 매우 만족스러워 보호하며 가까이 지내고 싶은 감정을 느끼게 합니다. [root.leader.GetName]은(는) 원래 이것이 페로몬이나 다른 외계 현상일 수 있다고 우려했지만, 결과는 문제의 생물이 단순히 "귀엽다"고 간주되는 것으로 나타났습니다. [from.GetName] 생물의 유쾌한 본성은 너무 보편적이어서 자연 진화의 결과가 될 수 없으며, 현재의 주요 이론은 이 행성이 과거에 일종의 동물원을 만들기 위한 유전 공학의 대상이었을 수 있다는 것입니다. 어쨌든, 우리가 이 행성을 식민지로 만든다면 이 지역 동물들의 친근한 성격은 환영받을 것입니다."
+mem_engineered_wildlife.1.option: "예상치 못한 일이로군."
+mem_cute_wildlife: "귀여운 야생동물"
+mem_cute_wildlife_desc: "이 행성은 귀여움을 위해 유전자 조작된 야생동물의 다양한 표본이 살고 있습니다."
+mem_engineered_wildlife.2.name: "사방에 깔린 적대적인 야생동물!"
+mem_engineered_wildlife.2.desc: "[from.GetName]의 토착 야생동물은 믿을 수 없을 정도로 적대적이고 위험합니다! [root.GetName]의 몇몇 승무원은 야생 동물의 표본을 얻는 데 실패했으며 모든 생물은 어떤 식으로든 유기물에 치명적입니다. 우리가 포획한 종의 유전적 표본 추출은 유전적 변조의 명백한 증거를 보여줍니다. [from.GetName]은(는) 결국 느슨해진 외계 생물무기 개발 연구소였을 가능성이 큽니다. 생물이 창조주를 파괴했는지는 알 수 없습니다. 그런데도, 우리가 식민지를 개발하기로 한 경우 생물의 적대적인 특성은 식민지 주민들에게 상당한 장벽을 만들 것입니다."
+mem_engineered_wildlife_dangerous: "위험한 야생생물"
+mem_engineered_wildlife_dangerous_desc: "이 행성은 치명적인 유전적으로 조작된 야생동물의 다양한 표본이 살고 있습니다."
