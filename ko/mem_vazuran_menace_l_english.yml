@@ -15,65 +15,65 @@ shipsize_mem_vazuran_weapon_construction_speed_mult: ""
 mem_vazuran_cruiser: "전투순양함"
 shipsize_mem_vazuran_weapon_build_cost_mult: ""
 mem_vazuran_cruiser_plural: "전투순양함"
-shipsize_mem_vazuran_weapon_upkeep_mult: ""
+shipsize_mem_vazuran_weapon_upkeep_mult: " "
 mem_vazuran_escort: "호위함"
 mem_vazuran_escort_plural: "호위함"
 mem_vazuran_control_drone: "지휘 드론"
-shipsize_mem_vazuran_cruiser_construction_speed_mult: ""
+shipsize_mem_vazuran_cruiser_construction_speed_mult: " "
 mem_vazuran_control_drone_plural: "지휘 드론"
-shipsize_mem_vazuran_cruiser_build_cost_mult: ""
+shipsize_mem_vazuran_cruiser_build_cost_mult: " "
 mem_vazuran_combat_drone: "전투 드론"
-shipsize_mem_vazuran_cruiser_upkeep_mult: ""
+shipsize_mem_vazuran_cruiser_upkeep_mult: " "
 mem_vazuran_combat_drone_plural: "전투 드론"
 mem_vazuran_large_military_station: "요새"
 mem_vazuran_large_military_station_plural: "요새"
-shipsize_mem_vazuran_escort_construction_speed_mult: ""
+shipsize_mem_vazuran_escort_construction_speed_mult: " "
 mem_vazuran_small_military_station: "보루"
-shipsize_mem_vazuran_escort_build_cost_mult: ""
+shipsize_mem_vazuran_escort_build_cost_mult: " "
 mem_vazuran_small_military_station_plural: "보루"
-shipsize_mem_vazuran_escort_upkeep_mult: ""
+shipsize_mem_vazuran_escort_upkeep_mult: " "
 
 #shipsections
 
 mem_vazuran_combat_drone_key: "전투 드론 구역"
 mem_vazuran_control_drone_key: "지휘 드론 구역"
-shipsize_mem_vazuran_control_drone_construction_speed_mult: ""
+shipsize_mem_vazuran_control_drone_construction_speed_mult: " "
 mem_vazuran_escort_key: "호위함 구역"
-shipsize_mem_vazuran_control_drone_build_cost_mult: ""
+shipsize_mem_vazuran_control_drone_build_cost_mult: " "
 mem_vazuran_cruiser_key: "전투순양함 구역"
-shipsize_mem_vazuran_control_drone_upkeep_mult: ""
+shipsize_mem_vazuran_control_drone_upkeep_mult: " "
 mem_vazuran_weapon_key: "레비아탄 구역"
 mem_vazuran_small_military_station_key: "보루 구역"
 mem_vazuran_large_military_station_key: "요새 구역"
-shipsize_mem_vazuran_combat_drone_construction_speed_mult: ""
+shipsize_mem_vazuran_combat_drone_construction_speed_mult: " "
 
 #planet
 
-shipsize_mem_vazuran_combat_drone_build_cost_mult: ""
+shipsize_mem_vazuran_combat_drone_build_cost_mult: " "
 pc_mem_vazuran_habitat: "선구자 거주지"
-shipsize_mem_vazuran_combat_drone_upkeep_mult: ""
+shipsize_mem_vazuran_combat_drone_upkeep_mult: " "
 pc_mem_vazuran_habitat_tile: "선구자 거주지"
 pc_mem_vazuran_habitat_tile_desc: "선구자 문명에 의해 건설된 고대 거주지입니다."
 pc_mem_vazuran_habitat_habitability: "거주지 적합성"
-shipsize_mem_vazuran_large_military_station_construction_speed_mult: ""
+shipsize_mem_vazuran_large_military_station_construction_speed_mult: " "
 trait_pc_mem_vazuran_habitat_preference: "거주지 선호"
-shipsize_mem_vazuran_large_military_station_build_cost_mult: ""
+shipsize_mem_vazuran_large_military_station_build_cost_mult: " "
 
 #districts
 
-shipsize_mem_vazuran_large_military_station_upkeep_mult: ""
+shipsize_mem_vazuran_large_military_station_upkeep_mult: " "
 
 #Techs
 
 tech_mem_vazuran_xentronium_armor: "젠트로늄 장갑"
 tech_mem_vazuran_xentronium_rounds: "젠트로늄 탄약"
-shipsize_mem_vazuran_small_military_station_construction_speed_mult: ""
+shipsize_mem_vazuran_small_military_station_construction_speed_mult: " "
 tech_mem_vazuran_rift_stabilization: "균열 안정화"
-shipsize_mem_vazuran_small_military_station_build_cost_mult: ""
+shipsize_mem_vazuran_small_military_station_build_cost_mult: " "
 
 #ambient objects
 
-shipsize_mem_vazuran_small_military_station_upkeep_mult: ""
+shipsize_mem_vazuran_small_military_station_upkeep_mult: " "
 mem_vazuran_wreckage_object: "바주란 함선 잔해"
 
 #Components
@@ -223,18 +223,18 @@ mem_vazuran_gateway_DESC: "이 성계와 균열 연결체를 잇는 복구된 �
 
 #Colony attacked by Vazuran Raid
 
-mem_vazuran_gateway_MEGASTRUCTURE_DETAILS: ""
+mem_vazuran_gateway_MEGASTRUCTURE_DETAILS: " "
 mem_vazurans.9.name: "공격당한 식민지"
-mem_vazuran_gateway_CONSTRUCTION_INFO_DELAYED: ""
+mem_vazuran_gateway_CONSTRUCTION_INFO_DELAYED: " "
 mem_vazurans.9.desc.a: "우리 [mem_vazurans_raid_planet_name.Getname] 식민지가 바주란 습격 함대에게 공격을 받았습니다. 셀 수 없이 많은 시민들이 이 무자비한 공격에 목숨을 잃었고, 식민지의 기반시설이 파괴되었습니다.\n\n끔찍하기는 했지만, 행성 방위 체계가 없었다면 그 피해는 더 심각했을 수도 있습니다."
 mem_vazurans.9.desc.b: "우리 [mem_vazurans_raid_planet_name.Getname] 식민지가 바주란 습격 함대에게 공격을 받았습니다. 셀 수 없이 많은 시민들이 이 무자비한 공격에 목숨을 잃었고, 식민지의 기반시설이 파괴되었습니다."
 mem_vazuran_gateway_nexus: "균열 연결체"
 mem_vazurans.9.a: "우리는 견뎌낼 것이다!"
 mem_vazuran_gateway_nexus_DESC: "차원 균열을 통해 순식간에 이동할 수 있게 해주는 연결체."
 mem_vazurans.9.b: "방어 체계를 강화시켜라!"
-mem_vazuran_gateway_nexus_MEGASTRUCTURE_DETAILS: ""
+mem_vazuran_gateway_nexus_MEGASTRUCTURE_DETAILS: "  "
 mem_vazurans.9.c: "국민을 지켜야 하지만... 대체 어떻게?!"
-mem_vazuran_gateway_nexus_CONSTRUCTION_INFO_DELAYED: ""
+mem_vazuran_gateway_nexus_CONSTRUCTION_INFO_DELAYED: " "
 
 #Planetary defense project
 
