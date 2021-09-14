@@ -30,7 +30,7 @@ mem_under_blanket.1.deny: "그들에게는 더 중요한 일이 있습니다."
 
 # First Contact - Second Outcome
 
-mem_under_blanket.2.name: ""
+mem_under_blanket.2.name: "지도자 선정 문제"
 
 # First Contact - Third Outcome
 
@@ -114,6 +114,6 @@ mem_under_blanket.122.desc: "생명체와 접촉하기로 마음먹은 연구팀
 mem_under_blanket.122.a: ""
 mem_under_blanket.123.name: "유산"
 mem_under_blanket.123.desc: ""
-mem_under_blanket.123.a: ""
+mem_under_blanket.123.a: "흥미롭군."
 d_mem_crystalline_caverns: "포식자들의 동굴"
 d_mem_crystalline_caverns_desc: "위험한 맹수들이 지키고 있는 희귀한 결정들로 가득 찬 동굴입니다."
