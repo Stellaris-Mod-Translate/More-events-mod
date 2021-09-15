@@ -63,7 +63,7 @@ mem_under_blanket.2.newbieleader.random: "[mem_under_blanket_newbie_leader_rando
 mem_under_blanket.2.newbieleader.random.tooltip: "[mem_under_blanket_newbie_leader_random.GetName]은(는) 이 작업에 완전히 집중하므로 다른 작업을 수행할 수 없습니다."
 mem_under_blanket.2.randomleader: "[mem_under_blanket_random_leader.GetName]은(는) 유능한 과학자이자 준비된 자원 봉사자입니다."
 mem_under_blanket.2.randomleader.tooltip: "[mem_under_blanket_random_leader.GetName]은(는) 이 작업에 완전히 집중하므로 다른 작업을 수행할 수 없습니다."
-mem_under_blanket.3.name: ""
+mem_under_blanket.3.name: "지상팀"
 mem_under_blanket.3.desc: "우리 탐사대는 퇴적암의 첫 번째 층을 통과했다고 보고했습니다. 지층 주변의 인공 침식의 흔적은 생명체의 존재를 나타냅니다. 이 종의 수천 개체가 근처에 있거나 이 위치를 통과한 것으로 추정됩니다. 팀의 센서는 열 신호가 접근하는 것을 감지했습니다. 어쩔 수 없이 멈춰 섰을 때, 그들은 가까이 있는 바위에서 부스럭거리는 소리를 들었습니다. 이 존재들이 공격적이라면 우리의 소규모 원정대는 순식간에 전멸할 수 있습니다.\n\n접촉이 임박했습니다."
 mem_under_blanket.3.retreat.xenomilit: "모든 대원들에게 알린다 즉시 후퇴하라."
 mem_under_blanket.3.retreat.others: "계속 진행하기엔 너무 위험하다, 후퇴해라."
