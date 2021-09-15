@@ -46,7 +46,7 @@ mem_under_blanket.2.expertleader.tooltip: "[mem_under_blanket_expert_leader.GetN
 
 # Genocide
 
-mem_under_blanket.2.expertleader.random: ""
+mem_under_blanket.2.expertleader.random: "[mem_under_blanket_expert_leader_random.GetName]의 활약상은 주목할만한 것 이상입니다."
 
 # Heritage - First Outcome
 
