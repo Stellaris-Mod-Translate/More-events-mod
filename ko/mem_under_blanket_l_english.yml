@@ -79,7 +79,7 @@ mem_under_blanket.11.desc: "나가는 동안, 그룹은 거의 감지할 수 없
 mem_under_blanket.11.xenomilit: "이 외계인의 해부는 우리가 알지 못한것을 알려 줄 것이다."
 mem_under_blanket.11.others: "관측을 통해 이 외계인들의 비밀을 알아낼 것이다."
 mem_under_blanket.12.name: "후퇴"
-mem_under_blanket.12.desc: ""
+mem_under_blanket.12.desc: "조심스럽게 탐험대원들은 터널 출구 쪽으로 이동했습니다.\n모니터는 이상할 정도로 조용했습니다. 팀은 동굴 입구를 확보하고 외계 생명체를 미스터리로 남겼습니다. 우리 과학자들은 귀중한 건축 정보를 얻기 위해 스캔을 시작할 시간을 가졌습니다.\n\n[mem_under_blanket_selected_leader.GetName]은(는) 상황을 원격으로 계속 모니터링할 계획입니다."
 mem_under_blanket.12.xenomilit: "현장을 폭격하라"
 mem_under_blanket.12.others: "이 새로운 종족은 아직 모든 비밀들이 밝혀지지 않았다."
 mem_under_blanket.20.name: "첫 접촉"
