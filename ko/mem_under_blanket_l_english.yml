@@ -75,7 +75,7 @@ mem_under_blanket.10.desc: "명령을 하달받은 분대는 재빨리 탈출을
 mem_under_blanket.10.xenomilit: "망할 괴물새끼들!"
 mem_under_blanket.10.others: "우린 그들을 기억할 것이다."
 mem_under_blanket.11.name: "후퇴"
-mem_under_blanket.11.desc: ""
+mem_under_blanket.11.desc: "나가는 동안, 그룹은 거의 감지할 수 없는 움직이는 형체가 그림자 속에서 뒤따르고 있다는 것을 간신히 알아차렸습니다. 우리 병사들은 강력한 에너지 볼트로 보이지 않는 형상을 쏘아 위협을 무력화시켰습니다. 가장 유능한 과학자들은 개체를 함선의 독방으로 데려간 후 표본이 여러 DNA 돌연변이를 가진 어린 개체라는 결론을 내렸습니다.\n\n터널의 출구는 그 이후로 봉인되었습니다."
 mem_under_blanket.11.xenomilit: "이 외계인의 해부는 우리가 알지 못한것을 알려 줄 것이다."
 mem_under_blanket.11.others: "관측을 통해 이 외계인들의 비밀을 알아낼 것이다."
 mem_under_blanket.12.name: "후퇴"
