@@ -62,7 +62,7 @@ mem_satellite_cloud.retreat: "후퇴하라!"
 
 # mem_satellite_cloud.shipname:0 "Solar Drone v2.0b"
 
-mem_satellite_cloud.1.name: ""
+mem_satellite_cloud.1.name: "설치미술품"
 
 # mem_satellite_cloud.shipnamejoke:0 "Solar Drone v4.2c"
 
@@ -75,7 +75,7 @@ mem_satellite_cloud.2.desc: ""
 mem_satellite_cloud.3.name: "클라우드 컴퓨팅"
 mem_satellite_cloud.3.desc: "정밀 스캔 후, 우리 과학 조사대는 이 항성 주위를 도는 첨단 에너지 흡수 위성들이 이루는 방대한 네트워크의 존재를 보고했습니다. §Y[Root.GetLeaderName]§!에 의하면 이 위성들은 고장력 광섬유로 연결되어 있는 것으로 보이며, 이는 이들이 흡수한 에너지를 일종의 계산을 수행하는 데 사용되었음을 시사합니다. 비록 위성들은 수리가 불가능할 정도로 손상되었지만, 우리가 발견한 기술 덕에 첨단 컴퓨터 계산에 대한 이해를 한 층 높일 수 있었습니다."
 mem_satellite_cloud.4.name: "관측소"
-mem_satellite_cloud.4.desc: ""
+mem_satellite_cloud.4.desc: "§Y[Root.GetLeaderName]§!은(는) §Y[From.GetName]§! 주변을 도는 수백 개의 접시형 안테나의 존재를 보고했습니다. 이들은 모두 바깥쪽을 향하고 있으며, 항성으로부터 나오는 엄청난 양의 에너지를 이용해 신호를 보내거나 받아 처리하는 일을 했던 것으로 보입니다. 비록 위성들은 수리가 불가능할 정도로 손상되었지만, 이 위성군 덕에 항성 관측에 관한 귀중한 지식을 얻을 수 있었습니다."
 mem_satellite_cloud.5.name: "고철 덩어리"
 mem_satellite_cloud.5.desc: "위성들의 파편이 거대한 구름처럼 모여 항성 주위를 돌고 있습니다. 이들은 한때 연결망을 이루고 있었겠지만, 지금은 항성 주변이라는 혹독한 환경 속에서 거의 알아볼 수 없을 정도로 망가졌습니다. 하지만 우리 업계는 이 외계 위성들의 부서진 잔해조차도 회수해서 고철로 처리할 수 있을 것입니다."
 mem_satellite_cloud.6.name: ""
