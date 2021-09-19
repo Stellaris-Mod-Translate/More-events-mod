@@ -87,7 +87,7 @@ mem_under_blanket.20.desc: "[mem_under_blanket_selected_leader.GetName]이(가) 
 mem_under_blanket.20.xenomilit: "저것들은 노예 노동에 사용할수 있겠군"
 mem_under_blanket.20.others: "우리 시민들은 아마 그들을 받아들일 것입니다."
 mem_under_blanket.21.name: "첫 접촉"
-mem_under_blanket.21.desc: ""
+mem_under_blanket.21.desc: "과학 임무는 큰 방에 대한 조사를 하는 것입니다. 온습도 측정기는 야생 동물을 위해 완벽하게 설계된 초목과 물을 포함하는 열대 생태계를 보여줍니다. 수만 마리의 작은 유기체들이 이곳에서 평화롭게 살고 있는 것 같습니다. 초기 관찰에 따르면 깨어 있는 생물은 동면 중인 생물을 지키는 파수꾼입니다.\n\n[mem_under_blanket_selected_leader.GetName] 및 과학 컨소시엄은 오염을 방지하고 생물을 방해하지 않기 위해 원격으로 연구를 계속할 것입니다."
 mem_under_blanket.21.xenophobe: "현장을 폭격하라,  우린 그 위협을 감수할수 없다"
 mem_under_blanket.21.others: "대단히 매력적인 자급자족이 가능한 종족이군"
 mem_under_blanket.22.name: "첫 접촉"
