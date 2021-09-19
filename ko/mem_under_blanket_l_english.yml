@@ -91,7 +91,7 @@ mem_under_blanket.21.desc: "과학 임무는 큰 방에 대한 조사를 하는 
 mem_under_blanket.21.xenophobe: "현장을 폭격하라,  우린 그 위협을 감수할수 없다"
 mem_under_blanket.21.others: "대단히 매력적인 자급자족이 가능한 종족이군"
 mem_under_blanket.22.name: "첫 접촉"
-mem_under_blanket.22.desc: ""
+mem_under_blanket.22.desc: "우리가 발견한 야생동물은 우리가 처음 예상했던 것보다 훨씬 더 폭력적이고 위험합니다. 우리가 평화롭게 왔다는 것을 알리려고 하는 동안 [mem_under_blanket_selected_leader.GetName]이(가) 짐승의 발톱에 찢겨졌습니다. 임무를 중단하고 구역을 확보해야 했습니다. 핵폭탄급 포탄으로 무장한 중장비 기관포 덕분에 우리는 야수들의 돌진을 쉽게 제압할 수 있었습니다. 지원팀이 출구를 확보하는 동안 긴급 배치된 지원군 뒤에서 수천 발의 총알과 으르렁거리는 소리가 들렸다."
 mem_under_blanket.22.xenomilit: "망할 괴물새끼들!"
 mem_under_blanket.22.others: "유감스러운 손실이군."
 mem_under_blanket.23.name: "첫 접촉"
