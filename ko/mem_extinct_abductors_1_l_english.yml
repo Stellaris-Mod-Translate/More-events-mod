@@ -98,7 +98,7 @@ mem_ea_uplifter_system_4_desc: "냉동 보관실의 기록에 따르면 [mem_ea_
 # Toxic World (Project 1)
 
 mem_ea_uplifter.3.name: "첫번째 성계 도착"
-mem_ea_uplifter.3.desc: "우리는 고대 복합단지의 데이터에서 발견된 첫 번째 성계에 도달했습니다. 이 항성계는 독성 가스의 두꺼운 층 덮인 행성을 가지고 있군요. 우리의 탐사대는 조사 작업을 즉시 시작할 준비가 되어 있습니다."
+mem_ea_uplifter.3.desc: "우리는 고대 복합단지의 데이터에서 발견된 첫 번째 성계에 도달했습니다. 이 성계는 독성 가스의 두꺼운 층 덮인 행성을 가지고 있군요. 우리의 탐사대는 조사 작업을 즉시 시작할 준비가 되어 있습니다."
 mem_ea_uplifter.3.a: "그리하도록."
 
 # Molten World (Project 2)
