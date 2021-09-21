@@ -117,7 +117,7 @@ mem_sadrell.131.total_war: "원격 추적기가 §Y[gate_system.GetName]§ 성�
 mem_sadrell.131.vassalized: "원격 추적기가 §Y[gate_system.GetName]§ 성계에서 활동 급증을 감지했습니다. §S오펀 게이트§!가 활성화된 것으로 보입니다. \n\n[message_receiver.GetName]은(는) 다른 쪽의 항성 제국과 연락을 취한 것 같습니다. 항성 제국은 이전에 소유권을 주장했던 영토의 일부를 양도할 것을 요청했습니다. 합의가 이루어졌고 새로운 이민자들이 속국으로 영토를 통제할 수 있게 되었습니다."
 mem_sadrell.131.formed_federation: "원격 추적기가 §Y[gate_system.GetName]§ 성계에서 활동 급증을 감지했습니다. §S오펀 게이트§!가 활성화된 것으로 보입니다. \n\n[message_receiver.GetName]은(는) 다른 쪽의 항성 제국과 연락을 취한 것 같습니다. 항성 제국은 이전에 소유권을 주장했던 영토의 일부를 양도할 것을 요청했습니다. 합의에 도달했고 두 국가는 통치 협약의 일환으로 연방을 구성했습니다."
 mem_sadrell.131.federation_breakdown: "원격 추적기가 §Y[gate_system.GetName]§ 성계에서 활동 급증을 감지했습니다. §S오펀 게이트§!가 활성화된 것으로 보입니다. \n\n[message_receiver.GetName]은(는) 다른 쪽의 항성 제국과 연락을 취한 것 같습니다. 항성 제국은 이전에 소유권을 주장했던 영토의 일부를 양도할 것을 요청했습니다. 합의에 도달했으며 [message_receiver.GetName]은(는) 새 회원과 하나를 형성하기 위해 이전 연합을 떠났습니다."
-mem_sadrell.131.joined_federation: ""
+mem_sadrell.131.joined_federation: "원격 추적기가 §Y[gate_system.GetName]§ 성계에서 활동 급증을 감지했습니다. §S오펀 게이트§!가 활성화된 것으로 보입니다. \n\n[message_receiver.GetName]은(는) 다른 쪽의 항성 제국과 연락을 취한 것 같습니다. 항성 제국은 이전에 소유권을 주장했던 영토의 일부를 양도할 것을 요청했습니다. 합의에 도달했으며 새 이민자가 통치 협약의 일부로 [message_receiver.GetAllianceName]에 합류했습니다."
 mem_sadrell.201.name: "$mem_sadrell.102.name$"
 mem_sadrell.201.desc: ""
 mem_sadrell.202.desc: ""
