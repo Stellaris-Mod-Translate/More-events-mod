@@ -102,7 +102,7 @@ mem_under_blanket.23.tooltip: "팝 하나가 사망했으며 §R위험한 자연
 mem_under_blanket.23.xenomilit: "저주받을 괴물새끼들!"
 mem_under_blanket.23.others: "끔찍한 비극이군"
 mem_under_blanket.120.name: "담요 밑에"
-mem_under_blanket.120.desc: ""
+mem_under_blanket.120.desc: "우리 탐사선은 그곳의 주인들에 의해 파괴되기 전에 지하 화랑에서 임무를 마쳤습니다. 수집한 데이터의 추가적인 분석은 이 미지의 유기체에 대한 더한 경계감을 느끼게 합니다, 관측수치는 그것이 계속 확장되고 성장하는 경향이 있다는 것을 보여주는데, 이것은 그 괴물이 [Root.GetName]에 어떤 불안정성이나 해를 끼치지 않더라도 그 자체로 위험할 수 있다는 것을 보여줍니다.\n\n[mem_under_blanket_selected_leader]가 이끄는 과학 부서는다.GetName]은 이 유기종이 필수 영양분을 공급하고 가스를 방출하는 결정을 섭취해서 살아가는 것처럼 보인다고 결론을 내렸습니다. [Root.GetName]의 지도부는 이러한 전략적 결정체를 채굴하여 통제할 수 없는 위협을 제거하는 것이 중요하다고 촉구합니다."
 mem_under_blanket.120.noxenophile: "전략적 자원의 우선순위를 정해야 합니다."
 mem_under_blanket.120.all: "그들을 해치지 말라, 호위를 보내라."
 mem_under_blanket.121.name: "학살"
