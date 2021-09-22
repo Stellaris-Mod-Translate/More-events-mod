@@ -31,7 +31,7 @@ mem_rebel_yell.1.a.tooltip: "신호의 발원지를 찾기 위해선 [From.GetNa
 #  mem_rebel_yell_silver_lining_category_desc:0 "We are detecting the presence of a large metallic object within the asteroid ice of [This.GetName]. The profile matches the shape of a military space ship."
 
 mem_rebel_yell.1.b: "기록해두어라."
-mem_rebel_yell.1.b.tooltip: "$mem_rebel_yell.1.a.tooltip$ \n§Y관심의 대상§!이 상황 기록에 추가됩니다."
+mem_rebel_yell.1.b.tooltip: "$mem_rebel_yell.1.a.tooltip$ \n§Y관심 지점§!이 상황 기록에 추가됩니다."
 mem_rebel_yell.poi.1.name: "[the_system.GetName] 성계"
 mem_rebel_yell.poi.1.desc: "우린 여기에 전초기지를 건설하고 유지해야 할 것입니다."
 mem_rebel_yell.2.name: "[the_system.GetName] 성계에서의 신호"

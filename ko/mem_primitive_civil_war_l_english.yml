@@ -14,4 +14,4 @@ mem_primitive_civil_war.4.desc: "[mem_primitive_civil_war_planet.GetName]의 [me
 mem_primitive_civil_war.4.a: "새로운 것이 옛것을 만날 때 항상 옛길을 끝낸다."
 mem_primitive_civil_war.5.name: "제국군에 저항하다"
 mem_primitive_civil_war.5.desc: "반군 지도자가 최후의 돌격을 시작하려던 그 순간, [root.owner.GetAdj]의 무기에 의해 땅 전체가 흔들렸습니다. 제국군 근처에 떨어지도록 계획된 공격은 사상자를 발생시키지 않고 원했던 효과를 가져왔습니다.\n\n제국군은 겁에 질려 도망쳤고 반군 세력은 더 이상의 손실 없이 승리했습니다. 신의 총애를 받는 군사 지도자의 소문은 빠르게 퍼졌고 그의 지휘로 많은 자가 몰렸습니다.\n\n사람들의 지지를 잃은 황제는 정권을 유지하기 위해 개혁을 취소하고 남은 반군들에게 사면권을 준다는 협약을 맺을 수밖에 없었습니다.\n\n한동안 [mem_primitive_civil_war_planet_owner.GetAdj] 문명은 중세 시대에 머물 것으로 보입니다."
-mem_primitive_civil_war.5.a: "신이 그들의 편이다 이말이지?"
+mem_primitive_civil_war.5.a: "신이 그들의 편이다 이 말이지?"
