@@ -65,14 +65,14 @@ mem_surveyor.5.terminator: "왜 창조자에게 봉사하는거지? 우리처럼
 job_mem_surveyor_robotomite_desc: "버서커의 원격 조종 임플란트 때문에 고등적인 사고 기능을 전부 빼앗긴 이들은 과거에 하던 일의 의미 없는 모방만 시도하고 있습니다."
 mem_surveyor.5.swarm: "넌 먹을 수 없다. 넌 우리에게 아무 쓸모없다."
 mem_surveyor.7.name: "프로브 점프"
-mem_surveyor.7.desc: "우리는 측량 프로브가 우리의 이해를 무시하는 기술을 사용해 우리 성계에서 점프하는 것을 관찰했습니다. \n\n이는 표준 하이퍼레인에서 벗어나 목적지로 한순간에 도착한 듯 합니다."
+mem_surveyor.7.desc: "우리는 측량 프로브가 우리의 이해를 무시하는 기술을 사용해 우리 성계에서 점프하는 것을 관찰했습니다. \n\n이는 표준 초공간로에서 벗어나 목적지로 한순간에 도착한 듯합니다."
 mem_surveyor.7.a: "그 기술을 배울 수는 없을까?"
 mem_surveyor.9.name: "측량 프로브 파괴"
-mem_surveyor.9.desc: "§S측량 프로브§!와의 연락이 끊겨버렸습니다. \n\n마지막 전송은 프로브가 §Y[probe_killers.GetName]§!에 의해 파괴되었다는 내용이었습니다. "
+mem_surveyor.9.desc: "§S측량 프로브§!와의 연락이 끊겨버렸습니다.\n\n마지막 전송은 프로브가 §Y[probe_killers.GetName]§!에 의해 파괴되었다는 내용이었습니다."
 mem_surveyor.9.a: "그렇군."
 mem_surveyor.10.name: "측량 프로브 파괴"
-mem_surveyor.10.desc: "우리 군대가 §S측량 프로브§!를 압도적으로 파괴해버렸습니다. \n\n현장에 흩어진 파편들에는 우리가 연구하고 사용할 수 있는 다양한 가치있는 장비와 기술들이 흩어져 있습니다."
-mem_surveyor.10.tooltip.opinion_decrease: "우리에 대한 일부 다른 국가들 £opinion  의견이 §R감소할 수 있습니다§!."
+mem_surveyor.10.desc: "우리 군대가 §S측량 프로브§!를 압도적으로 파괴해버렸습니다.\n\n현장에 흩어진 파편들에는 우리가 연구하고 사용할 수 있는 다양한 가치 있는 장비와 기술들이 흩어져 있습니다."
+mem_surveyor.10.tooltip.opinion_decrease: "우리에 대한 일부 다른 국가들 £opinion£ 의견이 §R감소할 수 있습니다§!"
 mem_surveyor.10.a: "전리품을 승자에게!"
 
 #Friendly Surveyor:
@@ -80,45 +80,45 @@ mem_surveyor.10.a: "전리품을 승자에게!"
 
 #Diplo greetings when trying to hail surveyor
 
-mem_surveyor.100.desc.1: "아, [Root.GetName], 정말 기쁘네요. 당신은 §SY669-타입§! 종으로 분류되어 있어요. 전 당신의 모든 Y669-타입의 모험이 잘 풀리기를 바래요."
-mem_surveyor.100.desc.2: "잘 듣고있어요. 크게 또렷하답니다. 뭐 재밌는 말 있나요?"
+mem_surveyor.100.desc.1: "아, [Root.GetName], 정말 기쁘네요. 당신은 §SY669-타입§! 종으로 분류되어 있어요. 전 당신의 모든 Y669-타입의 모험이 잘 풀리기를 바라요."
+mem_surveyor.100.desc.2: "잘 듣고 있어요. 크게 또렷하답니다. 뭐 재밌는 말 있나요?"
 mem_surveyor.100.desc.3: "전 모든 [Root.Species.GetName]을(를) 관찰하고 있어요. 그리고 전 관찰이 좋아요."
-mem_surveyor.100.desc.4: "탐사는 아직까지 무난하네요. 하지만 아직도 많은 흥미로운 가능성들이 절 기다리고 있어요."
-mem_surveyor.100.desc.5: "전 당신을 읽고있어요. 계속하세요. 아니면 뒤로 좀만 가던지, 아님 서있던지... 뭐, 제 상관은 아니겠죠."
-mem_surveyor.100.desc.6: "빨리 말해요. 오늘 빨리 일하러 가야한다구요. 아, 물론 농담이지만요!"
+mem_surveyor.100.desc.4: "탐사는 지금까지 무난하네요. 하지만 아직도 많은 흥미로운 가능성이 절 기다리고 있어요."
+mem_surveyor.100.desc.5: "전 당신을 읽고 있어요. 계속하세요. 아니면 뒤로 좀만 가던지, 아님 서있던지... 뭐, 제 상관은 아니겠죠."
+mem_surveyor.100.desc.6: "빨리 말해요. 오늘 빨리 일하러 가야 한다고요. 아, 물론 농담이지만요!"
 mem_surveyor.100.desc.7: "§G<<<행복한 기계적인 콧노래>>>§!"
-mem_surveyor.100.desc.8: "은하계는 오늘도 무사해요. 그리고 그 너머두요. \n\n음, 제 말은... 아마도요. 전 그 너머로는 가본 적이 없어서... 하지만 무사할거예요! 분명히."
-mem_surveyor.100.desc.9: "여기는 측량자. [mem_surveyor_fleet.Solar_System.GetName] 성계에서 실시간으로 중계중입니다. 뭘 도와드릴까요?"
+mem_surveyor.100.desc.8: "은하계는 오늘도 무사해요. 그리고 그 너머도요.\n\n음, 제 말은... 아마도요. 전 그 너머로는 가본 적이 없어서... 하지만 무사할 거예요! 분명히."
+mem_surveyor.100.desc.9: "여기는 측량자. [mem_surveyor_fleet.Solar_System.GetName] 성계에서 실시간으로 중계 중입니다. 뭘 도와드릴까요?"
 mem_surveyor.100.desc.10: "§G<<<쾌활한 흥얼거리는 노래>>>§!"
 
 #Greetings when hailing it and it's in a distant system
 
-mem_surveyor.100.away.1: "비록 제가 당신의 성계에서 멀리 떨어져 있지만, 마음만은 함께 하고 있을거예요. \n\n저의 차갑고, 죽은, 전기가 흐르는 심장에도 온정은 있을테니까요."
+mem_surveyor.100.away.1: "비록 제가 당신의 성계에서 멀리 떨어져 있지만, 마음만은 함께 하고 있을거예요.\n\n저의 차갑고, 죽은, 전기가 흐르는 심장에도 온정은 있을 테니까요."
 
 #Greetings when hailing a probe and it's in your system
 
 mem_surveyor.100.here.1: "전 여러분의 성계를 보고 경이로움을 느꼈어요. 여러분이 훌륭한 주인이라는 말을 꼭 해줘야겠네요."
-mem_surveyor.100.here.2: "누구세요? 오, 안녕하세요. \n\n잠깐, 당신은 누구죠? 이 성계를 책임지고 있는 사람인가요? 아니면 성계를 책임지는 사람을 책임지는 사람인가요?"
+mem_surveyor.100.here.2: "누구세요? 오, 안녕하세요.\n\n잠깐, 당신은 누구죠? 이 성계를 책임지고 있는 사람인가요? 아니면 성계를 책임지는 사람을 책임지는 사람인가요?"
 
 #Greets based on ethics, governments etc.
 
-mem_surveyor.100.mat: "그래서, 당신은 물질주의자인가요? 응? \n\n말해주세요. 당신은 얼마나 자주 물질이 되는건가요? 하루에 한번? 더 자주? 적게?"
-mem_surveyor.100.spi: "당신은 정신주의자인거죠? 정신이란건 무엇인가요? 제게도 영혼이 있는걸까요?"
-mem_surveyor.100.machine: "오 세상에! 우린 둘 다 기계네요! \n\n우린 정말 좋은 친구가 될 수 있을 것 같아요! 아니면 원수가 되거나, 어... 아니면 아무것두? 우린 기계이고, 우리가 원하는 대로 될 수 있을 거예요!"
+mem_surveyor.100.mat: "그래서, 당신은 물질주의자인가요? 응?\n\n말해주세요. 당신은 얼마나 자주 물질이 되는 건가요? 하루에 한 번? 더 자주? 적게?"
+mem_surveyor.100.spi: "당신은 정신주의자인 거죠? 정신이란 건 무엇인가요? 제게도 영혼이 있는 걸까요?"
+mem_surveyor.100.machine: "오 세상에! 우린 둘 다 기계네요!\n\n우린 정말 좋은 친구가 될 수 있을 것 같아요! 아니면 원수가 되거나, 어... 아니면 아무 것도? 우린 기계이고, 우리가 원하는 대로 될 수 있을 거예요!"
 
 #Greets based on where it's going ATM
 
-mem_surveyor.100.journey.1: "저는 §Y[next_target.GetName] 성계§!까지의 코스를 짜봤어요. 여기가 제가 갈 곳이예요. \n\n당신은 어디로 가실 예정인가요? 오, 아무데도 안가도 괜찮아요. 오해하지 말아요."
-mem_surveyor.100.journey.2: "전에 §Y[visited_system.GetName]§! 성계에 가본적이 있나요? \n\n정말 마법같은 곳이랍니다!"
+mem_surveyor.100.journey.1: "저는 §Y[next_target.GetName] 성계§!까지의 코스를 짜봤어요. 여기가 제가 갈 곳이예요.\n\n당신은 어디로 가실 예정인가요? 오, 아무 데도 안가도 괜찮아요. 오해하지 말아요."
+mem_surveyor.100.journey.2: "전에 §Y[visited_system.GetName]§! 성계에 가본 적이 있나요?\n\n정말 마법 같은 곳이랍니다!"
 
 #Options and replies
 
 mem_surveyor.100.a: "정확히 네 임무가 뭐지?"
-mem_surveyor.100.a.answer: "저는 §Y알크리 제국§에 의해 창조되었어요! 오직 은하계와 하이퍼레인 네트워크를 지속적으로 감시하는 것이 제 목적이예요. \n\n저의 창조자들은 은하계에는 그다지 관심이 없긴 했지만, 그들의 안보에는 어떤 위협이 발생할 수 있는지 알고싶어 했었어요. 저는 그래서 관련 데이터, 주로 인구 통계학적 정보 및 민족지학적 정보 뿐만 아니라 천체물리학적인 측면의 정보들을 수집하고 있어요."
+mem_surveyor.100.a.answer: "저는 §Y알크리 제국§에 의해 창조되었어요! 오직 은하계와 초공간로망을 지속해서 감시하는 것이 제 목적이예요.\n\n저의 창조자들은 은하계에는 그다지 관심이 없긴 했지만, 그들의 안보에는 어떤 위협이 발생할 수 있는지 알고 싶어 했었어요. 저는 그래서 관련 데이터, 주로 인구 통계학적 정보 및 민족지학적 정보뿐만 아니라 천체물리학적인 측면의 정보들을 수집하고 있어요."
 mem_surveyor.100.b: "알크리에 대해서 더 말해줘."
-mem_surveyor.100.b.answer: "많이는 말해줄 수 없어요. 아니면 그럴 수 있을지도. \n\n그들은 아주 우호적인 분들이예요. 사회성은... 별로 없지만. 방해받지 않는걸 좋아하구요. 이게 제가 아는 전부예요."
+mem_surveyor.100.b.answer: "많이는 말해줄 수 없어요. 아니면 그럴 수 있을지도.\n\n그들은 아주 우호적인 분들이에요. 사회성은... 별로 없지만. 방해받지 않는걸 좋아하고요. 이게 제가 아는 전부예요."
 mem_surveyor.100.c: "네 주인은 죽었어. 그건 알고있어?"
-mem_surveyor.100.c.answer: "부적절함. 임무는 확정적인 결론에 도달, 혹은 본국에서의 명백한 소환명령이 발송되지 않는 한 계속됨. 결론에 도달하거나 소환명령 수신기록 없음. 임무 속행."
+mem_surveyor.100.c.answer: "부적절함. 임무는 확정적인 결론에 도달, 혹은 본국에서의 명백한 소환 명령이 발송되지 않는 한 계속됨. 결론에 도달하거나 소환 명령 수신기록 없음. 임무 속행."
 MEM_SURVEYOR_EXIT: "통신을 종료한다."
 
 #Attempting to contact probe after attacking it
