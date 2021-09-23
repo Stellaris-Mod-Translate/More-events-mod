@@ -397,17 +397,17 @@ mem_vazurans.282.a: "잘했어!"
 # Player is informed of Vazurans committing genocide
 
 mem_vazurans.306.name: "바주란의 잔악행위"
-mem_vazurans.306.desc: "바주란이 [mem_vazurans_extermination_target.GetSpeciesNamePlural] 종족과 [mem_vazurans_extermination_target.GetName]을(를) 완전히 없애버리려는 군사 작전을 펼치고 있다는 보고를 받았습니다. 대체 왜 이런 잔악행위를 펼치는 것인지는 명확히 밝혀진 것이 없습니다. 하지만 분명한 것은, [mem_vazurans_extermination_target.GetSpeciesNamePlural]들이 승산없는 전투를 벌이고 있다는 것입니다. 이들의 멸망은 이제 시간문제입니다."
+mem_vazurans.306.desc: "바주란이 [mem_vazurans_extermination_target.GetSpeciesNamePlural] 종족과 [mem_vazurans_extermination_target.GetName]을(를) 완전히 없애버리려는 군사 작전을 펼치고 있다는 보고를 받았습니다. 대체 왜 이런 잔악 행위를 펼치는 것인지는 명확히 밝혀진 것이 없습니다. 하지만 분명한 것은, [mem_vazurans_extermination_target.GetSpeciesNamePlural]들이 승산이 없는 전투를 벌이고 있다는 것입니다. 이들의 멸망은 이제 시간문제입니다."
 mem_vazurans.306.a: "정말 끔찍하군..."
 
 # Galactic Resolutions
 
 resolution_mem_galactic_focus_crisis_vazurans_1: "바주란의 위협: 식민지 방어"
 resolution_mem_galactic_focus_crisis_vazurans_1_desc: "바주란 함대가 온 은하를 공격하기에 은하에 안전한 식민지는 존재하지 않다는 것이 확실해졌습니다. 이 결의안으로 은하 공동체 회원국들은 바주란 군대의 공격 패턴과 식민지를 보호할 대책에 대한 지식을 공유하게 될 것입니다."
-resolution_galactic_focus_crisis_vazurans_1_effect_success: "식민지들이 바주란의 폭격으로부터 더 적은 황폐화를 얻게되고 POP의 손실도 줄어들게 될 것입니다."
+resolution_galactic_focus_crisis_vazurans_1_effect_success: "식민지들이 바주란의 폭격으로부터 더 적은 황폐화를 얻게 되고 POP의 손실도 줄어들게 될 것입니다."
 mem_vazurans.40.desc: "바주란과의 접촉 후 균열 내부로 보낸 드론들의 데이터에 의하면, 균열은 자연적으로 발생하는 웜홀과 상당히 비슷한 구조였습니다. 하지만 웜홀과는 달리 이 균열은 인위적으로 만들어진 것으로 보입니다. 우리 [root.GetScientistResearchSubrout]들은 이것이 어떻게 가능한지에 대해 설명을 하지 못하는 상황입니다.\n\n추가적인 정보를 얻기 전까진 이 균열들이 어디든지 열릴 수 있다고 가정해야 합니다. 우린 상시경계하고 있어야 합니다."
 resolution_mem_galactic_focus_crisis_vazurans_2: "바주란의 위협: 판 뒤집기"
-resolution_mem_galactic_focus_crisis_vazurans_2_desc: "은하 공동체는 너무 오랫동안 바주란의 공격에 무방비한 채로 있었습니다. 저들의 맹공격으로부터 살아남기 위해 이제 서로 힘을 합쳐 상대해야할 시간입니다."
+resolution_mem_galactic_focus_crisis_vazurans_2_desc: "은하 공동체는 너무 오랫동안 바주란의 공격에 무방비한 채로 있었습니다. 저들의 맹공격으로부터 살아남기 위해 이제 서로 힘을 합쳐 상대해야 할 시간입니다."
 mem_vazurans.50.name: "전투는 끝났다"
 mem_vazurans.50a.desc: "우리 함대는 [root.capital_scope.GetName]에서의 격렬한 전투 후 승리했습니다. 남은 바주란 함선들은 전부 후퇴 중입니다. 아직 우리의 손실은 집결되고 있지만 많은 함선이 반파되었으며 일부는 버려져야 했습니다. 하지만 이는 가치 있는 희생이었습니다. 이제 그들은 우리를 함부로 공격하지 못할 것입니다."
 mem_vazurans.50b.desc: "우리 함대는 바주란 함선들을 막아내는 데에 실패했습니다. 그들은 우리 수도를 폭격하고 황무지로 만들었습니다. 도시들을 집중으로 공격했기에 사상자는 수십억 명에 달하며 물질적인 피해의 복구에만 수년이 걸릴 것입니다.\n\n그들이 우리를 침공할 때 사용한 균열이 닫히고 있습니다. 하지만 이번엔 매우 느리게 벌어지고 있습니다. 우리 과학자들은 이 거대한 균열은 소멸하지 않을 것으로 예측합니다. 이는 걱정이면서도 우리에게 큰 기회가 됩니다. 우리가 이 균열을 안정시킨다면, 죽은 자들의 복수를 하기 위해 바주란의 본진을 칠 수 있을 것입니다."
@@ -473,5 +473,5 @@ mem_vazurans.260.name: "에너지 전달 방해"
 mem_vazurans.260.desc: "회수된 완충막 생성기에 여러 실험을 진행해본 결과, [root.GetScientistResearchSubrout]은(는) 완충막의 원리를 이해하는 데에 성공했습니다. 소멸할 때까지 날아오는 공격의 에너지를 흡수하는 우리의 방어막 기술과는 다르게, 이 발전기는 공격이 담은 에너지의 극히 일부만 목표물에 도착하도록 하는 막을 상시로 전개하고 있습니다.\n\n이 방식은 모든 무기에 유효하지만, 실험에 의하면 에너지 무기를 상대로 가장 유효하다고 합니다. 마음만 같아선 이 기술을 바로 우리 함선들에 적용하고 싶지만, 우리 연구진들은 이 완충막에서 치명적인 문제를 발견했습니다. 에너지 전달의 방해는 완충막의 외부에서 오는 에너지뿐만이 아니라 내부에서 발생하는 에너지에도 영향을 끼치는 것으로 보입니다. 현재까지로 썬 우리 함선들을 완충막의 영향으로부터 지킬 방법이 발견되지 않았습니다.\n\n우리 [root.GetScientistResearchSubrout]들은 이 기술의 근본적인 내용만 이해하는 데에 성공했습니다. 하지만 이는 바주란의 기술적 우위를 무력화시키는 데에 한 걸은 다가선 것이며 우리의 승산을 크게 높였습니다."
 mem_vazurans.260.a: "흥미롭군."
 mem_vazurans.280.a: "당장 그곳을 벗어나라!"
-mem_vazurans.282.desc.gestalt: "오늘은 역사적인 날입니다. 바주란 위협은 드디어 제거되었습니다. [root.GetName]은 더 이상 그들의 공포에 떨면서 살지 않아도 됩니다.\n\n바주란의 잔존 군대가 남은 영토라도 지키기 위해 결사적인 저항을 펼쳤기에 우리 또한 큰 희생을 치루어야 했습니다. 그리고 패배가 확실해졌을 때, 그들은 자폭 장치를 가동시켜 생존이 가능한 지역을 전부 날려버렸습니다.\n\n하지만 우리 전투 드론들은 빈손이 아니었습니다. 기술 회수의 목적으로 보내진 특수 임무 드론들 중 하나가 바주란 장갑의 주 재료인 젠트로늄의 합성법을 담은 데이터 코어를 회수하는 데에 성공했습니다. 젠트로늄의 특성, 특히 그 높은 밀도를 고려하면 이를 우리 장갑 뿐만이 아니라 포탄 기술에도 큰 진전이 될 것으로 보입니다."
-resolution_galactic_focus_crisis_vazurans_2_effect_success: "바주란 함선에서 회수한 전략전 데이터와 아광속 엔진 기술의 발전은 공격받는 식민지들에 제 시간 내에 도착하고 적과 맞서는 데에 도움이 될 것입니다."
+mem_vazurans.282.desc.gestalt: "오늘은 역사적인 날입니다. 바주란 위협은 드디어 제거되었습니다. [root.GetName]은(는) 더는 그들의 공포에 떨면서 살지 않아도 됩니다.\n\n바주란의 잔존 군대가 남은 영토라도 지키기 위해 결사적인 저항을 펼쳤기에 우리 또한 큰 희생을 치러야 했습니다. 그리고 패배가 확실해졌을 때, 그들은 자폭 장치를 가동해 생존이 가능한 지역을 전부 날려버렸습니다.\n\n하지만 우리 전투 드론들은 빈손이 아니었습니다. 기술 회수의 목적으로 보내진 특수 임무 드론 중 하나가 바주란 장갑의 주재료인 젠트로늄의 합성법을 담은 데이터 코어를 회수하는 데에 성공했습니다. 젠트로늄의 특성, 특히 그 높은 밀도를 고려하면 이를 우리 장갑뿐만이 아니라 포탄 기술에도 큰 진전이 될 것으로 보입니다."
+resolution_galactic_focus_crisis_vazurans_2_effect_success: "바주란 함선에서 회수한 전략적 데이터와 아광속 엔진 기술의 발전은 공격받는 식민지들에 제 시간 내에 도착하고 적과 맞서는 데에 도움이 될 것입니다."
