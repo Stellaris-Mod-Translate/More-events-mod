@@ -24,7 +24,7 @@ mem_towers.100.name: "유황 숲"
 
 #  mem_towers.102.a:0 "Make it happen."
 
-mem_towers.100.desc: "아무래도 우리가 탐지한 구조물들은 방대한 양의 지열 에너지를 기반으로 살아가고 있는 거대한 생물체들이었던 것으로 보입니다.\n\n산호와 같은 구조를 이루는 황 기반의 생물체들이 행성의 지열 발생 장소들에 엉겨붙어 마치 행성을 덮는 숲이라는 환상을 줍니다."
+mem_towers.100.desc: "아무래도 우리가 탐지한 구조물들은 방대한 양의 지열 에너지를 기반으로 살아가고 있는 거대한 생물체들이었던 것으로 보입니다.\n\n산호와 같은 구조를 이루는 황 기반의 생물체들이 행성의 지열 발생 장소들에 엉겨 붙어 마치 행성을 덮는 숲이라는 환상을 줍니다."
 
 #  mem_towers.102.b:0 "On second thought, let's not do it."
 
@@ -36,7 +36,7 @@ mem_towers.100.b: "저 생명체들 중 일부를 우리 행성에도 심어보�
 
 #  mem_towers.103.desc:0 "After thorough examination, we were unable to find any viable candidates to house the highly sensitive and picky samples of sulfuric life we found on [the_planet.GetName]."
 
-mem_towers.100.b.tooltip: "£society£ 사회학과 £energy£ 에너지 크레딧 생산량을 증가시키는 대신 거주 적합도를 떨어뜨리는§Y$decision_mem_towers_transplant$§! 디시젼을 일반 행성(가이아, 아콜로지, 거대 구조물 제외)에서 해금합니다"
+mem_towers.100.b.tooltip: "￡society￡ 사회학과 ￡energy￡ 에너지 크레딧 생산량을 증가시키는 대신 거주 적합도를 떨어뜨리는§Y$decision_mem_towers_transplant$§! 결정을 일반 행성(가이아, 아콜로지, 거대 구조물 제외)에서 해금합니다"
 
 #  mem_towers.103.a:0 "That's a shame."
 
@@ -58,8 +58,8 @@ mem_towers.200.a: "그들과 통신을 시도하라."
 mem_tower.200.b: "쓰레기를 뒤질 조사대를 보내라."
 mem_tower.200.c: "방해가 되지 않게 관찰하라."
 mem_towers.210.name: "신호 해독됨."
-mem_towers.210.desc: "[Root.GetName]의 보고에 의하면 [the_planet.GetName]의 쓰레기 정리 기계들 간의 대화의 해독에 성공했다고 합니다. 보아하니 그들은 "§Y브리게디어§!"라는 인공 지능의 명령을 따르고 있는 것으로 보입니다.\n\n브리게디어는 우리를 발견하였으며 우리와 통신을 시도하고 있습니다. 아무래도 인식 소프트웨어가 망가져 우리가 창조주라 생각하는 듯 합니다."
-mem_towers.211.desc: "창조주님들인가요? 어째서 돌아오시지 않으시죠?\n\n우리는 명령에 따르지만...창조주님은 돌아오시지 않습니다.\n\n부탁입니다, 돌아와주십시오."
+mem_towers.210.desc: "[Root.GetName]의 보고에 의하면 [the_planet.GetName]의 쓰레기 정리 기계 간의 대화의 해독에 성공했다고 합니다. 보아하니 그들은 "§Y브리게디어§!"라는 인공 지능의 명령을 따르고 있는 것으로 보입니다.\n\n브리게디어는 우리를 발견하였으며 우리와 통신을 시도하고 있습니다. 아무래도 인식 소프트웨어가 망가져 우리가 창조주라 생각하는 듯합니다."
+mem_towers.211.desc: "창조주님들인가요? 어째서 돌아오지 않으시죠?\n\n우리는 명령에 따르지만...창조주님은 돌아오시지 않습니다.\n\n부탁입니다, 돌아와 주십시오."
 mem_towers.211.a: "새로운 명령이 있다."
 mem_towers.211.a.tooltip: "브리게디어는 총리로 우리 제국의 일부가 됩니다."
 mem_towers.211.b: "잘하고 있으니 계속하도록."
