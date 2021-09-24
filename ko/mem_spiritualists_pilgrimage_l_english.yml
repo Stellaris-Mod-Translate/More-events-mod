@@ -8,7 +8,7 @@
 
 mem_spiritualists_pilgrimage.2.name: "거부된 순례자"
 mem_spiritualists_pilgrimage.2.a: "외교적 위험을 무릅쓸수는 없지. 허가해!"
-mem_spiritualists_pilgrimage.2.desc: ""
+mem_spiritualists_pilgrimage.2.desc: "§Y[pilgrims_destination.GetName]§!의 총독이 순례자들의 성지 방문을 불허했습니다. 총독이 접근을 불허한 이유는 밝혀지지 않았습니다. 이는 매우 터무니없는 일이며, 순례자들의 통행을 계속 방해한다면 이 일은 잊히지 않을 것입니다!"
 mem_spiritualists_pilgrimage.2.b: "통과시켜. 다만 우리 눈에 잘 보이게 말이지."
 mem_spiritualists_pilgrimage.2.c: "총독이 왜 그런 선택을 내렸는지 먼저 알아봐."
 mem_spiritualists_pilgrimage.3.name: "순례자의 기쁨"
